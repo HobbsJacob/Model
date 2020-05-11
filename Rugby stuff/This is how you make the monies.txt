@@ -1,0 +1,11 @@
+betting 5 train
+delete 96
+this it it boysh
+filteredclassifier
+correlation
+ranker
+29
+10 epochs
+5 batches
+layers 29,16
+output attributes 1,2
