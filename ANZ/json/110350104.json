@@ -826,16 +826,16 @@
     "period": 4,
     "matchType": "H",
     "finalCode": "",
-    "homeSquadId": 802,
+    "homeSquadId": 809,
     "periodCompleted": 4,
     "finalShortCode": "",
-    "venueName": "Stadium 2000",
+    "venueName": "Auckland Netball Centre",
     "matchStatus": "complete",
     "roundNumber": 1,
     "utcStartTime": "2020-03-15T03:10:00Z",
     "venueId": 2327,
     "periodSeconds": 900,
-    "awaySquadId": 803,
+    "awaySquadId": 805,
     "venueCode": "S2000",
     "localStartTime": "2020-03-15T16:10:00+13:00",
     "matchId": 110350101,
@@ -4286,13 +4286,13 @@
   "teamInfo": {"team": [
     {
       "squadName": "Mainland Tactix",
-      "squadNickname": "Mystics",
+      "squadNickname": "Magic",
       "squadCode": "TAC",
       "squadId": 802
     },
     {
       "squadName": "Central Pulse",
-      "squadNickname": "Tactix",
+      "squadNickname": "Mystics",
       "squadCode": "PUL",
       "squadId": 803
     }
