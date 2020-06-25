@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 15.0,
+      "behinds" : 18.0,
+      "superGoals" : null,
+      "kicks" : 248.0,
+      "handballs" : 193.0,
+      "disposals" : 441.0,
+      "marks" : 113.0,
+      "bounces" : 5.0,
+      "tackles" : 55.0,
+      "contestedPossessions" : 172.0,
+      "uncontestedPossessions" : 273.0,
+      "totalPossessions" : 445.0,
+      "inside50s" : 58.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 19.0,
+      "hitouts" : 37.0,
+      "onePercenters" : 43.0,
+      "disposalEfficiency" : 75.7,
+      "clangers" : 54.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1805.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 34.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 42.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-05T01:28:00.738+0000",
+      "turnovers" : 70.0,
+      "intercepts" : 83.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 35.0,
+      "goalEfficiency" : 25.9,
+      "shotEfficiency" : 60.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 83.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "COLL",
+      "teamName" : "Collingwood",
+      "teamNickname" : "Magpies"
+    },
+    "teamId" : "CD_T40",
+    "lastUpdated" : "2019-09-05T01:28:00.738+0000"
+  }, {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 213.0,
+      "handballs" : 142.0,
+      "disposals" : 355.0,
+      "marks" : 78.0,
+      "bounces" : 1.0,
+      "tackles" : 72.0,
+      "contestedPossessions" : 148.0,
+      "uncontestedPossessions" : 200.0,
+      "totalPossessions" : 348.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 39.0,
+      "onePercenters" : 55.0,
+      "disposalEfficiency" : 69.0,
+      "clangers" : 53.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1530.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 43.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 45.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-05T01:28:00.738+0000",
+      "turnovers" : 83.0,
+      "intercepts" : 70.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 22.0,
+      "goalEfficiency" : 22.2,
+      "shotEfficiency" : 48.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 84.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    },
+    "teamId" : "CD_T110",
+    "lastUpdated" : "2019-09-05T01:28:00.738+0000"
+  } ]
+}

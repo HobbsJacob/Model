@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 215.0,
+      "handballs" : 198.0,
+      "disposals" : 413.0,
+      "marks" : 99.0,
+      "bounces" : 1.0,
+      "tackles" : 90.0,
+      "contestedPossessions" : 154.0,
+      "uncontestedPossessions" : 260.0,
+      "totalPossessions" : 414.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 48.0,
+      "onePercenters" : 39.0,
+      "disposalEfficiency" : 73.8,
+      "clangers" : 47.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1769.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 32.0,
+        "totalClearances" : 44.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 58.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:46:06.162+0000",
+      "turnovers" : 90.0,
+      "intercepts" : 74.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 12.0,
+      "goalEfficiency" : 16.3,
+      "shotEfficiency" : 27.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 90.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 26.0,
+        "interchangeCountQ4" : 26.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2018-01-23T22:46:06.162+0000"
+  }, {
+    "stats" : {
+      "goals" : 21.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 222.0,
+      "handballs" : 235.0,
+      "disposals" : 457.0,
+      "marks" : 95.0,
+      "bounces" : 8.0,
+      "tackles" : 78.0,
+      "contestedPossessions" : 188.0,
+      "uncontestedPossessions" : 280.0,
+      "totalPossessions" : 468.0,
+      "inside50s" : 63.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 20.0,
+      "hitouts" : 43.0,
+      "onePercenters" : 48.0,
+      "disposalEfficiency" : 74.4,
+      "clangers" : 52.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1873.0,
+      "clearances" : {
+        "centreClearances" : 17.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 39.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 17.0,
+      "goalAccuracy" : 61.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:46:06.162+0000",
+      "turnovers" : 74.0,
+      "intercepts" : 90.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 34.0,
+      "goalEfficiency" : 33.3,
+      "shotEfficiency" : 54.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 88.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 25.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "SYD",
+      "teamName" : "Sydney Swans",
+      "teamNickname" : "Swans"
+    },
+    "teamId" : "CD_T160",
+    "lastUpdated" : "2018-01-23T22:46:06.162+0000"
+  } ]
+}

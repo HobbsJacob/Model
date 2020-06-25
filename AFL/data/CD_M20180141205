@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 218.0,
+      "handballs" : 159.0,
+      "disposals" : 377.0,
+      "marks" : 112.0,
+      "bounces" : 2.0,
+      "tackles" : 60.0,
+      "contestedPossessions" : 132.0,
+      "uncontestedPossessions" : 249.0,
+      "totalPossessions" : 381.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 43.0,
+      "onePercenters" : 52.0,
+      "disposalEfficiency" : 73.5,
+      "clangers" : 46.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 1604.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 53.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-06-10T06:06:59.737+0000",
+      "turnovers" : 67.0,
+      "intercepts" : 68.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 18.2,
+      "shotEfficiency" : 54.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2018-06-10T06:06:59.737+0000"
+  }, {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 211.0,
+      "handballs" : 161.0,
+      "disposals" : 372.0,
+      "marks" : 102.0,
+      "bounces" : 20.0,
+      "tackles" : 75.0,
+      "contestedPossessions" : 130.0,
+      "uncontestedPossessions" : 250.0,
+      "totalPossessions" : 380.0,
+      "inside50s" : 65.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 27.0,
+      "onePercenters" : 43.0,
+      "disposalEfficiency" : 76.9,
+      "clangers" : 54.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 1621.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 46.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-06-10T06:06:59.737+0000",
+      "turnovers" : 68.0,
+      "intercepts" : 67.0,
+      "tacklesInside50" : 15.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 18.5,
+      "shotEfficiency" : 40.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 26.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2018-06-10T06:06:59.737+0000"
+  } ]
+}

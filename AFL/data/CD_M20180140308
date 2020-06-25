@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 20.0,
+      "superGoals" : null,
+      "kicks" : 254.0,
+      "handballs" : 163.0,
+      "disposals" : 417.0,
+      "marks" : 152.0,
+      "bounces" : 11.0,
+      "tackles" : 44.0,
+      "contestedPossessions" : 122.0,
+      "uncontestedPossessions" : 297.0,
+      "totalPossessions" : 419.0,
+      "inside50s" : 56.0,
+      "marksInside50" : 23.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 22.0,
+      "onePercenters" : 38.0,
+      "disposalEfficiency" : 77.5,
+      "clangers" : 50.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1799.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 31.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 42.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-04-11T05:09:10.465+0000",
+      "turnovers" : 64.0,
+      "intercepts" : 74.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 33.0,
+      "goalEfficiency" : 25.0,
+      "shotEfficiency" : 58.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 88.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 25.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2018-04-11T05:09:10.465+0000"
+  }, {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 186.0,
+      "handballs" : 137.0,
+      "disposals" : 323.0,
+      "marks" : 80.0,
+      "bounces" : 6.0,
+      "tackles" : 43.0,
+      "contestedPossessions" : 124.0,
+      "uncontestedPossessions" : 196.0,
+      "totalPossessions" : 320.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 38.0,
+      "onePercenters" : 35.0,
+      "disposalEfficiency" : 73.4,
+      "clangers" : 67.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1326.0,
+      "clearances" : {
+        "centreClearances" : 17.0,
+        "stoppageClearances" : 10.0,
+        "totalClearances" : 27.0
+      },
+      "rebound50s" : 41.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-04-11T05:09:10.465+0000",
+      "turnovers" : 74.0,
+      "intercepts" : 64.0,
+      "tacklesInside50" : 4.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 27.3,
+      "shotEfficiency" : 54.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 25.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2018-04-11T05:09:10.465+0000"
+  } ]
+}

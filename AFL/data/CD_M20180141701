@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 16.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 223.0,
+      "handballs" : 187.0,
+      "disposals" : 410.0,
+      "marks" : 92.0,
+      "bounces" : 6.0,
+      "tackles" : 62.0,
+      "contestedPossessions" : 152.0,
+      "uncontestedPossessions" : 264.0,
+      "totalPossessions" : 416.0,
+      "inside50s" : 56.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 44.0,
+      "onePercenters" : 48.0,
+      "disposalEfficiency" : 73.7,
+      "clangers" : 38.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1688.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 27.0
+      },
+      "rebound50s" : 41.0,
+      "goalAssists" : 11.0,
+      "goalAccuracy" : 48.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-08-08T01:02:26.382+0000",
+      "turnovers" : 70.0,
+      "intercepts" : 89.0,
+      "tacklesInside50" : 21.0,
+      "shotsAtGoal" : 33.0,
+      "goalEfficiency" : 28.6,
+      "shotEfficiency" : 58.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ADEL",
+      "teamName" : "Adelaide Crows",
+      "teamNickname" : "Crows"
+    },
+    "teamId" : "CD_T10",
+    "lastUpdated" : "2018-08-08T01:02:26.382+0000"
+  }, {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 203.0,
+      "handballs" : 178.0,
+      "disposals" : 381.0,
+      "marks" : 68.0,
+      "bounces" : 4.0,
+      "tackles" : 68.0,
+      "contestedPossessions" : 169.0,
+      "uncontestedPossessions" : 218.0,
+      "totalPossessions" : 387.0,
+      "inside50s" : 55.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 36.0,
+      "onePercenters" : 56.0,
+      "disposalEfficiency" : 68.0,
+      "clangers" : 64.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1524.0,
+      "clearances" : {
+        "centreClearances" : 23.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 54.0
+      },
+      "rebound50s" : 40.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 51.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-08-08T01:02:26.382+0000",
+      "turnovers" : 89.0,
+      "intercepts" : 71.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 25.5,
+      "shotEfficiency" : 49.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 88.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 27.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2018-08-08T01:02:26.382+0000"
+  } ]
+}

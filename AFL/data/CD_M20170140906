@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 19.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 272.0,
+      "handballs" : 181.0,
+      "disposals" : 453.0,
+      "marks" : 152.0,
+      "bounces" : 8.0,
+      "tackles" : 68.0,
+      "contestedPossessions" : 143.0,
+      "uncontestedPossessions" : 312.0,
+      "totalPossessions" : 455.0,
+      "inside50s" : 49.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 44.0,
+      "onePercenters" : 56.0,
+      "disposalEfficiency" : 76.2,
+      "clangers" : 48.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 2048.0,
+      "clearances" : {
+        "centreClearances" : 18.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 34.0
+      },
+      "rebound50s" : 40.0,
+      "goalAssists" : 11.0,
+      "goalAccuracy" : 59.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:26:04.439+0000",
+      "turnovers" : 65.0,
+      "intercepts" : 64.0,
+      "tacklesInside50" : 22.0,
+      "shotsAtGoal" : 32.0,
+      "goalEfficiency" : 38.8,
+      "shotEfficiency" : 65.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 86.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2018-01-23T05:26:04.439+0000"
+  }, {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 179.0,
+      "handballs" : 155.0,
+      "disposals" : 334.0,
+      "marks" : 88.0,
+      "bounces" : 5.0,
+      "tackles" : 73.0,
+      "contestedPossessions" : 112.0,
+      "uncontestedPossessions" : 227.0,
+      "totalPossessions" : 339.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 32.0,
+      "onePercenters" : 45.0,
+      "disposalEfficiency" : 74.6,
+      "clangers" : 47.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1460.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 28.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:26:04.439+0000",
+      "turnovers" : 64.0,
+      "intercepts" : 65.0,
+      "tacklesInside50" : 18.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 16.7,
+      "shotEfficiency" : 50.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 86.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2018-01-23T05:26:04.439+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 17.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 187.0,
+      "handballs" : 166.0,
+      "disposals" : 353.0,
+      "marks" : 63.0,
+      "bounces" : 7.0,
+      "tackles" : 97.0,
+      "contestedPossessions" : 142.0,
+      "uncontestedPossessions" : 214.0,
+      "totalPossessions" : 356.0,
+      "inside50s" : 60.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 45.0,
+      "onePercenters" : 58.0,
+      "disposalEfficiency" : 74.2,
+      "clangers" : 41.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1593.0,
+      "clearances" : {
+        "centreClearances" : 21.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 47.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 63.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:38:47.272+0000",
+      "turnovers" : 67.0,
+      "intercepts" : 62.0,
+      "tacklesInside50" : 20.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 28.3,
+      "shotEfficiency" : 45.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "HAW",
+      "teamName" : "Hawthorn",
+      "teamNickname" : "Hawks"
+    },
+    "teamId" : "CD_T80",
+    "lastUpdated" : "2018-01-23T22:38:47.272+0000"
+  }, {
+    "stats" : {
+      "goals" : 17.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 190.0,
+      "handballs" : 215.0,
+      "disposals" : 405.0,
+      "marks" : 71.0,
+      "bounces" : 5.0,
+      "tackles" : 77.0,
+      "contestedPossessions" : 160.0,
+      "uncontestedPossessions" : 250.0,
+      "totalPossessions" : 410.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 43.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 73.3,
+      "clangers" : 52.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 1623.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 43.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 65.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:38:47.272+0000",
+      "turnovers" : 61.0,
+      "intercepts" : 67.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 35.4,
+      "shotEfficiency" : 54.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 25.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ADEL",
+      "teamName" : "Adelaide Crows",
+      "teamNickname" : "Crows"
+    },
+    "teamId" : "CD_T10",
+    "lastUpdated" : "2018-01-23T22:38:47.272+0000"
+  } ]
+}

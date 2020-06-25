@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 221.0,
+      "handballs" : 153.0,
+      "disposals" : 374.0,
+      "marks" : 109.0,
+      "bounces" : 8.0,
+      "tackles" : 69.0,
+      "contestedPossessions" : 143.0,
+      "uncontestedPossessions" : 241.0,
+      "totalPossessions" : 384.0,
+      "inside50s" : 62.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 45.0,
+      "onePercenters" : 51.0,
+      "disposalEfficiency" : 74.6,
+      "clangers" : 57.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 1654.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 46.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-06-28T12:37:46.260+0000",
+      "turnovers" : 71.0,
+      "intercepts" : 85.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 30.0,
+      "goalEfficiency" : 22.6,
+      "shotEfficiency" : 48.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 80.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2018-06-28T12:37:46.260+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 176.0,
+      "handballs" : 160.0,
+      "disposals" : 336.0,
+      "marks" : 66.0,
+      "bounces" : 8.0,
+      "tackles" : 84.0,
+      "contestedPossessions" : 152.0,
+      "uncontestedPossessions" : 189.0,
+      "totalPossessions" : 341.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 40.0,
+      "onePercenters" : 45.0,
+      "disposalEfficiency" : 69.9,
+      "clangers" : 62.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1456.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 39.0
+      },
+      "rebound50s" : 47.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 84.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-06-28T12:37:46.260+0000",
+      "turnovers" : 85.0,
+      "intercepts" : 71.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 13.0,
+      "goalEfficiency" : 25.6,
+      "shotEfficiency" : 30.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 80.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "SYD",
+      "teamName" : "Sydney Swans",
+      "teamNickname" : "Swans"
+    },
+    "teamId" : "CD_T160",
+    "lastUpdated" : "2018-06-28T12:37:46.260+0000"
+  } ]
+}

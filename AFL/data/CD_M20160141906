@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 198.0,
+      "handballs" : 173.0,
+      "disposals" : 371.0,
+      "marks" : 96.0,
+      "bounces" : 10.0,
+      "tackles" : 62.0,
+      "contestedPossessions" : 135.0,
+      "uncontestedPossessions" : 245.0,
+      "totalPossessions" : 380.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 39.0,
+      "onePercenters" : 41.0,
+      "disposalEfficiency" : 77.1,
+      "clangers" : 44.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1567.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 34.0
+      },
+      "rebound50s" : 47.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 44.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:47:29.877+0000",
+      "turnovers" : 58.0,
+      "intercepts" : 56.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 27.3,
+      "shotEfficiency" : 61.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 25.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "NMFC",
+      "teamName" : "North Melbourne",
+      "teamNickname" : "Kangaroos"
+    },
+    "teamId" : "CD_T100",
+    "lastUpdated" : "2018-01-23T22:47:29.877+0000"
+  }, {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 167.0,
+      "handballs" : 157.0,
+      "disposals" : 324.0,
+      "marks" : 71.0,
+      "bounces" : 9.0,
+      "tackles" : 56.0,
+      "contestedPossessions" : 126.0,
+      "uncontestedPossessions" : 194.0,
+      "totalPossessions" : 320.0,
+      "inside50s" : 57.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 32.0,
+      "onePercenters" : 28.0,
+      "disposalEfficiency" : 73.8,
+      "clangers" : 47.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 1293.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 26.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:47:29.877+0000",
+      "turnovers" : 56.0,
+      "intercepts" : 58.0,
+      "tacklesInside50" : 4.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 14.0,
+      "shotEfficiency" : 42.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 90.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 26.0,
+        "interchangeCountQ4" : 25.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2018-01-23T22:47:29.877+0000"
+  } ]
+}

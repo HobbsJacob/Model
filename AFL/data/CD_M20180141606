@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 13.0,
+      "behinds" : 24.0,
+      "superGoals" : null,
+      "kicks" : 240.0,
+      "handballs" : 202.0,
+      "disposals" : 442.0,
+      "marks" : 89.0,
+      "bounces" : 3.0,
+      "tackles" : 69.0,
+      "contestedPossessions" : 178.0,
+      "uncontestedPossessions" : 266.0,
+      "totalPossessions" : 444.0,
+      "inside50s" : 78.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 49.0,
+      "onePercenters" : 58.0,
+      "disposalEfficiency" : 66.7,
+      "clangers" : 61.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1777.0,
+      "clearances" : {
+        "centreClearances" : 16.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 42.0
+      },
+      "rebound50s" : 20.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 31.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-08-08T00:07:33.196+0000",
+      "turnovers" : 71.0,
+      "intercepts" : 83.0,
+      "tacklesInside50" : 26.0,
+      "shotsAtGoal" : 41.0,
+      "goalEfficiency" : 16.7,
+      "shotEfficiency" : 52.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 44.0,
+        "interchangeCountQ2" : 0.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "MELB",
+      "teamName" : "Melbourne",
+      "teamNickname" : "Demons"
+    },
+    "teamId" : "CD_T90",
+    "lastUpdated" : "2018-08-08T00:07:33.196+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 188.0,
+      "handballs" : 151.0,
+      "disposals" : 339.0,
+      "marks" : 70.0,
+      "bounces" : 2.0,
+      "tackles" : 78.0,
+      "contestedPossessions" : 130.0,
+      "uncontestedPossessions" : 203.0,
+      "totalPossessions" : 333.0,
+      "inside50s" : 28.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 32.0,
+      "onePercenters" : 40.0,
+      "disposalEfficiency" : 68.4,
+      "clangers" : 63.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 1416.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 63.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 58.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-08-08T00:07:33.196+0000",
+      "turnovers" : 83.0,
+      "intercepts" : 71.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 12.0,
+      "goalEfficiency" : 25.0,
+      "shotEfficiency" : 42.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 90.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2018-08-08T00:07:33.196+0000"
+  } ]
+}

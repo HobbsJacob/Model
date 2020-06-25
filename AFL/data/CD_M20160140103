@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 17.0,
+      "behinds" : 19.0,
+      "superGoals" : null,
+      "kicks" : 223.0,
+      "handballs" : 205.0,
+      "disposals" : 428.0,
+      "marks" : 91.0,
+      "bounces" : 17.0,
+      "tackles" : 87.0,
+      "contestedPossessions" : 151.0,
+      "uncontestedPossessions" : 280.0,
+      "totalPossessions" : 431.0,
+      "inside50s" : 66.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 27.0,
+      "onePercenters" : 40.0,
+      "disposalEfficiency" : 72.9,
+      "clangers" : 52.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1817.0,
+      "clearances" : {
+        "centreClearances" : 17.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 30.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 43.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:36:23.391+0000",
+      "turnovers" : 69.0,
+      "intercepts" : 78.0,
+      "tacklesInside50" : 24.0,
+      "shotsAtGoal" : 39.0,
+      "goalEfficiency" : 25.8,
+      "shotEfficiency" : 59.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 80.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 25.0,
+        "interchangeCountQ3" : 12.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GCFC",
+      "teamName" : "Gold Coast Suns",
+      "teamNickname" : "Suns"
+    },
+    "teamId" : "CD_T1000",
+    "lastUpdated" : "2018-01-23T22:36:23.391+0000"
+  }, {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 205.0,
+      "handballs" : 178.0,
+      "disposals" : 383.0,
+      "marks" : 98.0,
+      "bounces" : 5.0,
+      "tackles" : 56.0,
+      "contestedPossessions" : 125.0,
+      "uncontestedPossessions" : 263.0,
+      "totalPossessions" : 388.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 39.0,
+      "onePercenters" : 47.0,
+      "disposalEfficiency" : 74.9,
+      "clangers" : 64.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1545.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 13.0,
+        "totalClearances" : 25.0
+      },
+      "rebound50s" : 48.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 42.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:36:23.391+0000",
+      "turnovers" : 78.0,
+      "intercepts" : 69.0,
+      "tacklesInside50" : 3.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 22.5,
+      "shotEfficiency" : 52.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 83.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2018-01-23T22:36:23.391+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 202.0,
+      "handballs" : 140.0,
+      "disposals" : 342.0,
+      "marks" : 87.0,
+      "bounces" : 10.0,
+      "tackles" : 62.0,
+      "contestedPossessions" : 134.0,
+      "uncontestedPossessions" : 199.0,
+      "totalPossessions" : 333.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 39.0,
+      "onePercenters" : 64.0,
+      "disposalEfficiency" : 71.9,
+      "clangers" : 44.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1474.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 38.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-08-21T04:38:31.805+0000",
+      "turnovers" : 73.0,
+      "intercepts" : 65.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 18.2,
+      "shotEfficiency" : 47.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 26.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2019-08-21T04:38:31.805+0000"
+  }, {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 220.0,
+      "handballs" : 147.0,
+      "disposals" : 367.0,
+      "marks" : 98.0,
+      "bounces" : 6.0,
+      "tackles" : 54.0,
+      "contestedPossessions" : 138.0,
+      "uncontestedPossessions" : 230.0,
+      "totalPossessions" : 368.0,
+      "inside50s" : 49.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 51.0,
+      "onePercenters" : 50.0,
+      "disposalEfficiency" : 77.4,
+      "clangers" : 42.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1545.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 46.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-08-21T04:38:31.805+0000",
+      "turnovers" : 65.0,
+      "intercepts" : 73.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 24.5,
+      "shotEfficiency" : 53.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 70.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 17.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 12.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "HAW",
+      "teamName" : "Hawthorn",
+      "teamNickname" : "Hawks"
+    },
+    "teamId" : "CD_T80",
+    "lastUpdated" : "2019-08-21T04:38:31.805+0000"
+  } ]
+}

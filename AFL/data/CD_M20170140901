@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 16.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 186.0,
+      "handballs" : 195.0,
+      "disposals" : 381.0,
+      "marks" : 69.0,
+      "bounces" : 5.0,
+      "tackles" : 134.0,
+      "contestedPossessions" : 161.0,
+      "uncontestedPossessions" : 221.0,
+      "totalPossessions" : 382.0,
+      "inside50s" : 54.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 60.0,
+      "onePercenters" : 38.0,
+      "disposalEfficiency" : 70.3,
+      "clangers" : 60.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1809.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 32.0,
+        "totalClearances" : 46.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 64.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:26:45.607+0000",
+      "turnovers" : 69.0,
+      "intercepts" : 69.0,
+      "tacklesInside50" : 24.0,
+      "shotsAtGoal" : 25.0,
+      "goalEfficiency" : 29.6,
+      "shotEfficiency" : 46.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 79.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 26.0,
+        "interchangeCountQ2" : 17.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 16.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2018-01-23T05:26:45.607+0000"
+  }, {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 181.0,
+      "handballs" : 207.0,
+      "disposals" : 388.0,
+      "marks" : 57.0,
+      "bounces" : 6.0,
+      "tackles" : 104.0,
+      "contestedPossessions" : 159.0,
+      "uncontestedPossessions" : 230.0,
+      "totalPossessions" : 389.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 43.0,
+      "onePercenters" : 51.0,
+      "disposalEfficiency" : 69.6,
+      "clangers" : 51.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1638.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 39.0
+      },
+      "rebound50s" : 38.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 54.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:26:45.607+0000",
+      "turnovers" : 69.0,
+      "intercepts" : 69.0,
+      "tacklesInside50" : 15.0,
+      "shotsAtGoal" : 22.0,
+      "goalEfficiency" : 25.0,
+      "shotEfficiency" : 45.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 89.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2018-01-23T05:26:45.607+0000"
+  } ]
+}

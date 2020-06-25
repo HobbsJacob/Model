@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 17.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 230.0,
+      "handballs" : 132.0,
+      "disposals" : 362.0,
+      "marks" : 109.0,
+      "bounces" : 8.0,
+      "tackles" : 54.0,
+      "contestedPossessions" : 127.0,
+      "uncontestedPossessions" : 221.0,
+      "totalPossessions" : 348.0,
+      "inside50s" : 51.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 19.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 76.8,
+      "clangers" : 56.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1579.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 40.0,
+      "goalAssists" : 14.0,
+      "goalAccuracy" : 63.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-08-29T03:26:29.786+0000",
+      "turnovers" : 60.0,
+      "intercepts" : 62.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 33.3,
+      "shotEfficiency" : 52.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "SYD",
+      "teamName" : "Sydney Swans",
+      "teamNickname" : "Swans"
+    },
+    "teamId" : "CD_T160",
+    "lastUpdated" : "2019-08-29T03:26:29.786+0000"
+  }, {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 200.0,
+      "handballs" : 144.0,
+      "disposals" : 344.0,
+      "marks" : 81.0,
+      "bounces" : 2.0,
+      "tackles" : 50.0,
+      "contestedPossessions" : 127.0,
+      "uncontestedPossessions" : 209.0,
+      "totalPossessions" : 336.0,
+      "inside50s" : 49.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 36.0,
+      "onePercenters" : 39.0,
+      "disposalEfficiency" : 72.7,
+      "clangers" : 52.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1387.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 34.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 30.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-08-29T03:26:29.786+0000",
+      "turnovers" : 61.0,
+      "intercepts" : 60.0,
+      "tacklesInside50" : 4.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 16.3,
+      "shotEfficiency" : 53.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 88.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2019-08-29T03:26:29.786+0000"
+  } ]
+}

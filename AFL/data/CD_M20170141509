@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 224.0,
+      "handballs" : 195.0,
+      "disposals" : 419.0,
+      "marks" : 117.0,
+      "bounces" : 4.0,
+      "tackles" : 76.0,
+      "contestedPossessions" : 150.0,
+      "uncontestedPossessions" : 271.0,
+      "totalPossessions" : 421.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 35.0,
+      "onePercenters" : 38.0,
+      "disposalEfficiency" : 72.6,
+      "clangers" : 58.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1795.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 52.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:30:46.460+0000",
+      "turnovers" : 73.0,
+      "intercepts" : 69.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 25.5,
+      "shotEfficiency" : 48.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2018-01-23T05:30:46.460+0000"
+  }, {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 17.0,
+      "superGoals" : null,
+      "kicks" : 198.0,
+      "handballs" : 190.0,
+      "disposals" : 388.0,
+      "marks" : 84.0,
+      "bounces" : 13.0,
+      "tackles" : 74.0,
+      "contestedPossessions" : 144.0,
+      "uncontestedPossessions" : 241.0,
+      "totalPossessions" : 385.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 51.0,
+      "onePercenters" : 33.0,
+      "disposalEfficiency" : 72.9,
+      "clangers" : 49.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1629.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 11.0,
+      "goalAccuracy" : 37.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:30:46.460+0000",
+      "turnovers" : 67.0,
+      "intercepts" : 73.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 32.0,
+      "goalEfficiency" : 25.0,
+      "shotEfficiency" : 66.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 88.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2018-01-23T05:30:46.460+0000"
+  } ]
+}

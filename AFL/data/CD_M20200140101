@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 16.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 155.0,
+      "handballs" : 122.0,
+      "disposals" : 277.0,
+      "marks" : 57.0,
+      "bounces" : 5.0,
+      "tackles" : 52.0,
+      "contestedPossessions" : 109.0,
+      "uncontestedPossessions" : 164.0,
+      "totalPossessions" : 273.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 41.0,
+      "onePercenters" : 48.0,
+      "disposalEfficiency" : 80.1,
+      "clangers" : 50.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 1179.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 61.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-24T02:44:57.939+0000",
+      "turnovers" : 65.0,
+      "intercepts" : 59.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 33.3,
+      "shotEfficiency" : 54.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 77.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 16.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2020-06-24T02:44:57.939+0000"
+  }, {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 189.0,
+      "handballs" : 114.0,
+      "disposals" : 303.0,
+      "marks" : 69.0,
+      "bounces" : 0.0,
+      "tackles" : 23.0,
+      "contestedPossessions" : 126.0,
+      "uncontestedPossessions" : 173.0,
+      "totalPossessions" : 299.0,
+      "inside50s" : 54.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 26.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 68.6,
+      "clangers" : 51.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1170.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 57.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-24T02:44:57.939+0000",
+      "turnovers" : 60.0,
+      "intercepts" : 67.0,
+      "tacklesInside50" : 4.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 22.2,
+      "shotEfficiency" : 38.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 77.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 16.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "CARL",
+      "teamName" : "Carlton",
+      "teamNickname" : "Blues"
+    },
+    "teamId" : "CD_T30",
+    "lastUpdated" : "2020-06-24T02:44:57.939+0000"
+  } ]
+}

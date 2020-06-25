@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 206.0,
+      "handballs" : 154.0,
+      "disposals" : 360.0,
+      "marks" : 92.0,
+      "bounces" : 10.0,
+      "tackles" : 72.0,
+      "contestedPossessions" : 127.0,
+      "uncontestedPossessions" : 231.0,
+      "totalPossessions" : 358.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 28.0,
+      "onePercenters" : 50.0,
+      "disposalEfficiency" : 75.8,
+      "clangers" : 50.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1552.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 41.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:40:48.257+0000",
+      "turnovers" : 67.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 21.3,
+      "shotEfficiency" : 51.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 118.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 26.0,
+        "interchangeCountQ2" : 33.0,
+        "interchangeCountQ3" : 28.0,
+        "interchangeCountQ4" : 31.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2018-01-24T05:40:48.257+0000"
+  }, {
+    "stats" : {
+      "goals" : 13.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 211.0,
+      "handballs" : 174.0,
+      "disposals" : 385.0,
+      "marks" : 100.0,
+      "bounces" : 6.0,
+      "tackles" : 47.0,
+      "contestedPossessions" : 141.0,
+      "uncontestedPossessions" : 244.0,
+      "totalPossessions" : 385.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 42.0,
+      "onePercenters" : 48.0,
+      "disposalEfficiency" : 74.0,
+      "clangers" : 49.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 1549.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 54.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:40:48.257+0000",
+      "turnovers" : 63.0,
+      "intercepts" : 68.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 27.1,
+      "shotEfficiency" : 50.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 111.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 31.0,
+        "interchangeCountQ3" : 31.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2018-01-24T05:40:48.257+0000"
+  } ]
+}

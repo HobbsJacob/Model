@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 239.0,
+      "handballs" : 186.0,
+      "disposals" : 425.0,
+      "marks" : 115.0,
+      "bounces" : 14.0,
+      "tackles" : 60.0,
+      "contestedPossessions" : 148.0,
+      "uncontestedPossessions" : 277.0,
+      "totalPossessions" : 425.0,
+      "inside50s" : 53.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 32.0,
+      "onePercenters" : 49.0,
+      "disposalEfficiency" : 74.1,
+      "clangers" : 52.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1763.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 48.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 35.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-04-20T01:30:21.454+0000",
+      "turnovers" : 65.0,
+      "intercepts" : 78.0,
+      "tacklesInside50" : 18.0,
+      "shotsAtGoal" : 31.0,
+      "goalEfficiency" : 20.8,
+      "shotEfficiency" : 58.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 25.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GWS",
+      "teamName" : "GWS Giants",
+      "teamNickname" : "Giants"
+    },
+    "teamId" : "CD_T1010",
+    "lastUpdated" : "2018-04-20T01:30:21.454+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 200.0,
+      "handballs" : 162.0,
+      "disposals" : 362.0,
+      "marks" : 89.0,
+      "bounces" : 11.0,
+      "tackles" : 56.0,
+      "contestedPossessions" : 115.0,
+      "uncontestedPossessions" : 249.0,
+      "totalPossessions" : 364.0,
+      "inside50s" : 56.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 48.0,
+      "onePercenters" : 46.0,
+      "disposalEfficiency" : 74.6,
+      "clangers" : 51.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1463.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 41.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 46.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-04-20T01:30:21.454+0000",
+      "turnovers" : 78.0,
+      "intercepts" : 65.0,
+      "tacklesInside50" : 4.0,
+      "shotsAtGoal" : 15.0,
+      "goalEfficiency" : 12.5,
+      "shotEfficiency" : 26.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 86.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2018-04-20T01:30:21.454+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 214.0,
+      "handballs" : 182.0,
+      "disposals" : 396.0,
+      "marks" : 84.0,
+      "bounces" : 8.0,
+      "tackles" : 81.0,
+      "contestedPossessions" : 147.0,
+      "uncontestedPossessions" : 241.0,
+      "totalPossessions" : 388.0,
+      "inside50s" : 54.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 26.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 71.2,
+      "clangers" : 52.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1650.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 40.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 56.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-12T07:01:24.079+0000",
+      "turnovers" : 62.0,
+      "intercepts" : 70.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 25.0,
+      "goalEfficiency" : 25.9,
+      "shotEfficiency" : 46.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 88.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "SYD",
+      "teamName" : "Sydney Swans",
+      "teamNickname" : "Swans"
+    },
+    "teamId" : "CD_T160",
+    "lastUpdated" : "2019-07-12T07:01:24.079+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 227.0,
+      "handballs" : 116.0,
+      "disposals" : 343.0,
+      "marks" : 89.0,
+      "bounces" : 4.0,
+      "tackles" : 70.0,
+      "contestedPossessions" : 137.0,
+      "uncontestedPossessions" : 191.0,
+      "totalPossessions" : 328.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 66.0,
+      "onePercenters" : 53.0,
+      "disposalEfficiency" : 62.4,
+      "clangers" : 57.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1553.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 38.0,
+        "totalClearances" : 49.0
+      },
+      "rebound50s" : 40.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-12T07:01:24.079+0000",
+      "turnovers" : 70.0,
+      "intercepts" : 62.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 14.6,
+      "shotEfficiency" : 43.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 90.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GCFC",
+      "teamName" : "Gold Coast Suns",
+      "teamNickname" : "Suns"
+    },
+    "teamId" : "CD_T1000",
+    "lastUpdated" : "2019-07-12T07:01:24.079+0000"
+  } ]
+}

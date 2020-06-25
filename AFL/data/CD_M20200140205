@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 17.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 226.0,
+      "handballs" : 137.0,
+      "disposals" : 363.0,
+      "marks" : 105.0,
+      "bounces" : 0.0,
+      "tackles" : 61.0,
+      "contestedPossessions" : 138.0,
+      "uncontestedPossessions" : 225.0,
+      "totalPossessions" : 363.0,
+      "inside50s" : 57.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 40.0,
+      "onePercenters" : 45.0,
+      "disposalEfficiency" : 73.8,
+      "clangers" : 49.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1632.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 39.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 65.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-14T12:49:09.291+0000",
+      "turnovers" : 59.0,
+      "intercepts" : 61.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 29.8,
+      "shotEfficiency" : 45.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 78.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    },
+    "teamId" : "CD_T110",
+    "lastUpdated" : "2020-06-14T12:49:09.291+0000"
+  }, {
+    "stats" : {
+      "goals" : 5.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 138.0,
+      "handballs" : 121.0,
+      "disposals" : 259.0,
+      "marks" : 39.0,
+      "bounces" : 0.0,
+      "tackles" : 45.0,
+      "contestedPossessions" : 119.0,
+      "uncontestedPossessions" : 133.0,
+      "totalPossessions" : 252.0,
+      "inside50s" : 30.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 30.0,
+      "onePercenters" : 41.0,
+      "disposalEfficiency" : 62.5,
+      "clangers" : 56.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 980.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 39.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 55.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-14T12:49:09.291+0000",
+      "turnovers" : 61.0,
+      "intercepts" : 59.0,
+      "tacklesInside50" : 4.0,
+      "shotsAtGoal" : 9.0,
+      "goalEfficiency" : 16.7,
+      "shotEfficiency" : 30.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 62.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 10.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ADEL",
+      "teamName" : "Adelaide Crows",
+      "teamNickname" : "Crows"
+    },
+    "teamId" : "CD_T10",
+    "lastUpdated" : "2020-06-14T12:49:09.291+0000"
+  } ]
+}

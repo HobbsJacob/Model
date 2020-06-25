@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 16.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 242.0,
+      "handballs" : 177.0,
+      "disposals" : 419.0,
+      "marks" : 115.0,
+      "bounces" : 6.0,
+      "tackles" : 63.0,
+      "contestedPossessions" : 148.0,
+      "uncontestedPossessions" : 266.0,
+      "totalPossessions" : 414.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 17.0,
+      "hitouts" : 49.0,
+      "onePercenters" : 37.0,
+      "disposalEfficiency" : 74.0,
+      "clangers" : 50.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1792.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 64.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:44:24.288+0000",
+      "turnovers" : 74.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 25.0,
+      "goalEfficiency" : 34.8,
+      "shotEfficiency" : 54.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2018-01-23T22:44:24.288+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 17.0,
+      "superGoals" : null,
+      "kicks" : 197.0,
+      "handballs" : 128.0,
+      "disposals" : 325.0,
+      "marks" : 87.0,
+      "bounces" : 3.0,
+      "tackles" : 87.0,
+      "contestedPossessions" : 137.0,
+      "uncontestedPossessions" : 188.0,
+      "totalPossessions" : 325.0,
+      "inside50s" : 53.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 31.0,
+      "onePercenters" : 40.0,
+      "disposalEfficiency" : 66.8,
+      "clangers" : 42.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1542.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 44.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:44:24.288+0000",
+      "turnovers" : 63.0,
+      "intercepts" : 74.0,
+      "tacklesInside50" : 18.0,
+      "shotsAtGoal" : 25.0,
+      "goalEfficiency" : 20.8,
+      "shotEfficiency" : 47.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2018-01-23T22:44:24.288+0000"
+  } ]
+}

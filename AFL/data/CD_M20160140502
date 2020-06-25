@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 220.0,
+      "handballs" : 153.0,
+      "disposals" : 373.0,
+      "marks" : 81.0,
+      "bounces" : 1.0,
+      "tackles" : 84.0,
+      "contestedPossessions" : 167.0,
+      "uncontestedPossessions" : 197.0,
+      "totalPossessions" : 364.0,
+      "inside50s" : 63.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 18.0,
+      "hitouts" : 40.0,
+      "onePercenters" : 59.0,
+      "disposalEfficiency" : 69.7,
+      "clangers" : 45.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1635.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 41.0
+      },
+      "rebound50s" : 50.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 44.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:37:15.572+0000",
+      "turnovers" : 90.0,
+      "intercepts" : 88.0,
+      "tacklesInside50" : 15.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 19.0,
+      "shotEfficiency" : 42.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "SYD",
+      "teamName" : "Sydney Swans",
+      "teamNickname" : "Swans"
+    },
+    "teamId" : "CD_T160",
+    "lastUpdated" : "2018-01-23T22:37:15.572+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 217.0,
+      "handballs" : 159.0,
+      "disposals" : 376.0,
+      "marks" : 81.0,
+      "bounces" : 2.0,
+      "tackles" : 83.0,
+      "contestedPossessions" : 169.0,
+      "uncontestedPossessions" : 204.0,
+      "totalPossessions" : 373.0,
+      "inside50s" : 59.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 17.0,
+      "hitouts" : 41.0,
+      "onePercenters" : 55.0,
+      "disposalEfficiency" : 66.0,
+      "clangers" : 55.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1596.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 51.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:37:15.572+0000",
+      "turnovers" : 88.0,
+      "intercepts" : 90.0,
+      "tacklesInside50" : 16.0,
+      "shotsAtGoal" : 14.0,
+      "goalEfficiency" : 11.9,
+      "shotEfficiency" : 23.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2018-01-23T22:37:15.572+0000"
+  } ]
+}

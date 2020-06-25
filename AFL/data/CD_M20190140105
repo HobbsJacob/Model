@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 217.0,
+      "handballs" : 157.0,
+      "disposals" : 374.0,
+      "marks" : 62.0,
+      "bounces" : 6.0,
+      "tackles" : 66.0,
+      "contestedPossessions" : 151.0,
+      "uncontestedPossessions" : 213.0,
+      "totalPossessions" : 364.0,
+      "inside50s" : 68.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 20.0,
+      "onePercenters" : 50.0,
+      "disposalEfficiency" : 69.8,
+      "clangers" : 54.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1471.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 30.0,
+        "totalClearances" : 41.0
+      },
+      "rebound50s" : 38.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-05-22T06:28:46.960+0000",
+      "turnovers" : 70.0,
+      "intercepts" : 74.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 33.0,
+      "goalEfficiency" : 16.2,
+      "shotEfficiency" : 48.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 77.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2019-05-22T06:28:46.960+0000"
+  }, {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 207.0,
+      "handballs" : 162.0,
+      "disposals" : 369.0,
+      "marks" : 88.0,
+      "bounces" : 1.0,
+      "tackles" : 70.0,
+      "contestedPossessions" : 125.0,
+      "uncontestedPossessions" : 230.0,
+      "totalPossessions" : 355.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 49.0,
+      "onePercenters" : 52.0,
+      "disposalEfficiency" : 76.7,
+      "clangers" : 60.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1558.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 56.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 34.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-05-22T06:28:46.960+0000",
+      "turnovers" : 74.0,
+      "intercepts" : 71.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 19.1,
+      "shotEfficiency" : 55.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "SYD",
+      "teamName" : "Sydney Swans",
+      "teamNickname" : "Swans"
+    },
+    "teamId" : "CD_T160",
+    "lastUpdated" : "2019-05-22T06:28:46.960+0000"
+  } ]
+}

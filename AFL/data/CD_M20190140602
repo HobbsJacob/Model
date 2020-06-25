@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 213.0,
+      "handballs" : 179.0,
+      "disposals" : 392.0,
+      "marks" : 99.0,
+      "bounces" : 3.0,
+      "tackles" : 73.0,
+      "contestedPossessions" : 163.0,
+      "uncontestedPossessions" : 226.0,
+      "totalPossessions" : 389.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 17.0,
+      "hitouts" : 19.0,
+      "onePercenters" : 56.0,
+      "disposalEfficiency" : 69.1,
+      "clangers" : 58.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1634.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 45.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 43.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-04T02:34:00.794+0000",
+      "turnovers" : 87.0,
+      "intercepts" : 78.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 21.3,
+      "shotEfficiency" : 48.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 83.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2019-09-04T02:34:00.794+0000"
+  }, {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 236.0,
+      "handballs" : 180.0,
+      "disposals" : 416.0,
+      "marks" : 107.0,
+      "bounces" : 6.0,
+      "tackles" : 71.0,
+      "contestedPossessions" : 168.0,
+      "uncontestedPossessions" : 248.0,
+      "totalPossessions" : 416.0,
+      "inside50s" : 56.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 17.0,
+      "hitouts" : 44.0,
+      "onePercenters" : 47.0,
+      "disposalEfficiency" : 71.2,
+      "clangers" : 52.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1764.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-04T02:34:00.794+0000",
+      "turnovers" : 78.0,
+      "intercepts" : 87.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 30.0,
+      "goalEfficiency" : 17.9,
+      "shotEfficiency" : 53.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 88.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 26.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "COLL",
+      "teamName" : "Collingwood",
+      "teamNickname" : "Magpies"
+    },
+    "teamId" : "CD_T40",
+    "lastUpdated" : "2019-09-04T02:34:00.794+0000"
+  } ]
+}

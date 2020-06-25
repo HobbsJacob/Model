@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 214.0,
+      "handballs" : 209.0,
+      "disposals" : 423.0,
+      "marks" : 105.0,
+      "bounces" : 8.0,
+      "tackles" : 51.0,
+      "contestedPossessions" : 129.0,
+      "uncontestedPossessions" : 295.0,
+      "totalPossessions" : 424.0,
+      "inside50s" : 53.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 46.0,
+      "onePercenters" : 36.0,
+      "disposalEfficiency" : 76.4,
+      "clangers" : 44.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 1675.0,
+      "clearances" : {
+        "centreClearances" : 17.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 26.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 45.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:42:21.689+0000",
+      "turnovers" : 48.0,
+      "intercepts" : 55.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 31.0,
+      "goalEfficiency" : 26.4,
+      "shotEfficiency" : 58.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 119.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 29.0,
+        "interchangeCountQ2" : 29.0,
+        "interchangeCountQ3" : 30.0,
+        "interchangeCountQ4" : 31.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2018-01-24T05:42:21.689+0000"
+  }, {
+    "stats" : {
+      "goals" : 17.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 173.0,
+      "handballs" : 118.0,
+      "disposals" : 291.0,
+      "marks" : 74.0,
+      "bounces" : 9.0,
+      "tackles" : 64.0,
+      "contestedPossessions" : 127.0,
+      "uncontestedPossessions" : 161.0,
+      "totalPossessions" : 288.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 38.0,
+      "onePercenters" : 37.0,
+      "disposalEfficiency" : 74.6,
+      "clangers" : 41.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1343.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 39.0,
+      "goalAssists" : 14.0,
+      "goalAccuracy" : 63.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:42:21.689+0000",
+      "turnovers" : 55.0,
+      "intercepts" : 49.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 39.5,
+      "shotEfficiency" : 62.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 110.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 31.0,
+        "interchangeCountQ2" : 27.0,
+        "interchangeCountQ3" : 28.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GCFC",
+      "teamName" : "Gold Coast Suns",
+      "teamNickname" : "Suns"
+    },
+    "teamId" : "CD_T1000",
+    "lastUpdated" : "2018-01-24T05:42:21.689+0000"
+  } ]
+}

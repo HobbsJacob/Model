@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 13.0,
+      "behinds" : 18.0,
+      "superGoals" : null,
+      "kicks" : 224.0,
+      "handballs" : 156.0,
+      "disposals" : 380.0,
+      "marks" : 114.0,
+      "bounces" : 15.0,
+      "tackles" : 60.0,
+      "contestedPossessions" : 138.0,
+      "uncontestedPossessions" : 250.0,
+      "totalPossessions" : 388.0,
+      "inside50s" : 57.0,
+      "marksInside50" : 22.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 31.0,
+      "onePercenters" : 49.0,
+      "disposalEfficiency" : 74.2,
+      "clangers" : 48.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 1639.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 37.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-06-25T06:51:53.123+0000",
+      "turnovers" : 63.0,
+      "intercepts" : 70.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 35.0,
+      "goalEfficiency" : 22.8,
+      "shotEfficiency" : 61.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 84.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "HAW",
+      "teamName" : "Hawthorn",
+      "teamNickname" : "Hawks"
+    },
+    "teamId" : "CD_T80",
+    "lastUpdated" : "2018-06-25T06:51:53.123+0000"
+  }, {
+    "stats" : {
+      "goals" : 5.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 184.0,
+      "handballs" : 130.0,
+      "disposals" : 314.0,
+      "marks" : 67.0,
+      "bounces" : 8.0,
+      "tackles" : 71.0,
+      "contestedPossessions" : 135.0,
+      "uncontestedPossessions" : 181.0,
+      "totalPossessions" : 316.0,
+      "inside50s" : 42.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 43.0,
+      "onePercenters" : 45.0,
+      "disposalEfficiency" : 68.8,
+      "clangers" : 57.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1346.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 34.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 21.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-06-25T06:51:53.123+0000",
+      "turnovers" : 70.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 11.9,
+      "shotEfficiency" : 54.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 80.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GCFC",
+      "teamName" : "Gold Coast Suns",
+      "teamNickname" : "Suns"
+    },
+    "teamId" : "CD_T1000",
+    "lastUpdated" : "2018-06-25T06:51:53.123+0000"
+  } ]
+}

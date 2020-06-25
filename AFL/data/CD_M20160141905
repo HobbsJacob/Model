@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 17.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 213.0,
+      "handballs" : 180.0,
+      "disposals" : 393.0,
+      "marks" : 108.0,
+      "bounces" : 22.0,
+      "tackles" : 69.0,
+      "contestedPossessions" : 130.0,
+      "uncontestedPossessions" : 261.0,
+      "totalPossessions" : 391.0,
+      "inside50s" : 64.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 36.0,
+      "onePercenters" : 34.0,
+      "disposalEfficiency" : 74.8,
+      "clangers" : 57.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 1695.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 60.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:45:49.563+0000",
+      "turnovers" : 64.0,
+      "intercepts" : 67.0,
+      "tacklesInside50" : 19.0,
+      "shotsAtGoal" : 28.0,
+      "goalEfficiency" : 26.6,
+      "shotEfficiency" : 43.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 86.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GWS",
+      "teamName" : "GWS Giants",
+      "teamNickname" : "Giants"
+    },
+    "teamId" : "CD_T1010",
+    "lastUpdated" : "2018-01-23T22:45:49.563+0000"
+  }, {
+    "stats" : {
+      "goals" : 3.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 205.0,
+      "handballs" : 134.0,
+      "disposals" : 339.0,
+      "marks" : 114.0,
+      "bounces" : 2.0,
+      "tackles" : 69.0,
+      "contestedPossessions" : 117.0,
+      "uncontestedPossessions" : 219.0,
+      "totalPossessions" : 336.0,
+      "inside50s" : 38.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 43.0,
+      "onePercenters" : 31.0,
+      "disposalEfficiency" : 71.7,
+      "clangers" : 59.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1528.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 44.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 25.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:45:49.563+0000",
+      "turnovers" : 66.0,
+      "intercepts" : 64.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 12.0,
+      "goalEfficiency" : 7.9,
+      "shotEfficiency" : 31.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 89.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 26.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2018-01-23T22:45:49.563+0000"
+  } ]
+}

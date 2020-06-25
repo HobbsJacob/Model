@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 184.0,
+      "handballs" : 174.0,
+      "disposals" : 358.0,
+      "marks" : 83.0,
+      "bounces" : 5.0,
+      "tackles" : 62.0,
+      "contestedPossessions" : 130.0,
+      "uncontestedPossessions" : 227.0,
+      "totalPossessions" : 357.0,
+      "inside50s" : 58.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 35.0,
+      "onePercenters" : 46.0,
+      "disposalEfficiency" : 70.9,
+      "clangers" : 51.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1445.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 36.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:41:38.301+0000",
+      "turnovers" : 60.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 16.0,
+      "shotsAtGoal" : 19.0,
+      "goalEfficiency" : 12.1,
+      "shotEfficiency" : 32.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 114.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 30.0,
+        "interchangeCountQ2" : 28.0,
+        "interchangeCountQ3" : 25.0,
+        "interchangeCountQ4" : 31.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "COLL",
+      "teamName" : "Collingwood",
+      "teamNickname" : "Magpies"
+    },
+    "teamId" : "CD_T40",
+    "lastUpdated" : "2018-01-24T05:41:38.301+0000"
+  }, {
+    "stats" : {
+      "goals" : 23.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 264.0,
+      "handballs" : 163.0,
+      "disposals" : 427.0,
+      "marks" : 152.0,
+      "bounces" : 12.0,
+      "tackles" : 57.0,
+      "contestedPossessions" : 134.0,
+      "uncontestedPossessions" : 292.0,
+      "totalPossessions" : 426.0,
+      "inside50s" : 49.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 37.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 77.5,
+      "clangers" : 32.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1971.0,
+      "clearances" : {
+        "centreClearances" : 16.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 51.0,
+      "goalAssists" : 14.0,
+      "goalAccuracy" : 76.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:41:38.301+0000",
+      "turnovers" : 62.0,
+      "intercepts" : 60.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 30.0,
+      "goalEfficiency" : 46.9,
+      "shotEfficiency" : 61.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 120.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 32.0,
+        "interchangeCountQ2" : 26.0,
+        "interchangeCountQ3" : 29.0,
+        "interchangeCountQ4" : 33.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2018-01-24T05:41:38.301+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 220.0,
+      "handballs" : 104.0,
+      "disposals" : 324.0,
+      "marks" : 95.0,
+      "bounces" : 2.0,
+      "tackles" : 59.0,
+      "contestedPossessions" : 135.0,
+      "uncontestedPossessions" : 185.0,
+      "totalPossessions" : 320.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 29.0,
+      "onePercenters" : 34.0,
+      "disposalEfficiency" : 68.8,
+      "clangers" : 72.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1445.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 45.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 38.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-04-24T03:19:28.904+0000",
+      "turnovers" : 76.0,
+      "intercepts" : 70.0,
+      "tacklesInside50" : 17.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 21.7,
+      "shotEfficiency" : 56.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 80.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GCFC",
+      "teamName" : "Gold Coast Suns",
+      "teamNickname" : "Suns"
+    },
+    "teamId" : "CD_T1000",
+    "lastUpdated" : "2018-04-24T03:19:28.904+0000"
+  }, {
+    "stats" : {
+      "goals" : 13.0,
+      "behinds" : 18.0,
+      "superGoals" : null,
+      "kicks" : 232.0,
+      "handballs" : 155.0,
+      "disposals" : 387.0,
+      "marks" : 105.0,
+      "bounces" : 4.0,
+      "tackles" : 53.0,
+      "contestedPossessions" : 154.0,
+      "uncontestedPossessions" : 231.0,
+      "totalPossessions" : 385.0,
+      "inside50s" : 59.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 38.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 72.4,
+      "clangers" : 55.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1620.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 11.0,
+      "goalAccuracy" : 39.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-04-24T03:19:28.904+0000",
+      "turnovers" : 70.0,
+      "intercepts" : 77.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 33.0,
+      "goalEfficiency" : 22.0,
+      "shotEfficiency" : 55.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 89.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2018-04-24T03:19:28.904+0000"
+  } ]
+}

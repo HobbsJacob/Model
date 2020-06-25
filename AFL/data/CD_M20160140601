@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 189.0,
+      "handballs" : 166.0,
+      "disposals" : 355.0,
+      "marks" : 75.0,
+      "bounces" : 9.0,
+      "tackles" : 92.0,
+      "contestedPossessions" : 151.0,
+      "uncontestedPossessions" : 212.0,
+      "totalPossessions" : 363.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 49.0,
+      "onePercenters" : 60.0,
+      "disposalEfficiency" : 71.8,
+      "clangers" : 64.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 1548.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 49.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 47.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:37:50.251+0000",
+      "turnovers" : 78.0,
+      "intercepts" : 86.0,
+      "tacklesInside50" : 19.0,
+      "shotsAtGoal" : 19.0,
+      "goalEfficiency" : 19.6,
+      "shotEfficiency" : 41.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 15.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "NMFC",
+      "teamName" : "North Melbourne",
+      "teamNickname" : "Kangaroos"
+    },
+    "teamId" : "CD_T100",
+    "lastUpdated" : "2018-01-23T22:37:50.251+0000"
+  }, {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 215.0,
+      "handballs" : 219.0,
+      "disposals" : 434.0,
+      "marks" : 74.0,
+      "bounces" : 2.0,
+      "tackles" : 66.0,
+      "contestedPossessions" : 164.0,
+      "uncontestedPossessions" : 268.0,
+      "totalPossessions" : 432.0,
+      "inside50s" : 56.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 33.0,
+      "onePercenters" : 56.0,
+      "disposalEfficiency" : 71.0,
+      "clangers" : 55.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1625.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 36.0,
+        "totalClearances" : 45.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 30.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:37:50.251+0000",
+      "turnovers" : 85.0,
+      "intercepts" : 78.0,
+      "tacklesInside50" : 17.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 10.7,
+      "shotEfficiency" : 35.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2018-01-23T22:37:50.251+0000"
+  } ]
+}

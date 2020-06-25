@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 207.0,
+      "handballs" : 130.0,
+      "disposals" : 337.0,
+      "marks" : 68.0,
+      "bounces" : 4.0,
+      "tackles" : 38.0,
+      "contestedPossessions" : 137.0,
+      "uncontestedPossessions" : 197.0,
+      "totalPossessions" : 334.0,
+      "inside50s" : 49.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 28.0,
+      "onePercenters" : 58.0,
+      "disposalEfficiency" : 69.4,
+      "clangers" : 64.0,
+      "freesFor" : 16.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1323.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 39.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 53.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-17T07:13:38.136+0000",
+      "turnovers" : 65.0,
+      "intercepts" : 70.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 28.6,
+      "shotEfficiency" : 53.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 86.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 25.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GCFC",
+      "teamName" : "Gold Coast Suns",
+      "teamNickname" : "Suns"
+    },
+    "teamId" : "CD_T1000",
+    "lastUpdated" : "2020-06-17T07:13:38.136+0000"
+  }, {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 183.0,
+      "handballs" : 104.0,
+      "disposals" : 287.0,
+      "marks" : 56.0,
+      "bounces" : 3.0,
+      "tackles" : 55.0,
+      "contestedPossessions" : 115.0,
+      "uncontestedPossessions" : 160.0,
+      "totalPossessions" : 275.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 43.0,
+      "onePercenters" : 54.0,
+      "disposalEfficiency" : 66.6,
+      "clangers" : 53.0,
+      "freesFor" : 16.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1201.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 33.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 30.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-17T07:13:38.136+0000",
+      "turnovers" : 69.0,
+      "intercepts" : 65.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 13.0,
+      "shotEfficiency" : 43.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 79.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2020-06-17T07:13:38.136+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 189.0,
+      "handballs" : 174.0,
+      "disposals" : 363.0,
+      "marks" : 79.0,
+      "bounces" : 4.0,
+      "tackles" : 79.0,
+      "contestedPossessions" : 139.0,
+      "uncontestedPossessions" : 224.0,
+      "totalPossessions" : 363.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 52.0,
+      "onePercenters" : 54.0,
+      "disposalEfficiency" : 74.4,
+      "clangers" : 40.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1534.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 41.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 46.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:30:20.482+0000",
+      "turnovers" : 75.0,
+      "intercepts" : 70.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 15.0,
+      "goalEfficiency" : 16.3,
+      "shotEfficiency" : 34.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2018-01-24T05:30:20.482+0000"
+  }, {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 15.0,
+      "superGoals" : null,
+      "kicks" : 213.0,
+      "handballs" : 187.0,
+      "disposals" : 400.0,
+      "marks" : 87.0,
+      "bounces" : 6.0,
+      "tackles" : 77.0,
+      "contestedPossessions" : 162.0,
+      "uncontestedPossessions" : 238.0,
+      "totalPossessions" : 400.0,
+      "inside50s" : 55.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 30.0,
+      "onePercenters" : 63.0,
+      "disposalEfficiency" : 75.0,
+      "clangers" : 35.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1689.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 29.0,
+        "totalClearances" : 39.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 11.0,
+      "goalAccuracy" : 48.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:30:20.482+0000",
+      "turnovers" : 70.0,
+      "intercepts" : 75.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 29.0,
+      "goalEfficiency" : 25.5,
+      "shotEfficiency" : 52.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 84.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2018-01-24T05:30:20.482+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 18.0,
+      "behinds" : 15.0,
+      "superGoals" : null,
+      "kicks" : 231.0,
+      "handballs" : 168.0,
+      "disposals" : 399.0,
+      "marks" : 94.0,
+      "bounces" : 2.0,
+      "tackles" : 59.0,
+      "contestedPossessions" : 161.0,
+      "uncontestedPossessions" : 242.0,
+      "totalPossessions" : 403.0,
+      "inside50s" : 66.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 52.0,
+      "onePercenters" : 46.0,
+      "disposalEfficiency" : 74.4,
+      "clangers" : 58.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 1676.0,
+      "clearances" : {
+        "centreClearances" : 20.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 31.0,
+      "goalAssists" : 14.0,
+      "goalAccuracy" : 56.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-05-29T04:30:04.202+0000",
+      "turnovers" : 63.0,
+      "intercepts" : 68.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 32.0,
+      "goalEfficiency" : 27.3,
+      "shotEfficiency" : 48.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 88.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 28.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 26.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "MELB",
+      "teamName" : "Melbourne",
+      "teamNickname" : "Demons"
+    },
+    "teamId" : "CD_T90",
+    "lastUpdated" : "2018-05-29T04:30:04.202+0000"
+  }, {
+    "stats" : {
+      "goals" : 13.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 176.0,
+      "handballs" : 138.0,
+      "disposals" : 314.0,
+      "marks" : 74.0,
+      "bounces" : 15.0,
+      "tackles" : 62.0,
+      "contestedPossessions" : 126.0,
+      "uncontestedPossessions" : 188.0,
+      "totalPossessions" : 314.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 24.0,
+      "onePercenters" : 50.0,
+      "disposalEfficiency" : 71.0,
+      "clangers" : 63.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1331.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 47.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 61.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-05-29T04:30:04.202+0000",
+      "turnovers" : 68.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 28.9,
+      "shotEfficiency" : 46.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 88.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 26.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "NMFC",
+      "teamName" : "North Melbourne",
+      "teamNickname" : "Kangaroos"
+    },
+    "teamId" : "CD_T100",
+    "lastUpdated" : "2018-05-29T04:30:04.202+0000"
+  } ]
+}

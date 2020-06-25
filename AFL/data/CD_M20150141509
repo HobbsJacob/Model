@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 206.0,
+      "handballs" : 164.0,
+      "disposals" : 370.0,
+      "marks" : 101.0,
+      "bounces" : 12.0,
+      "tackles" : 53.0,
+      "contestedPossessions" : 141.0,
+      "uncontestedPossessions" : 235.0,
+      "totalPossessions" : 376.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 53.0,
+      "onePercenters" : 52.0,
+      "disposalEfficiency" : 68.4,
+      "clangers" : 43.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1532.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 36.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 36.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:40:09.456+0000",
+      "turnovers" : 55.0,
+      "intercepts" : 56.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 19.0,
+      "goalEfficiency" : 14.9,
+      "shotEfficiency" : 40.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 120.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 27.0,
+        "interchangeCountQ2" : 34.0,
+        "interchangeCountQ3" : 34.0,
+        "interchangeCountQ4" : 25.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2018-01-24T05:40:09.456+0000"
+  }, {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 208.0,
+      "handballs" : 192.0,
+      "disposals" : 400.0,
+      "marks" : 88.0,
+      "bounces" : 2.0,
+      "tackles" : 83.0,
+      "contestedPossessions" : 141.0,
+      "uncontestedPossessions" : 258.0,
+      "totalPossessions" : 399.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 55.0,
+      "onePercenters" : 32.0,
+      "disposalEfficiency" : 74.7,
+      "clangers" : 46.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1686.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 30.0,
+        "totalClearances" : 42.0
+      },
+      "rebound50s" : 38.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 47.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:40:09.456+0000",
+      "turnovers" : 56.0,
+      "intercepts" : 55.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 20.8,
+      "shotEfficiency" : 43.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 111.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 30.0,
+        "interchangeCountQ2" : 26.0,
+        "interchangeCountQ3" : 33.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "SYD",
+      "teamName" : "Sydney Swans",
+      "teamNickname" : "Swans"
+    },
+    "teamId" : "CD_T160",
+    "lastUpdated" : "2018-01-24T05:40:09.456+0000"
+  } ]
+}

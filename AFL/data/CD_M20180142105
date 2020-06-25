@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 20.0,
+      "superGoals" : null,
+      "kicks" : 219.0,
+      "handballs" : 177.0,
+      "disposals" : 396.0,
+      "marks" : 87.0,
+      "bounces" : 2.0,
+      "tackles" : 58.0,
+      "contestedPossessions" : 146.0,
+      "uncontestedPossessions" : 248.0,
+      "totalPossessions" : 394.0,
+      "inside50s" : 59.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 37.0,
+      "onePercenters" : 50.0,
+      "disposalEfficiency" : 76.3,
+      "clangers" : 44.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1620.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 41.0
+      },
+      "rebound50s" : 38.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 41.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-08-20T05:38:08.043+0000",
+      "turnovers" : 65.0,
+      "intercepts" : 70.0,
+      "tacklesInside50" : 16.0,
+      "shotsAtGoal" : 34.0,
+      "goalEfficiency" : 23.7,
+      "shotEfficiency" : 57.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 90.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 17.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 25.0,
+        "interchangeCountQ4" : 27.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "COLL",
+      "teamName" : "Collingwood",
+      "teamNickname" : "Magpies"
+    },
+    "teamId" : "CD_T40",
+    "lastUpdated" : "2018-08-20T05:38:08.043+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 216.0,
+      "handballs" : 145.0,
+      "disposals" : 361.0,
+      "marks" : 115.0,
+      "bounces" : 2.0,
+      "tackles" : 48.0,
+      "contestedPossessions" : 119.0,
+      "uncontestedPossessions" : 243.0,
+      "totalPossessions" : 362.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 28.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 77.0,
+      "clangers" : 54.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1524.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 44.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 57.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-08-20T05:38:08.043+0000",
+      "turnovers" : 70.0,
+      "intercepts" : 65.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 19.0,
+      "goalEfficiency" : 22.0,
+      "shotEfficiency" : 38.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2018-08-20T05:38:08.043+0000"
+  } ]
+}

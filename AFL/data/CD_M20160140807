@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 226.0,
+      "handballs" : 159.0,
+      "disposals" : 385.0,
+      "marks" : 112.0,
+      "bounces" : 1.0,
+      "tackles" : 70.0,
+      "contestedPossessions" : 139.0,
+      "uncontestedPossessions" : 240.0,
+      "totalPossessions" : 379.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 59.0,
+      "onePercenters" : 46.0,
+      "disposalEfficiency" : 76.4,
+      "clangers" : 44.0,
+      "freesFor" : 26.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1757.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:39:32.228+0000",
+      "turnovers" : 63.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 28.0,
+      "goalEfficiency" : 28.0,
+      "shotEfficiency" : 56.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "CARL",
+      "teamName" : "Carlton",
+      "teamNickname" : "Blues"
+    },
+    "teamId" : "CD_T30",
+    "lastUpdated" : "2018-01-23T22:39:32.228+0000"
+  }, {
+    "stats" : {
+      "goals" : 13.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 171.0,
+      "handballs" : 135.0,
+      "disposals" : 306.0,
+      "marks" : 58.0,
+      "bounces" : 7.0,
+      "tackles" : 66.0,
+      "contestedPossessions" : 136.0,
+      "uncontestedPossessions" : 170.0,
+      "totalPossessions" : 306.0,
+      "inside50s" : 56.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 27.0,
+      "onePercenters" : 54.0,
+      "disposalEfficiency" : 68.3,
+      "clangers" : 63.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 26.0,
+      "dreamTeamPoints" : 1272.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 30.0,
+        "totalClearances" : 43.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:39:32.228+0000",
+      "turnovers" : 62.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 23.2,
+      "shotEfficiency" : 46.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 86.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 26.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    },
+    "teamId" : "CD_T110",
+    "lastUpdated" : "2018-01-23T22:39:32.228+0000"
+  } ]
+}

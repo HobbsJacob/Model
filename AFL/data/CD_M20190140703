@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 18.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 238.0,
+      "handballs" : 132.0,
+      "disposals" : 370.0,
+      "marks" : 108.0,
+      "bounces" : 9.0,
+      "tackles" : 46.0,
+      "contestedPossessions" : 154.0,
+      "uncontestedPossessions" : 210.0,
+      "totalPossessions" : 364.0,
+      "inside50s" : 42.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 20.0,
+      "hitouts" : 50.0,
+      "onePercenters" : 54.0,
+      "disposalEfficiency" : 75.7,
+      "clangers" : 62.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 26.0,
+      "dreamTeamPoints" : 1594.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 30.0,
+        "totalClearances" : 44.0
+      },
+      "rebound50s" : 52.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 64.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-05T01:39:52.841+0000",
+      "turnovers" : 69.0,
+      "intercepts" : 69.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 28.0,
+      "goalEfficiency" : 42.9,
+      "shotEfficiency" : 66.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 72.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 13.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GWS",
+      "teamName" : "GWS Giants",
+      "teamNickname" : "Giants"
+    },
+    "teamId" : "CD_T1010",
+    "lastUpdated" : "2019-09-05T01:39:52.841+0000"
+  }, {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 180.0,
+      "handballs" : 127.0,
+      "disposals" : 307.0,
+      "marks" : 61.0,
+      "bounces" : 16.0,
+      "tackles" : 45.0,
+      "contestedPossessions" : 141.0,
+      "uncontestedPossessions" : 171.0,
+      "totalPossessions" : 312.0,
+      "inside50s" : 62.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 30.0,
+      "onePercenters" : 39.0,
+      "disposalEfficiency" : 71.3,
+      "clangers" : 48.0,
+      "freesFor" : 26.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1216.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 39.0
+      },
+      "rebound50s" : 23.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-05T01:39:52.841+0000",
+      "turnovers" : 69.0,
+      "intercepts" : 69.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 25.0,
+      "goalEfficiency" : 16.1,
+      "shotEfficiency" : 40.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2019-09-05T01:39:52.841+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 215.0,
+      "handballs" : 169.0,
+      "disposals" : 384.0,
+      "marks" : 104.0,
+      "bounces" : 6.0,
+      "tackles" : 57.0,
+      "contestedPossessions" : 130.0,
+      "uncontestedPossessions" : 257.0,
+      "totalPossessions" : 387.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 31.0,
+      "onePercenters" : 40.0,
+      "disposalEfficiency" : 75.0,
+      "clangers" : 52.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1576.0,
+      "clearances" : {
+        "centreClearances" : 17.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 43.0
+      },
+      "rebound50s" : 38.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:42:50.646+0000",
+      "turnovers" : 75.0,
+      "intercepts" : 62.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 16.0,
+      "shotEfficiency" : 40.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 98.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 29.0,
+        "interchangeCountQ2" : 28.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2018-01-24T05:42:50.646+0000"
+  }, {
+    "stats" : {
+      "goals" : 27.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 233.0,
+      "handballs" : 153.0,
+      "disposals" : 386.0,
+      "marks" : 115.0,
+      "bounces" : 9.0,
+      "tackles" : 49.0,
+      "contestedPossessions" : 140.0,
+      "uncontestedPossessions" : 249.0,
+      "totalPossessions" : 389.0,
+      "inside50s" : 67.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 49.0,
+      "onePercenters" : 52.0,
+      "disposalEfficiency" : 78.0,
+      "clangers" : 48.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1725.0,
+      "clearances" : {
+        "centreClearances" : 18.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 20.0,
+      "goalAccuracy" : 71.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:42:50.646+0000",
+      "turnovers" : 62.0,
+      "intercepts" : 75.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 38.0,
+      "goalEfficiency" : 40.3,
+      "shotEfficiency" : 56.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 119.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 32.0,
+        "interchangeCountQ2" : 31.0,
+        "interchangeCountQ3" : 30.0,
+        "interchangeCountQ4" : 26.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ADEL",
+      "teamName" : "Adelaide Crows",
+      "teamNickname" : "Crows"
+    },
+    "teamId" : "CD_T10",
+    "lastUpdated" : "2018-01-24T05:42:50.646+0000"
+  } ]
+}

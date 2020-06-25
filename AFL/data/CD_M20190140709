@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 225.0,
+      "handballs" : 223.0,
+      "disposals" : 448.0,
+      "marks" : 72.0,
+      "bounces" : 7.0,
+      "tackles" : 58.0,
+      "contestedPossessions" : 182.0,
+      "uncontestedPossessions" : 261.0,
+      "totalPossessions" : 443.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 52.0,
+      "onePercenters" : 53.0,
+      "disposalEfficiency" : 65.8,
+      "clangers" : 43.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1651.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 35.0,
+        "totalClearances" : 45.0
+      },
+      "rebound50s" : 44.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-05T02:16:18.596+0000",
+      "turnovers" : 85.0,
+      "intercepts" : 87.0,
+      "tacklesInside50" : 18.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 14.0,
+      "shotEfficiency" : 42.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 89.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 27.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ADEL",
+      "teamName" : "Adelaide Crows",
+      "teamNickname" : "Crows"
+    },
+    "teamId" : "CD_T10",
+    "lastUpdated" : "2019-09-05T02:16:18.596+0000"
+  }, {
+    "stats" : {
+      "goals" : 5.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 219.0,
+      "handballs" : 185.0,
+      "disposals" : 404.0,
+      "marks" : 85.0,
+      "bounces" : 7.0,
+      "tackles" : 66.0,
+      "contestedPossessions" : 165.0,
+      "uncontestedPossessions" : 247.0,
+      "totalPossessions" : 412.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 34.0,
+      "onePercenters" : 83.0,
+      "disposalEfficiency" : 67.6,
+      "clangers" : 43.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1593.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 37.0,
+        "totalClearances" : 43.0
+      },
+      "rebound50s" : 41.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-05T02:16:18.596+0000",
+      "turnovers" : 87.0,
+      "intercepts" : 84.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 10.0,
+      "goalEfficiency" : 10.0,
+      "shotEfficiency" : 20.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 84.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2019-09-05T02:16:18.596+0000"
+  } ]
+}

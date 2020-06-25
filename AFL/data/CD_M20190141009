@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 209.0,
+      "handballs" : 167.0,
+      "disposals" : 376.0,
+      "marks" : 102.0,
+      "bounces" : 13.0,
+      "tackles" : 49.0,
+      "contestedPossessions" : 134.0,
+      "uncontestedPossessions" : 239.0,
+      "totalPossessions" : 373.0,
+      "inside50s" : 51.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 33.0,
+      "onePercenters" : 57.0,
+      "disposalEfficiency" : 72.3,
+      "clangers" : 57.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 1524.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 32.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 39.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 37.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-06-05T23:29:19.809+0000",
+      "turnovers" : 71.0,
+      "intercepts" : 69.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 19.6,
+      "shotEfficiency" : 52.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 78.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 13.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2019-06-05T23:29:19.809+0000"
+  }, {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 216.0,
+      "handballs" : 107.0,
+      "disposals" : 323.0,
+      "marks" : 98.0,
+      "bounces" : 4.0,
+      "tackles" : 57.0,
+      "contestedPossessions" : 127.0,
+      "uncontestedPossessions" : 191.0,
+      "totalPossessions" : 318.0,
+      "inside50s" : 49.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 37.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 76.8,
+      "clangers" : 53.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1437.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 38.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 43.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-06-05T23:29:19.809+0000",
+      "turnovers" : 69.0,
+      "intercepts" : 71.0,
+      "tacklesInside50" : 14.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 20.4,
+      "shotEfficiency" : 46.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2019-06-05T23:29:19.809+0000"
+  } ]
+}

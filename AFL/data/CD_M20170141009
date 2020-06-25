@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 15.0,
+      "superGoals" : null,
+      "kicks" : 208.0,
+      "handballs" : 177.0,
+      "disposals" : 385.0,
+      "marks" : 90.0,
+      "bounces" : 7.0,
+      "tackles" : 90.0,
+      "contestedPossessions" : 145.0,
+      "uncontestedPossessions" : 229.0,
+      "totalPossessions" : 374.0,
+      "inside50s" : 58.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 38.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 74.5,
+      "clangers" : 36.0,
+      "freesFor" : 26.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1702.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 34.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:26:53.942+0000",
+      "turnovers" : 60.0,
+      "intercepts" : 67.0,
+      "tacklesInside50" : 24.0,
+      "shotsAtGoal" : 32.0,
+      "goalEfficiency" : 19.0,
+      "shotEfficiency" : 55.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 88.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2018-01-23T05:26:53.942+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 192.0,
+      "handballs" : 121.0,
+      "disposals" : 313.0,
+      "marks" : 71.0,
+      "bounces" : 6.0,
+      "tackles" : 74.0,
+      "contestedPossessions" : 147.0,
+      "uncontestedPossessions" : 155.0,
+      "totalPossessions" : 302.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 41.0,
+      "onePercenters" : 43.0,
+      "disposalEfficiency" : 63.9,
+      "clangers" : 53.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 26.0,
+      "dreamTeamPoints" : 1386.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 47.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 42.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:26:53.942+0000",
+      "turnovers" : 67.0,
+      "intercepts" : 62.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 25.0,
+      "shotEfficiency" : 59.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    },
+    "teamId" : "CD_T110",
+    "lastUpdated" : "2018-01-23T05:26:53.942+0000"
+  } ]
+}

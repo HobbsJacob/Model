@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 218.0,
+      "handballs" : 158.0,
+      "disposals" : 376.0,
+      "marks" : 72.0,
+      "bounces" : 11.0,
+      "tackles" : 93.0,
+      "contestedPossessions" : 151.0,
+      "uncontestedPossessions" : 211.0,
+      "totalPossessions" : 362.0,
+      "inside50s" : 59.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 40.0,
+      "onePercenters" : 63.0,
+      "disposalEfficiency" : 68.9,
+      "clangers" : 70.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1625.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 41.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-08-16T06:49:06.481+0000",
+      "turnovers" : 95.0,
+      "intercepts" : 89.0,
+      "tacklesInside50" : 16.0,
+      "shotsAtGoal" : 22.0,
+      "goalEfficiency" : 18.6,
+      "shotEfficiency" : 37.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 76.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 17.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 16.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2019-08-16T06:49:06.481+0000"
+  }, {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 232.0,
+      "handballs" : 134.0,
+      "disposals" : 366.0,
+      "marks" : 69.0,
+      "bounces" : 5.0,
+      "tackles" : 84.0,
+      "contestedPossessions" : 168.0,
+      "uncontestedPossessions" : 179.0,
+      "totalPossessions" : 347.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 53.0,
+      "onePercenters" : 47.0,
+      "disposalEfficiency" : 56.8,
+      "clangers" : 72.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1562.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 36.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 47.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 35.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-08-16T06:49:06.481+0000",
+      "turnovers" : 89.0,
+      "intercepts" : 95.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 17.0,
+      "goalEfficiency" : 14.0,
+      "shotEfficiency" : 39.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 83.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "CARL",
+      "teamName" : "Carlton",
+      "teamNickname" : "Blues"
+    },
+    "teamId" : "CD_T30",
+    "lastUpdated" : "2019-08-16T06:49:06.481+0000"
+  } ]
+}

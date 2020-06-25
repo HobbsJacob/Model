@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 15.0,
+      "superGoals" : null,
+      "kicks" : 177.0,
+      "handballs" : 154.0,
+      "disposals" : 331.0,
+      "marks" : 83.0,
+      "bounces" : 6.0,
+      "tackles" : 58.0,
+      "contestedPossessions" : 116.0,
+      "uncontestedPossessions" : 215.0,
+      "totalPossessions" : 331.0,
+      "inside50s" : 65.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 32.0,
+      "onePercenters" : 28.0,
+      "disposalEfficiency" : 70.1,
+      "clangers" : 36.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1396.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 17.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 25.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:33:58.532+0000",
+      "turnovers" : 63.0,
+      "intercepts" : 65.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 10.8,
+      "shotEfficiency" : 41.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2018-01-23T05:33:58.532+0000"
+  }, {
+    "stats" : {
+      "goals" : 16.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 222.0,
+      "handballs" : 164.0,
+      "disposals" : 386.0,
+      "marks" : 110.0,
+      "bounces" : 8.0,
+      "tackles" : 62.0,
+      "contestedPossessions" : 138.0,
+      "uncontestedPossessions" : 246.0,
+      "totalPossessions" : 384.0,
+      "inside50s" : 34.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 41.0,
+      "onePercenters" : 43.0,
+      "disposalEfficiency" : 72.8,
+      "clangers" : 56.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1669.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 57.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 64.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:33:58.532+0000",
+      "turnovers" : 65.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 25.0,
+      "goalEfficiency" : 47.1,
+      "shotEfficiency" : 73.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 88.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GWS",
+      "teamName" : "GWS Giants",
+      "teamNickname" : "Giants"
+    },
+    "teamId" : "CD_T1010",
+    "lastUpdated" : "2018-01-23T05:33:58.532+0000"
+  } ]
+}

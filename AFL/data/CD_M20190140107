@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 13.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 234.0,
+      "handballs" : 154.0,
+      "disposals" : 388.0,
+      "marks" : 81.0,
+      "bounces" : 11.0,
+      "tackles" : 71.0,
+      "contestedPossessions" : 164.0,
+      "uncontestedPossessions" : 223.0,
+      "totalPossessions" : 387.0,
+      "inside50s" : 60.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 33.0,
+      "onePercenters" : 63.0,
+      "disposalEfficiency" : 71.6,
+      "clangers" : 77.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 29.0,
+      "dreamTeamPoints" : 1582.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 30.0,
+        "totalClearances" : 45.0
+      },
+      "rebound50s" : 40.0,
+      "goalAssists" : 11.0,
+      "goalAccuracy" : 54.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-03-25T01:52:41.575+0000",
+      "turnovers" : 78.0,
+      "intercepts" : 80.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 21.7,
+      "shotEfficiency" : 40.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 84.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2019-03-25T01:52:41.575+0000"
+  }, {
+    "stats" : {
+      "goals" : 13.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 204.0,
+      "handballs" : 151.0,
+      "disposals" : 355.0,
+      "marks" : 76.0,
+      "bounces" : 4.0,
+      "tackles" : 60.0,
+      "contestedPossessions" : 154.0,
+      "uncontestedPossessions" : 207.0,
+      "totalPossessions" : 361.0,
+      "inside50s" : 53.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 50.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 71.0,
+      "clangers" : 59.0,
+      "freesFor" : 29.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1491.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 29.0,
+        "totalClearances" : 41.0
+      },
+      "rebound50s" : 47.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 59.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-03-25T01:52:41.575+0000",
+      "turnovers" : 80.0,
+      "intercepts" : 79.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 22.0,
+      "goalEfficiency" : 24.5,
+      "shotEfficiency" : 41.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 83.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GCFC",
+      "teamName" : "Gold Coast Suns",
+      "teamNickname" : "Suns"
+    },
+    "teamId" : "CD_T1000",
+    "lastUpdated" : "2019-03-25T01:52:41.575+0000"
+  } ]
+}

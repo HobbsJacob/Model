@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 224.0,
+      "handballs" : 179.0,
+      "disposals" : 403.0,
+      "marks" : 113.0,
+      "bounces" : 13.0,
+      "tackles" : 51.0,
+      "contestedPossessions" : 143.0,
+      "uncontestedPossessions" : 260.0,
+      "totalPossessions" : 403.0,
+      "inside50s" : 54.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 36.0,
+      "onePercenters" : 28.0,
+      "disposalEfficiency" : 74.4,
+      "clangers" : 51.0,
+      "freesFor" : 30.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1666.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 32.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:32:03.535+0000",
+      "turnovers" : 64.0,
+      "intercepts" : 58.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 28.0,
+      "goalEfficiency" : 16.7,
+      "shotEfficiency" : 51.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 105.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 29.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 30.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2018-01-24T05:32:03.535+0000"
+  }, {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 195.0,
+      "handballs" : 131.0,
+      "disposals" : 326.0,
+      "marks" : 83.0,
+      "bounces" : 12.0,
+      "tackles" : 73.0,
+      "contestedPossessions" : 125.0,
+      "uncontestedPossessions" : 202.0,
+      "totalPossessions" : 327.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 41.0,
+      "onePercenters" : 46.0,
+      "disposalEfficiency" : 73.6,
+      "clangers" : 58.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 30.0,
+      "dreamTeamPoints" : 1437.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 44.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 52.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:32:03.535+0000",
+      "turnovers" : 57.0,
+      "intercepts" : 64.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 25.0,
+      "shotEfficiency" : 47.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 112.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 26.0,
+        "interchangeCountQ2" : 24.0,
+        "interchangeCountQ3" : 29.0,
+        "interchangeCountQ4" : 33.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2018-01-24T05:32:03.535+0000"
+  } ]
+}

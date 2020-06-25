@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 20.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 204.0,
+      "handballs" : 152.0,
+      "disposals" : 356.0,
+      "marks" : 87.0,
+      "bounces" : 15.0,
+      "tackles" : 69.0,
+      "contestedPossessions" : 139.0,
+      "uncontestedPossessions" : 219.0,
+      "totalPossessions" : 358.0,
+      "inside50s" : 49.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 59.0,
+      "onePercenters" : 48.0,
+      "disposalEfficiency" : 76.1,
+      "clangers" : 34.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1623.0,
+      "clearances" : {
+        "centreClearances" : 18.0,
+        "stoppageClearances" : 29.0,
+        "totalClearances" : 47.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 16.0,
+      "goalAccuracy" : 58.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : null,
+      "turnovers" : 57.0,
+      "intercepts" : 55.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 34.0,
+      "goalEfficiency" : 40.8,
+      "shotEfficiency" : 40.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 109.0,
+        "interchangeCap" : 120.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 33.0,
+        "interchangeCountQ4" : 28.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : null
+  }, {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 192.0,
+      "handballs" : 128.0,
+      "disposals" : 320.0,
+      "marks" : 102.0,
+      "bounces" : 15.0,
+      "tackles" : 58.0,
+      "contestedPossessions" : 118.0,
+      "uncontestedPossessions" : 207.0,
+      "totalPossessions" : 325.0,
+      "inside50s" : 35.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 27.0,
+      "onePercenters" : 55.0,
+      "disposalEfficiency" : 73.4,
+      "clangers" : 42.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1415.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 28.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 45.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : null,
+      "turnovers" : 55.0,
+      "intercepts" : 57.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 25.7,
+      "shotEfficiency" : 25.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 109.0,
+        "interchangeCap" : 120.0,
+        "interchangeCountQ1" : 31.0,
+        "interchangeCountQ2" : 27.0,
+        "interchangeCountQ3" : 27.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "CARL",
+      "teamName" : "Carlton",
+      "teamNickname" : "Blues"
+    },
+    "teamId" : "CD_T30",
+    "lastUpdated" : null
+  } ]
+}

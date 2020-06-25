@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 219.0,
+      "handballs" : 157.0,
+      "disposals" : 376.0,
+      "marks" : 66.0,
+      "bounces" : 3.0,
+      "tackles" : 78.0,
+      "contestedPossessions" : 159.0,
+      "uncontestedPossessions" : 215.0,
+      "totalPossessions" : 374.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 41.0,
+      "onePercenters" : 63.0,
+      "disposalEfficiency" : 61.7,
+      "clangers" : 57.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1550.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 30.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 40.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 47.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-16T03:47:36.721+0000",
+      "turnovers" : 93.0,
+      "intercepts" : 92.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 22.9,
+      "shotEfficiency" : 47.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 86.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2019-07-16T03:47:36.721+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 250.0,
+      "handballs" : 131.0,
+      "disposals" : 381.0,
+      "marks" : 98.0,
+      "bounces" : 3.0,
+      "tackles" : 67.0,
+      "contestedPossessions" : 163.0,
+      "uncontestedPossessions" : 202.0,
+      "totalPossessions" : 365.0,
+      "inside50s" : 53.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 46.0,
+      "onePercenters" : 49.0,
+      "disposalEfficiency" : 60.4,
+      "clangers" : 53.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1677.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 35.0,
+        "totalClearances" : 46.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 44.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-16T03:47:36.721+0000",
+      "turnovers" : 92.0,
+      "intercepts" : 94.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 25.0,
+      "goalEfficiency" : 20.8,
+      "shotEfficiency" : 47.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 79.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "CARL",
+      "teamName" : "Carlton",
+      "teamNickname" : "Blues"
+    },
+    "teamId" : "CD_T30",
+    "lastUpdated" : "2019-07-16T03:47:36.721+0000"
+  } ]
+}

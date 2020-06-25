@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 13.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 223.0,
+      "handballs" : 148.0,
+      "disposals" : 371.0,
+      "marks" : 98.0,
+      "bounces" : 4.0,
+      "tackles" : 61.0,
+      "contestedPossessions" : 151.0,
+      "uncontestedPossessions" : 220.0,
+      "totalPossessions" : 371.0,
+      "inside50s" : 61.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 14.0,
+      "onePercenters" : 43.0,
+      "disposalEfficiency" : 75.5,
+      "clangers" : 53.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1544.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 40.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-17T02:17:00.039+0000",
+      "turnovers" : 66.0,
+      "intercepts" : 73.0,
+      "tacklesInside50" : 15.0,
+      "shotsAtGoal" : 32.0,
+      "goalEfficiency" : 21.3,
+      "shotEfficiency" : 52.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2019-09-17T02:17:00.039+0000"
+  }, {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 209.0,
+      "handballs" : 95.0,
+      "disposals" : 304.0,
+      "marks" : 92.0,
+      "bounces" : 8.0,
+      "tackles" : 47.0,
+      "contestedPossessions" : 128.0,
+      "uncontestedPossessions" : 179.0,
+      "totalPossessions" : 307.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 43.0,
+      "onePercenters" : 41.0,
+      "disposalEfficiency" : 70.4,
+      "clangers" : 48.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1363.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 46.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-17T02:17:00.039+0000",
+      "turnovers" : 73.0,
+      "intercepts" : 67.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 22.2,
+      "shotEfficiency" : 44.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 83.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 25.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 16.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2019-09-17T02:17:00.039+0000"
+  } ]
+}

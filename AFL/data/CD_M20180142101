@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 18.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 235.0,
+      "handballs" : 159.0,
+      "disposals" : 394.0,
+      "marks" : 117.0,
+      "bounces" : 11.0,
+      "tackles" : 55.0,
+      "contestedPossessions" : 133.0,
+      "uncontestedPossessions" : 260.0,
+      "totalPossessions" : 393.0,
+      "inside50s" : 60.0,
+      "marksInside50" : 18.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 25.0,
+      "onePercenters" : 39.0,
+      "disposalEfficiency" : 75.1,
+      "clangers" : 42.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1729.0,
+      "clearances" : {
+        "centreClearances" : 16.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 47.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-08-13T04:54:34.210+0000",
+      "turnovers" : 57.0,
+      "intercepts" : 61.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 38.0,
+      "goalEfficiency" : 30.0,
+      "shotEfficiency" : 63.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 51.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 15.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 0.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2018-08-13T04:54:34.210+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 186.0,
+      "handballs" : 170.0,
+      "disposals" : 356.0,
+      "marks" : 93.0,
+      "bounces" : 8.0,
+      "tackles" : 46.0,
+      "contestedPossessions" : 119.0,
+      "uncontestedPossessions" : 241.0,
+      "totalPossessions" : 360.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 40.0,
+      "onePercenters" : 52.0,
+      "disposalEfficiency" : 74.4,
+      "clangers" : 53.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1416.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 14.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 41.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 45.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-08-13T04:54:34.210+0000",
+      "turnovers" : 60.0,
+      "intercepts" : 57.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 23.9,
+      "shotEfficiency" : 52.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 90.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 25.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2018-08-13T04:54:34.210+0000"
+  } ]
+}

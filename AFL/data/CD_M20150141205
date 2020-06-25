@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 22.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 198.0,
+      "handballs" : 167.0,
+      "disposals" : 365.0,
+      "marks" : 98.0,
+      "bounces" : 17.0,
+      "tackles" : 71.0,
+      "contestedPossessions" : 134.0,
+      "uncontestedPossessions" : 237.0,
+      "totalPossessions" : 371.0,
+      "inside50s" : 58.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 37.0,
+      "onePercenters" : 29.0,
+      "disposalEfficiency" : 77.3,
+      "clangers" : 39.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1657.0,
+      "clearances" : {
+        "centreClearances" : 17.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 27.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 53.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:38:27.093+0000",
+      "turnovers" : 44.0,
+      "intercepts" : 55.0,
+      "tacklesInside50" : 14.0,
+      "shotsAtGoal" : 41.0,
+      "goalEfficiency" : 37.9,
+      "shotEfficiency" : 70.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 117.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 26.0,
+        "interchangeCountQ2" : 29.0,
+        "interchangeCountQ3" : 31.0,
+        "interchangeCountQ4" : 31.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2018-01-24T05:38:27.093+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 192.0,
+      "handballs" : 129.0,
+      "disposals" : 321.0,
+      "marks" : 110.0,
+      "bounces" : 12.0,
+      "tackles" : 67.0,
+      "contestedPossessions" : 106.0,
+      "uncontestedPossessions" : 213.0,
+      "totalPossessions" : 319.0,
+      "inside50s" : 39.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 53.0,
+      "onePercenters" : 31.0,
+      "disposalEfficiency" : 78.2,
+      "clangers" : 44.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1519.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 61.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:38:27.093+0000",
+      "turnovers" : 55.0,
+      "intercepts" : 44.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 18.0,
+      "goalEfficiency" : 28.2,
+      "shotEfficiency" : 46.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 105.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 26.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 33.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2018-01-24T05:38:27.093+0000"
+  } ]
+}

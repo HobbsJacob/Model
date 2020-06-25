@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 191.0,
+      "handballs" : 181.0,
+      "disposals" : 372.0,
+      "marks" : 82.0,
+      "bounces" : 3.0,
+      "tackles" : 69.0,
+      "contestedPossessions" : 142.0,
+      "uncontestedPossessions" : 236.0,
+      "totalPossessions" : 378.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 30.0,
+      "onePercenters" : 53.0,
+      "disposalEfficiency" : 74.7,
+      "clangers" : 58.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 1500.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 34.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 45.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:46:43.435+0000",
+      "turnovers" : 76.0,
+      "intercepts" : 69.0,
+      "tacklesInside50" : 18.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 18.0,
+      "shotEfficiency" : 40.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 70.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 24.0,
+        "interchangeCountQ3" : 16.0,
+        "interchangeCountQ4" : 11.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2018-01-23T22:46:43.435+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 217.0,
+      "handballs" : 174.0,
+      "disposals" : 391.0,
+      "marks" : 108.0,
+      "bounces" : 3.0,
+      "tackles" : 63.0,
+      "contestedPossessions" : 145.0,
+      "uncontestedPossessions" : 250.0,
+      "totalPossessions" : 395.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 21.0,
+      "hitouts" : 45.0,
+      "onePercenters" : 39.0,
+      "disposalEfficiency" : 77.5,
+      "clangers" : 54.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1644.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 55.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:46:43.435+0000",
+      "turnovers" : 68.0,
+      "intercepts" : 76.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 22.9,
+      "shotEfficiency" : 41.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 84.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 16.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2018-01-23T22:46:43.435+0000"
+  } ]
+}

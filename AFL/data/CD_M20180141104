@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 4.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 200.0,
+      "handballs" : 97.0,
+      "disposals" : 297.0,
+      "marks" : 116.0,
+      "bounces" : 2.0,
+      "tackles" : 41.0,
+      "contestedPossessions" : 105.0,
+      "uncontestedPossessions" : 189.0,
+      "totalPossessions" : 294.0,
+      "inside50s" : 41.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 52.0,
+      "onePercenters" : 38.0,
+      "disposalEfficiency" : 70.4,
+      "clangers" : 42.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1347.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 23.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-06-02T09:35:38.696+0000",
+      "turnovers" : 63.0,
+      "intercepts" : 52.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 17.0,
+      "goalEfficiency" : 9.8,
+      "shotEfficiency" : 41.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 73.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 14.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GCFC",
+      "teamName" : "Gold Coast Suns",
+      "teamNickname" : "Suns"
+    },
+    "teamId" : "CD_T1000",
+    "lastUpdated" : "2018-06-02T09:35:38.696+0000"
+  }, {
+    "stats" : {
+      "goals" : 17.0,
+      "behinds" : 19.0,
+      "superGoals" : null,
+      "kicks" : 230.0,
+      "handballs" : 206.0,
+      "disposals" : 436.0,
+      "marks" : 117.0,
+      "bounces" : 19.0,
+      "tackles" : 46.0,
+      "contestedPossessions" : 122.0,
+      "uncontestedPossessions" : 311.0,
+      "totalPossessions" : 433.0,
+      "inside50s" : 62.0,
+      "marksInside50" : 19.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 22.0,
+      "onePercenters" : 35.0,
+      "disposalEfficiency" : 80.3,
+      "clangers" : 43.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1738.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 44.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-06-02T09:35:38.696+0000",
+      "turnovers" : 52.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 38.0,
+      "goalEfficiency" : 27.4,
+      "shotEfficiency" : 61.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 89.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 24.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2018-06-02T09:35:38.696+0000"
+  } ]
+}

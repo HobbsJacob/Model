@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 215.0,
+      "handballs" : 197.0,
+      "disposals" : 412.0,
+      "marks" : 85.0,
+      "bounces" : 6.0,
+      "tackles" : 99.0,
+      "contestedPossessions" : 150.0,
+      "uncontestedPossessions" : 264.0,
+      "totalPossessions" : 414.0,
+      "inside50s" : 56.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 34.0,
+      "onePercenters" : 50.0,
+      "disposalEfficiency" : 73.3,
+      "clangers" : 43.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1765.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 40.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 45.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:37:07.077+0000",
+      "turnovers" : 72.0,
+      "intercepts" : 75.0,
+      "tacklesInside50" : 26.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 16.1,
+      "shotEfficiency" : 35.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "COLL",
+      "teamName" : "Collingwood",
+      "teamNickname" : "Magpies"
+    },
+    "teamId" : "CD_T40",
+    "lastUpdated" : "2018-01-23T22:37:07.077+0000"
+  }, {
+    "stats" : {
+      "goals" : 16.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 210.0,
+      "handballs" : 223.0,
+      "disposals" : 433.0,
+      "marks" : 98.0,
+      "bounces" : 6.0,
+      "tackles" : 84.0,
+      "contestedPossessions" : 154.0,
+      "uncontestedPossessions" : 278.0,
+      "totalPossessions" : 432.0,
+      "inside50s" : 57.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 40.0,
+      "onePercenters" : 56.0,
+      "disposalEfficiency" : 74.6,
+      "clangers" : 53.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1806.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 47.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:37:07.077+0000",
+      "turnovers" : 74.0,
+      "intercepts" : 72.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 28.1,
+      "shotEfficiency" : 42.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 24.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "MELB",
+      "teamName" : "Melbourne",
+      "teamNickname" : "Demons"
+    },
+    "teamId" : "CD_T90",
+    "lastUpdated" : "2018-01-23T22:37:07.077+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 223.0,
+      "handballs" : 167.0,
+      "disposals" : 390.0,
+      "marks" : 107.0,
+      "bounces" : 8.0,
+      "tackles" : 59.0,
+      "contestedPossessions" : 147.0,
+      "uncontestedPossessions" : 244.0,
+      "totalPossessions" : 391.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 47.0,
+      "onePercenters" : 41.0,
+      "disposalEfficiency" : 75.9,
+      "clangers" : 37.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 1683.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 54.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:33:05.843+0000",
+      "turnovers" : 78.0,
+      "intercepts" : 77.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 22.0,
+      "goalEfficiency" : 27.9,
+      "shotEfficiency" : 51.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 108.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 32.0,
+        "interchangeCountQ2" : 28.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2018-01-24T05:33:05.843+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 204.0,
+      "handballs" : 155.0,
+      "disposals" : 359.0,
+      "marks" : 87.0,
+      "bounces" : 6.0,
+      "tackles" : 65.0,
+      "contestedPossessions" : 137.0,
+      "uncontestedPossessions" : 218.0,
+      "totalPossessions" : 355.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 30.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 72.4,
+      "clangers" : 51.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1473.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 30.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 46.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:33:05.843+0000",
+      "turnovers" : 77.0,
+      "intercepts" : 78.0,
+      "tacklesInside50" : 4.0,
+      "shotsAtGoal" : 15.0,
+      "goalEfficiency" : 15.6,
+      "shotEfficiency" : 33.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 111.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 30.0,
+        "interchangeCountQ2" : 30.0,
+        "interchangeCountQ3" : 26.0,
+        "interchangeCountQ4" : 25.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2018-01-24T05:33:05.843+0000"
+  } ]
+}

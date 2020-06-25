@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 190.0,
+      "handballs" : 155.0,
+      "disposals" : 345.0,
+      "marks" : 53.0,
+      "bounces" : 1.0,
+      "tackles" : 65.0,
+      "contestedPossessions" : 154.0,
+      "uncontestedPossessions" : 191.0,
+      "totalPossessions" : 345.0,
+      "inside50s" : 61.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 41.0,
+      "onePercenters" : 62.0,
+      "disposalEfficiency" : 66.7,
+      "clangers" : 74.0,
+      "freesFor" : 28.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1355.0,
+      "clearances" : {
+        "centreClearances" : 17.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 44.0
+      },
+      "rebound50s" : 39.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 45.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-06-20T07:00:08.752+0000",
+      "turnovers" : 84.0,
+      "intercepts" : 76.0,
+      "tacklesInside50" : 17.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 14.8,
+      "shotEfficiency" : 32.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 80.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2018-06-20T07:00:08.752+0000"
+  }, {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 214.0,
+      "handballs" : 133.0,
+      "disposals" : 347.0,
+      "marks" : 79.0,
+      "bounces" : 4.0,
+      "tackles" : 82.0,
+      "contestedPossessions" : 151.0,
+      "uncontestedPossessions" : 185.0,
+      "totalPossessions" : 336.0,
+      "inside50s" : 52.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 35.0,
+      "onePercenters" : 48.0,
+      "disposalEfficiency" : 68.0,
+      "clangers" : 73.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 28.0,
+      "dreamTeamPoints" : 1530.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 34.0
+      },
+      "rebound50s" : 50.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 48.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-06-20T07:00:08.752+0000",
+      "turnovers" : 76.0,
+      "intercepts" : 84.0,
+      "tacklesInside50" : 19.0,
+      "shotsAtGoal" : 25.0,
+      "goalEfficiency" : 23.1,
+      "shotEfficiency" : 48.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 80.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2018-06-20T07:00:08.752+0000"
+  } ]
+}

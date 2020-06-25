@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 202.0,
+      "handballs" : 159.0,
+      "disposals" : 361.0,
+      "marks" : 74.0,
+      "bounces" : 1.0,
+      "tackles" : 64.0,
+      "contestedPossessions" : 160.0,
+      "uncontestedPossessions" : 205.0,
+      "totalPossessions" : 365.0,
+      "inside50s" : 67.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 49.0,
+      "onePercenters" : 45.0,
+      "disposalEfficiency" : 72.3,
+      "clangers" : 55.0,
+      "freesFor" : 30.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1517.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 29.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:37:38.792+0000",
+      "turnovers" : 85.0,
+      "intercepts" : 89.0,
+      "tacklesInside50" : 17.0,
+      "shotsAtGoal" : 28.0,
+      "goalEfficiency" : 20.9,
+      "shotEfficiency" : 41.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "SYD",
+      "teamName" : "Sydney Swans",
+      "teamNickname" : "Swans"
+    },
+    "teamId" : "CD_T160",
+    "lastUpdated" : "2018-01-23T22:37:38.792+0000"
+  }, {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 200.0,
+      "handballs" : 184.0,
+      "disposals" : 384.0,
+      "marks" : 78.0,
+      "bounces" : 18.0,
+      "tackles" : 77.0,
+      "contestedPossessions" : 148.0,
+      "uncontestedPossessions" : 241.0,
+      "totalPossessions" : 389.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 38.0,
+      "onePercenters" : 50.0,
+      "disposalEfficiency" : 71.4,
+      "clangers" : 66.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 30.0,
+      "dreamTeamPoints" : 1545.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 52.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 55.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:37:38.792+0000",
+      "turnovers" : 88.0,
+      "intercepts" : 86.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 18.0,
+      "goalEfficiency" : 21.3,
+      "shotEfficiency" : 38.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 90.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 30.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GWS",
+      "teamName" : "GWS Giants",
+      "teamNickname" : "Giants"
+    },
+    "teamId" : "CD_T1010",
+    "lastUpdated" : "2018-01-23T22:37:38.792+0000"
+  } ]
+}

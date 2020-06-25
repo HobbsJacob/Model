@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 215.0,
+      "handballs" : 143.0,
+      "disposals" : 358.0,
+      "marks" : 76.0,
+      "bounces" : 11.0,
+      "tackles" : 73.0,
+      "contestedPossessions" : 153.0,
+      "uncontestedPossessions" : 200.0,
+      "totalPossessions" : 353.0,
+      "inside50s" : 61.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 39.0,
+      "onePercenters" : 54.0,
+      "disposalEfficiency" : 67.9,
+      "clangers" : 54.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1547.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 43.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 38.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-15T04:37:59.335+0000",
+      "turnovers" : 82.0,
+      "intercepts" : 77.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 31.0,
+      "goalEfficiency" : 19.7,
+      "shotEfficiency" : 50.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 83.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2019-07-15T04:37:59.335+0000"
+  }, {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 182.0,
+      "handballs" : 129.0,
+      "disposals" : 311.0,
+      "marks" : 61.0,
+      "bounces" : 13.0,
+      "tackles" : 52.0,
+      "contestedPossessions" : 153.0,
+      "uncontestedPossessions" : 161.0,
+      "totalPossessions" : 314.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 38.0,
+      "onePercenters" : 64.0,
+      "disposalEfficiency" : 67.2,
+      "clangers" : 53.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1267.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 49.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 46.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-15T04:37:59.335+0000",
+      "turnovers" : 77.0,
+      "intercepts" : 82.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 24.0,
+      "shotEfficiency" : 52.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 83.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "NMFC",
+      "teamName" : "North Melbourne",
+      "teamNickname" : "Kangaroos"
+    },
+    "teamId" : "CD_T100",
+    "lastUpdated" : "2019-07-15T04:37:59.335+0000"
+  } ]
+}

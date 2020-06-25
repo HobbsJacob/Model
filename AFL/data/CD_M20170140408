@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 228.0,
+      "handballs" : 132.0,
+      "disposals" : 360.0,
+      "marks" : 117.0,
+      "bounces" : 7.0,
+      "tackles" : 62.0,
+      "contestedPossessions" : 117.0,
+      "uncontestedPossessions" : 237.0,
+      "totalPossessions" : 354.0,
+      "inside50s" : 51.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 53.0,
+      "onePercenters" : 43.0,
+      "disposalEfficiency" : 72.2,
+      "clangers" : 59.0,
+      "freesFor" : 28.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1635.0,
+      "clearances" : {
+        "centreClearances" : 16.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 43.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 43.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:22:46.355+0000",
+      "turnovers" : 78.0,
+      "intercepts" : 59.0,
+      "tacklesInside50" : 20.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 19.6,
+      "shotEfficiency" : 45.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 86.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 26.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2018-01-23T05:22:46.355+0000"
+  }, {
+    "stats" : {
+      "goals" : 17.0,
+      "behinds" : 17.0,
+      "superGoals" : null,
+      "kicks" : 200.0,
+      "handballs" : 137.0,
+      "disposals" : 337.0,
+      "marks" : 74.0,
+      "bounces" : 9.0,
+      "tackles" : 50.0,
+      "contestedPossessions" : 130.0,
+      "uncontestedPossessions" : 203.0,
+      "totalPossessions" : 333.0,
+      "inside50s" : 60.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 20.0,
+      "onePercenters" : 32.0,
+      "disposalEfficiency" : 75.4,
+      "clangers" : 59.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 28.0,
+      "dreamTeamPoints" : 1371.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 39.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:22:46.355+0000",
+      "turnovers" : 59.0,
+      "intercepts" : 78.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 34.0,
+      "goalEfficiency" : 28.3,
+      "shotEfficiency" : 56.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 25.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2018-01-23T05:22:46.355+0000"
+  } ]
+}

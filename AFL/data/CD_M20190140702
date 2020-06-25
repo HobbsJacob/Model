@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 224.0,
+      "handballs" : 143.0,
+      "disposals" : 367.0,
+      "marks" : 92.0,
+      "bounces" : 5.0,
+      "tackles" : 56.0,
+      "contestedPossessions" : 157.0,
+      "uncontestedPossessions" : 208.0,
+      "totalPossessions" : 365.0,
+      "inside50s" : 63.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 51.0,
+      "onePercenters" : 46.0,
+      "disposalEfficiency" : 68.9,
+      "clangers" : 55.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1551.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 38.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 44.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-05T01:45:54.233+0000",
+      "turnovers" : 79.0,
+      "intercepts" : 83.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 25.0,
+      "goalEfficiency" : 17.5,
+      "shotEfficiency" : 39.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 40.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 0.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "MELB",
+      "teamName" : "Melbourne",
+      "teamNickname" : "Demons"
+    },
+    "teamId" : "CD_T90",
+    "lastUpdated" : "2019-09-05T01:45:54.233+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 199.0,
+      "handballs" : 152.0,
+      "disposals" : 351.0,
+      "marks" : 93.0,
+      "bounces" : 5.0,
+      "tackles" : 80.0,
+      "contestedPossessions" : 125.0,
+      "uncontestedPossessions" : 216.0,
+      "totalPossessions" : 341.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 16.0,
+      "hitouts" : 31.0,
+      "onePercenters" : 59.0,
+      "disposalEfficiency" : 74.1,
+      "clangers" : 60.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1558.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 51.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 55.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-05T01:45:54.233+0000",
+      "turnovers" : 83.0,
+      "intercepts" : 79.0,
+      "tacklesInside50" : 20.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 22.0,
+      "shotEfficiency" : 40.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "HAW",
+      "teamName" : "Hawthorn",
+      "teamNickname" : "Hawks"
+    },
+    "teamId" : "CD_T80",
+    "lastUpdated" : "2019-09-05T01:45:54.233+0000"
+  } ]
+}

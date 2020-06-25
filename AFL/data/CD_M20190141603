@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 208.0,
+      "handballs" : 131.0,
+      "disposals" : 339.0,
+      "marks" : 100.0,
+      "bounces" : 2.0,
+      "tackles" : 52.0,
+      "contestedPossessions" : 132.0,
+      "uncontestedPossessions" : 207.0,
+      "totalPossessions" : 339.0,
+      "inside50s" : 39.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 45.0,
+      "onePercenters" : 45.0,
+      "disposalEfficiency" : 68.4,
+      "clangers" : 55.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1456.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 33.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 64.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-19T04:43:44.878+0000",
+      "turnovers" : 72.0,
+      "intercepts" : 68.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 14.0,
+      "goalEfficiency" : 23.1,
+      "shotEfficiency" : 35.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 26.0,
+        "interchangeCountQ2" : 17.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GCFC",
+      "teamName" : "Gold Coast Suns",
+      "teamNickname" : "Suns"
+    },
+    "teamId" : "CD_T1000",
+    "lastUpdated" : "2019-07-19T04:43:44.878+0000"
+  }, {
+    "stats" : {
+      "goals" : 23.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 224.0,
+      "handballs" : 191.0,
+      "disposals" : 415.0,
+      "marks" : 103.0,
+      "bounces" : 8.0,
+      "tackles" : 58.0,
+      "contestedPossessions" : 148.0,
+      "uncontestedPossessions" : 269.0,
+      "totalPossessions" : 417.0,
+      "inside50s" : 57.0,
+      "marksInside50" : 23.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 34.0,
+      "onePercenters" : 55.0,
+      "disposalEfficiency" : 76.4,
+      "clangers" : 58.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1744.0,
+      "clearances" : {
+        "centreClearances" : 18.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 41.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 20.0,
+      "goalAccuracy" : 67.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-19T04:43:44.878+0000",
+      "turnovers" : 69.0,
+      "intercepts" : 72.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 34.0,
+      "goalEfficiency" : 40.4,
+      "shotEfficiency" : 59.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 89.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 24.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2019-07-19T04:43:44.878+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 15.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 238.0,
+      "handballs" : 148.0,
+      "disposals" : 386.0,
+      "marks" : 112.0,
+      "bounces" : 8.0,
+      "tackles" : 71.0,
+      "contestedPossessions" : 144.0,
+      "uncontestedPossessions" : 240.0,
+      "totalPossessions" : 384.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 32.0,
+      "onePercenters" : 46.0,
+      "disposalEfficiency" : 72.5,
+      "clangers" : 48.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1715.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 39.0
+      },
+      "rebound50s" : 40.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 55.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-12T06:08:43.359+0000",
+      "turnovers" : 72.0,
+      "intercepts" : 76.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 30.0,
+      "shotEfficiency" : 54.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 90.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 27.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 27.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "CARL",
+      "teamName" : "Carlton",
+      "teamNickname" : "Blues"
+    },
+    "teamId" : "CD_T30",
+    "lastUpdated" : "2019-09-12T06:08:43.359+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 210.0,
+      "handballs" : 134.0,
+      "disposals" : 344.0,
+      "marks" : 82.0,
+      "bounces" : 0.0,
+      "tackles" : 91.0,
+      "contestedPossessions" : 151.0,
+      "uncontestedPossessions" : 188.0,
+      "totalPossessions" : 339.0,
+      "inside50s" : 53.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 52.0,
+      "onePercenters" : 54.0,
+      "disposalEfficiency" : 63.7,
+      "clangers" : 58.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1597.0,
+      "clearances" : {
+        "centreClearances" : 19.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 42.0
+      },
+      "rebound50s" : 34.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 42.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-09-12T06:08:43.359+0000",
+      "turnovers" : 75.0,
+      "intercepts" : 72.0,
+      "tacklesInside50" : 16.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 20.8,
+      "shotEfficiency" : 49.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 86.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 16.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GCFC",
+      "teamName" : "Gold Coast Suns",
+      "teamNickname" : "Suns"
+    },
+    "teamId" : "CD_T1000",
+    "lastUpdated" : "2019-09-12T06:08:43.359+0000"
+  } ]
+}

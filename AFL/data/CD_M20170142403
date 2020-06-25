@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 232.0,
+      "handballs" : 188.0,
+      "disposals" : 420.0,
+      "marks" : 91.0,
+      "bounces" : 8.0,
+      "tackles" : 84.0,
+      "contestedPossessions" : 175.0,
+      "uncontestedPossessions" : 251.0,
+      "totalPossessions" : 426.0,
+      "inside50s" : 63.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 59.0,
+      "onePercenters" : 80.0,
+      "disposalEfficiency" : 69.3,
+      "clangers" : 63.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1790.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 30.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:31:04.801+0000",
+      "turnovers" : 78.0,
+      "intercepts" : 89.0,
+      "tacklesInside50" : 14.0,
+      "shotsAtGoal" : 33.0,
+      "goalEfficiency" : 15.9,
+      "shotEfficiency" : 52.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 94.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    },
+    "teamId" : "CD_T110",
+    "lastUpdated" : "2018-01-23T22:31:04.801+0000"
+  }, {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 252.0,
+      "handballs" : 140.0,
+      "disposals" : 392.0,
+      "marks" : 125.0,
+      "bounces" : 5.0,
+      "tackles" : 77.0,
+      "contestedPossessions" : 168.0,
+      "uncontestedPossessions" : 225.0,
+      "totalPossessions" : 393.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 20.0,
+      "hitouts" : 42.0,
+      "onePercenters" : 59.0,
+      "disposalEfficiency" : 72.2,
+      "clangers" : 64.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1781.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 37.0,
+        "totalClearances" : 50.0
+      },
+      "rebound50s" : 52.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 52.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:31:04.801+0000",
+      "turnovers" : 89.0,
+      "intercepts" : 78.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 26.1,
+      "shotEfficiency" : 50.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 83.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2018-01-23T22:31:04.801+0000"
+  } ]
+}

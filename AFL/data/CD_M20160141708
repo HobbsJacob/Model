@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 186.0,
+      "handballs" : 143.0,
+      "disposals" : 329.0,
+      "marks" : 45.0,
+      "bounces" : 2.0,
+      "tackles" : 83.0,
+      "contestedPossessions" : 148.0,
+      "uncontestedPossessions" : 171.0,
+      "totalPossessions" : 319.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 41.0,
+      "onePercenters" : 70.0,
+      "disposalEfficiency" : 66.9,
+      "clangers" : 36.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1402.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 39.0
+      },
+      "rebound50s" : 54.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 42.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:44:46.007+0000",
+      "turnovers" : 82.0,
+      "intercepts" : 77.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 18.0,
+      "shotEfficiency" : 42.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 26.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2018-01-23T22:44:46.007+0000"
+  }, {
+    "stats" : {
+      "goals" : 22.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 251.0,
+      "handballs" : 195.0,
+      "disposals" : 446.0,
+      "marks" : 82.0,
+      "bounces" : 15.0,
+      "tackles" : 85.0,
+      "contestedPossessions" : 200.0,
+      "uncontestedPossessions" : 246.0,
+      "totalPossessions" : 446.0,
+      "inside50s" : 77.0,
+      "marksInside50" : 21.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 47.0,
+      "onePercenters" : 46.0,
+      "disposalEfficiency" : 70.2,
+      "clangers" : 61.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1861.0,
+      "clearances" : {
+        "centreClearances" : 20.0,
+        "stoppageClearances" : 32.0,
+        "totalClearances" : 52.0
+      },
+      "rebound50s" : 40.0,
+      "goalAssists" : 15.0,
+      "goalAccuracy" : 53.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:44:46.007+0000",
+      "turnovers" : 75.0,
+      "intercepts" : 82.0,
+      "tacklesInside50" : 26.0,
+      "shotsAtGoal" : 41.0,
+      "goalEfficiency" : 28.6,
+      "shotEfficiency" : 53.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 89.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 25.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GWS",
+      "teamName" : "GWS Giants",
+      "teamNickname" : "Giants"
+    },
+    "teamId" : "CD_T1010",
+    "lastUpdated" : "2018-01-23T22:44:46.007+0000"
+  } ]
+}

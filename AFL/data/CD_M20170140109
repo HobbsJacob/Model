@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 206.0,
+      "handballs" : 176.0,
+      "disposals" : 382.0,
+      "marks" : 88.0,
+      "bounces" : 2.0,
+      "tackles" : 45.0,
+      "contestedPossessions" : 139.0,
+      "uncontestedPossessions" : 243.0,
+      "totalPossessions" : 382.0,
+      "inside50s" : 51.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 63.0,
+      "onePercenters" : 38.0,
+      "disposalEfficiency" : 76.7,
+      "clangers" : 54.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1519.0,
+      "clearances" : {
+        "centreClearances" : 17.0,
+        "stoppageClearances" : 32.0,
+        "totalClearances" : 49.0
+      },
+      "rebound50s" : 24.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 43.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:21:51.769+0000",
+      "turnovers" : 64.0,
+      "intercepts" : 59.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 19.6,
+      "shotEfficiency" : 45.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 79.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 16.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2018-01-23T05:21:51.769+0000"
+  }, {
+    "stats" : {
+      "goals" : 18.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 194.0,
+      "handballs" : 169.0,
+      "disposals" : 363.0,
+      "marks" : 83.0,
+      "bounces" : 19.0,
+      "tackles" : 72.0,
+      "contestedPossessions" : 150.0,
+      "uncontestedPossessions" : 212.0,
+      "totalPossessions" : 362.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 20.0,
+      "hitouts" : 18.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 76.0,
+      "clangers" : 61.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 1539.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 40.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T05:21:51.769+0000",
+      "turnovers" : 59.0,
+      "intercepts" : 65.0,
+      "tacklesInside50" : 14.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 41.9,
+      "shotEfficiency" : 62.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 89.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2018-01-23T05:21:51.769+0000"
+  } ]
+}

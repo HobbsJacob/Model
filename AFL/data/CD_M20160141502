@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 233.0,
+      "handballs" : 114.0,
+      "disposals" : 347.0,
+      "marks" : 56.0,
+      "bounces" : 6.0,
+      "tackles" : 106.0,
+      "contestedPossessions" : 176.0,
+      "uncontestedPossessions" : 159.0,
+      "totalPossessions" : 335.0,
+      "inside50s" : 68.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 25.0,
+      "onePercenters" : 85.0,
+      "disposalEfficiency" : 62.0,
+      "clangers" : 64.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1609.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 38.0,
+        "totalClearances" : 52.0
+      },
+      "rebound50s" : 44.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 60.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:43:16.492+0000",
+      "turnovers" : 91.0,
+      "intercepts" : 90.0,
+      "tacklesInside50" : 20.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 20.6,
+      "shotEfficiency" : 33.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 90.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    },
+    "teamId" : "CD_T110",
+    "lastUpdated" : "2018-01-23T22:43:16.492+0000"
+  }, {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 227.0,
+      "handballs" : 143.0,
+      "disposals" : 370.0,
+      "marks" : 87.0,
+      "bounces" : 2.0,
+      "tackles" : 65.0,
+      "contestedPossessions" : 159.0,
+      "uncontestedPossessions" : 213.0,
+      "totalPossessions" : 372.0,
+      "inside50s" : 52.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 52.0,
+      "onePercenters" : 59.0,
+      "disposalEfficiency" : 70.5,
+      "clangers" : 64.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1539.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 53.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:43:16.492+0000",
+      "turnovers" : 89.0,
+      "intercepts" : 91.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 16.0,
+      "goalEfficiency" : 15.4,
+      "shotEfficiency" : 30.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 88.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 25.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2018-01-23T22:43:16.492+0000"
+  } ]
+}

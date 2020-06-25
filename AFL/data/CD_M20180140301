@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 208.0,
+      "handballs" : 128.0,
+      "disposals" : 336.0,
+      "marks" : 84.0,
+      "bounces" : 6.0,
+      "tackles" : 55.0,
+      "contestedPossessions" : 133.0,
+      "uncontestedPossessions" : 195.0,
+      "totalPossessions" : 328.0,
+      "inside50s" : 55.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 36.0,
+      "onePercenters" : 43.0,
+      "disposalEfficiency" : 72.3,
+      "clangers" : 59.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 28.0,
+      "dreamTeamPoints" : 1403.0,
+      "clearances" : {
+        "centreClearances" : 16.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 34.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 47.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-04-07T08:18:05.367+0000",
+      "turnovers" : 65.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 20.0,
+      "shotEfficiency" : 41.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 16.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 28.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "CARL",
+      "teamName" : "Carlton",
+      "teamNickname" : "Blues"
+    },
+    "teamId" : "CD_T30",
+    "lastUpdated" : "2018-04-07T08:18:05.367+0000"
+  }, {
+    "stats" : {
+      "goals" : 16.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 227.0,
+      "handballs" : 190.0,
+      "disposals" : 417.0,
+      "marks" : 113.0,
+      "bounces" : 14.0,
+      "tackles" : 69.0,
+      "contestedPossessions" : 136.0,
+      "uncontestedPossessions" : 281.0,
+      "totalPossessions" : 417.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 15.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 37.0,
+      "onePercenters" : 50.0,
+      "disposalEfficiency" : 77.9,
+      "clangers" : 54.0,
+      "freesFor" : 28.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 1772.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 43.0,
+      "goalAssists" : 14.0,
+      "goalAccuracy" : 69.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-04-07T08:18:05.367+0000",
+      "turnovers" : 63.0,
+      "intercepts" : 66.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 32.0,
+      "shotEfficiency" : 46.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 89.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "COLL",
+      "teamName" : "Collingwood",
+      "teamNickname" : "Magpies"
+    },
+    "teamId" : "CD_T40",
+    "lastUpdated" : "2018-04-07T08:18:05.367+0000"
+  } ]
+}

@@ -1,13 +1,12 @@
 import requests
 import os
 
-headers = {'x-media-mis-token': '98cdab6de2db279ff3aefa1df0535ac5'}
+headers = {'x-media-mis-token': '80739fdc2bac8ee43038ee015634a8a4'}
 
 
 
 
-
-season = "CD_M2015014"
+season = "CD_M2020014"
 week = 1
 game = 1
 

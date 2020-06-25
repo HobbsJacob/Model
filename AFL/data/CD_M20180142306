@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 227.0,
+      "handballs" : 167.0,
+      "disposals" : 394.0,
+      "marks" : 104.0,
+      "bounces" : 0.0,
+      "tackles" : 62.0,
+      "contestedPossessions" : 131.0,
+      "uncontestedPossessions" : 257.0,
+      "totalPossessions" : 388.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 48.0,
+      "onePercenters" : 48.0,
+      "disposalEfficiency" : 76.9,
+      "clangers" : 49.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1652.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 44.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 61.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-08-31T08:19:55.113+0000",
+      "turnovers" : 72.0,
+      "intercepts" : 61.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 18.0,
+      "goalEfficiency" : 22.0,
+      "shotEfficiency" : 36.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 83.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2018-08-31T08:19:55.113+0000"
+  }, {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 223.0,
+      "handballs" : 137.0,
+      "disposals" : 360.0,
+      "marks" : 95.0,
+      "bounces" : 5.0,
+      "tackles" : 55.0,
+      "contestedPossessions" : 141.0,
+      "uncontestedPossessions" : 217.0,
+      "totalPossessions" : 358.0,
+      "inside50s" : 58.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 39.0,
+      "onePercenters" : 39.0,
+      "disposalEfficiency" : 72.8,
+      "clangers" : 49.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1548.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 30.0,
+        "totalClearances" : 43.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 45.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-08-31T08:19:55.113+0000",
+      "turnovers" : 61.0,
+      "intercepts" : 72.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 31.0,
+      "goalEfficiency" : 24.1,
+      "shotEfficiency" : 53.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 25.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2018-08-31T08:19:55.113+0000"
+  } ]
+}

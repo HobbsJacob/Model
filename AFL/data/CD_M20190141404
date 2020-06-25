@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 201.0,
+      "handballs" : 144.0,
+      "disposals" : 345.0,
+      "marks" : 84.0,
+      "bounces" : 9.0,
+      "tackles" : 80.0,
+      "contestedPossessions" : 124.0,
+      "uncontestedPossessions" : 207.0,
+      "totalPossessions" : 331.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 39.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 70.1,
+      "clangers" : 47.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1542.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 39.0
+      },
+      "rebound50s" : 45.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 38.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-03T01:48:44.587+0000",
+      "turnovers" : 63.0,
+      "intercepts" : 62.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 20.0,
+      "shotEfficiency" : 52.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 80.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2019-07-03T01:48:44.587+0000"
+  }, {
+    "stats" : {
+      "goals" : 17.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 263.0,
+      "handballs" : 116.0,
+      "disposals" : 379.0,
+      "marks" : 121.0,
+      "bounces" : 1.0,
+      "tackles" : 56.0,
+      "contestedPossessions" : 151.0,
+      "uncontestedPossessions" : 220.0,
+      "totalPossessions" : 371.0,
+      "inside50s" : 62.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 42.0,
+      "onePercenters" : 37.0,
+      "disposalEfficiency" : 71.2,
+      "clangers" : 52.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1729.0,
+      "clearances" : {
+        "centreClearances" : 17.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 43.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-03T01:48:44.587+0000",
+      "turnovers" : 62.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 21.0,
+      "shotsAtGoal" : 34.0,
+      "goalEfficiency" : 27.4,
+      "shotEfficiency" : 54.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 84.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2019-07-03T01:48:44.587+0000"
+  } ]
+}

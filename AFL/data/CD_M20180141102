@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 195.0,
+      "handballs" : 191.0,
+      "disposals" : 386.0,
+      "marks" : 66.0,
+      "bounces" : 9.0,
+      "tackles" : 61.0,
+      "contestedPossessions" : 137.0,
+      "uncontestedPossessions" : 242.0,
+      "totalPossessions" : 379.0,
+      "inside50s" : 51.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 26.0,
+      "onePercenters" : 49.0,
+      "disposalEfficiency" : 72.3,
+      "clangers" : 52.0,
+      "freesFor" : 26.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1456.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 33.0,
+        "totalClearances" : 48.0
+      },
+      "rebound50s" : 52.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-06-05T00:53:01.627+0000",
+      "turnovers" : 78.0,
+      "intercepts" : 65.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 13.7,
+      "shotEfficiency" : 41.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2018-06-05T00:53:01.627+0000"
+  }, {
+    "stats" : {
+      "goals" : 15.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 230.0,
+      "handballs" : 224.0,
+      "disposals" : 454.0,
+      "marks" : 119.0,
+      "bounces" : 3.0,
+      "tackles" : 61.0,
+      "contestedPossessions" : 157.0,
+      "uncontestedPossessions" : 302.0,
+      "totalPossessions" : 459.0,
+      "inside50s" : 68.0,
+      "marksInside50" : 20.0,
+      "contestedMarks" : 22.0,
+      "hitouts" : 59.0,
+      "onePercenters" : 34.0,
+      "disposalEfficiency" : 75.8,
+      "clangers" : 64.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 26.0,
+      "dreamTeamPoints" : 1838.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 27.0
+      },
+      "rebound50s" : 43.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 51.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-06-05T00:53:01.627+0000",
+      "turnovers" : 65.0,
+      "intercepts" : 78.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 29.0,
+      "goalEfficiency" : 22.1,
+      "shotEfficiency" : 42.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 83.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "MELB",
+      "teamName" : "Melbourne",
+      "teamNickname" : "Demons"
+    },
+    "teamId" : "CD_T90",
+    "lastUpdated" : "2018-06-05T00:53:01.627+0000"
+  } ]
+}

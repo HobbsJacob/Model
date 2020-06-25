@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 228.0,
+      "handballs" : 194.0,
+      "disposals" : 422.0,
+      "marks" : 102.0,
+      "bounces" : 5.0,
+      "tackles" : 67.0,
+      "contestedPossessions" : 141.0,
+      "uncontestedPossessions" : 276.0,
+      "totalPossessions" : 417.0,
+      "inside50s" : 53.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 42.0,
+      "onePercenters" : 46.0,
+      "disposalEfficiency" : 70.4,
+      "clangers" : 54.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1716.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 39.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-31T05:16:33.659+0000",
+      "turnovers" : 76.0,
+      "intercepts" : 80.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 13.2,
+      "shotEfficiency" : 39.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 17.0,
+        "interchangeCountQ2" : 26.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 16.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    },
+    "teamId" : "CD_T110",
+    "lastUpdated" : "2019-07-31T05:16:33.659+0000"
+  }, {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 227.0,
+      "handballs" : 149.0,
+      "disposals" : 376.0,
+      "marks" : 102.0,
+      "bounces" : 10.0,
+      "tackles" : 53.0,
+      "contestedPossessions" : 140.0,
+      "uncontestedPossessions" : 230.0,
+      "totalPossessions" : 370.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 27.0,
+      "onePercenters" : 47.0,
+      "disposalEfficiency" : 69.4,
+      "clangers" : 65.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1540.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 46.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 42.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-31T05:16:33.659+0000",
+      "turnovers" : 79.0,
+      "intercepts" : 76.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 19.0,
+      "goalEfficiency" : 17.8,
+      "shotEfficiency" : 42.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 68.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 13.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GWS",
+      "teamName" : "GWS Giants",
+      "teamNickname" : "Giants"
+    },
+    "teamId" : "CD_T1010",
+    "lastUpdated" : "2019-07-31T05:16:33.659+0000"
+  } ]
+}

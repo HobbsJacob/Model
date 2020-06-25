@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 180.0,
+      "handballs" : 122.0,
+      "disposals" : 302.0,
+      "marks" : 87.0,
+      "bounces" : 4.0,
+      "tackles" : 69.0,
+      "contestedPossessions" : 118.0,
+      "uncontestedPossessions" : 179.0,
+      "totalPossessions" : 297.0,
+      "inside50s" : 56.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 34.0,
+      "onePercenters" : 49.0,
+      "disposalEfficiency" : 69.9,
+      "clangers" : 54.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 28.0,
+      "dreamTeamPoints" : 1350.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 34.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 42.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:31:56.889+0000",
+      "turnovers" : 69.0,
+      "intercepts" : 64.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 16.1,
+      "shotEfficiency" : 37.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 101.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 28.0,
+        "interchangeCountQ2" : 29.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2018-01-24T05:31:56.889+0000"
+  }, {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 204.0,
+      "handballs" : 187.0,
+      "disposals" : 391.0,
+      "marks" : 83.0,
+      "bounces" : 16.0,
+      "tackles" : 53.0,
+      "contestedPossessions" : 150.0,
+      "uncontestedPossessions" : 247.0,
+      "totalPossessions" : 397.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 47.0,
+      "onePercenters" : 54.0,
+      "disposalEfficiency" : 71.1,
+      "clangers" : 42.0,
+      "freesFor" : 28.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1569.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 47.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 44.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-24T05:31:56.889+0000",
+      "turnovers" : 64.0,
+      "intercepts" : 70.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 24.0,
+      "shotEfficiency" : 54.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 107.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 29.0,
+        "interchangeCountQ2" : 26.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 28.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "NMFC",
+      "teamName" : "North Melbourne",
+      "teamNickname" : "Kangaroos"
+    },
+    "teamId" : "CD_T100",
+    "lastUpdated" : "2018-01-24T05:31:56.889+0000"
+  } ]
+}

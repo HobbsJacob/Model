@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 224.0,
+      "handballs" : 143.0,
+      "disposals" : 367.0,
+      "marks" : 102.0,
+      "bounces" : 3.0,
+      "tackles" : 45.0,
+      "contestedPossessions" : 145.0,
+      "uncontestedPossessions" : 216.0,
+      "totalPossessions" : 361.0,
+      "inside50s" : 53.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 48.0,
+      "onePercenters" : 61.0,
+      "disposalEfficiency" : 73.3,
+      "clangers" : 52.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 1525.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 30.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 42.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-06-19T07:24:21.382+0000",
+      "turnovers" : 64.0,
+      "intercepts" : 76.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 28.0,
+      "goalEfficiency" : 22.6,
+      "shotEfficiency" : 52.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 37.0,
+        "interchangeCountQ2" : 2.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2019-06-19T07:24:21.382+0000"
+  }, {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 193.0,
+      "handballs" : 115.0,
+      "disposals" : 308.0,
+      "marks" : 81.0,
+      "bounces" : 3.0,
+      "tackles" : 64.0,
+      "contestedPossessions" : 118.0,
+      "uncontestedPossessions" : 181.0,
+      "totalPossessions" : 299.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 40.0,
+      "onePercenters" : 50.0,
+      "disposalEfficiency" : 75.0,
+      "clangers" : 53.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1381.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 40.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 58.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-06-19T07:24:21.382+0000",
+      "turnovers" : 76.0,
+      "intercepts" : 64.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 17.0,
+      "goalEfficiency" : 21.7,
+      "shotEfficiency" : 37.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 83.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 40.0,
+        "interchangeCountQ2" : 0.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "HAW",
+      "teamName" : "Hawthorn",
+      "teamNickname" : "Hawks"
+    },
+    "teamId" : "CD_T80",
+    "lastUpdated" : "2019-06-19T07:24:21.382+0000"
+  } ]
+}

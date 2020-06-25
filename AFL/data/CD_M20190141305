@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 15.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 197.0,
+      "handballs" : 133.0,
+      "disposals" : 330.0,
+      "marks" : 87.0,
+      "bounces" : 4.0,
+      "tackles" : 44.0,
+      "contestedPossessions" : 123.0,
+      "uncontestedPossessions" : 199.0,
+      "totalPossessions" : 322.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 53.0,
+      "onePercenters" : 43.0,
+      "disposalEfficiency" : 73.6,
+      "clangers" : 45.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1418.0,
+      "clearances" : {
+        "centreClearances" : 17.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 34.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 51.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-06-17T04:10:07.754+0000",
+      "turnovers" : 61.0,
+      "intercepts" : 62.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 29.0,
+      "goalEfficiency" : 33.3,
+      "shotEfficiency" : 64.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 89.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 24.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "CARL",
+      "teamName" : "Carlton",
+      "teamNickname" : "Blues"
+    },
+    "teamId" : "CD_T30",
+    "lastUpdated" : "2019-06-17T04:10:07.754+0000"
+  }, {
+    "stats" : {
+      "goals" : 15.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 231.0,
+      "handballs" : 171.0,
+      "disposals" : 402.0,
+      "marks" : 106.0,
+      "bounces" : 10.0,
+      "tackles" : 59.0,
+      "contestedPossessions" : 127.0,
+      "uncontestedPossessions" : 268.0,
+      "totalPossessions" : 395.0,
+      "inside50s" : 49.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 33.0,
+      "onePercenters" : 47.0,
+      "disposalEfficiency" : 77.1,
+      "clangers" : 51.0,
+      "freesFor" : 16.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1682.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 30.0,
+        "totalClearances" : 42.0
+      },
+      "rebound50s" : 30.0,
+      "goalAssists" : 11.0,
+      "goalAccuracy" : 46.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-06-17T04:10:07.754+0000",
+      "turnovers" : 62.0,
+      "intercepts" : 61.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 32.0,
+      "goalEfficiency" : 30.6,
+      "shotEfficiency" : 65.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 80.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2019-06-17T04:10:07.754+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 268.0,
+      "handballs" : 129.0,
+      "disposals" : 397.0,
+      "marks" : 135.0,
+      "bounces" : 5.0,
+      "tackles" : 50.0,
+      "contestedPossessions" : 130.0,
+      "uncontestedPossessions" : 257.0,
+      "totalPossessions" : 387.0,
+      "inside50s" : 51.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 42.0,
+      "onePercenters" : 53.0,
+      "disposalEfficiency" : 76.6,
+      "clangers" : 57.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1731.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 38.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 47.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-04-15T01:53:04.500+0000",
+      "turnovers" : 87.0,
+      "intercepts" : 74.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 19.6,
+      "shotEfficiency" : 41.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 77.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 17.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2019-04-15T01:53:04.500+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 219.0,
+      "handballs" : 126.0,
+      "disposals" : 345.0,
+      "marks" : 81.0,
+      "bounces" : 3.0,
+      "tackles" : 54.0,
+      "contestedPossessions" : 151.0,
+      "uncontestedPossessions" : 184.0,
+      "totalPossessions" : 335.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 24.0,
+      "onePercenters" : 41.0,
+      "disposalEfficiency" : 67.8,
+      "clangers" : 45.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1426.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 27.0
+      },
+      "rebound50s" : 41.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 35.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-04-15T01:53:04.500+0000",
+      "turnovers" : 74.0,
+      "intercepts" : 87.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 15.2,
+      "shotEfficiency" : 43.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2019-04-15T01:53:04.500+0000"
+  } ]
+}

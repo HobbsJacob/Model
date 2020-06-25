@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 194.0,
+      "handballs" : 131.0,
+      "disposals" : 325.0,
+      "marks" : 73.0,
+      "bounces" : 24.0,
+      "tackles" : 79.0,
+      "contestedPossessions" : 141.0,
+      "uncontestedPossessions" : 174.0,
+      "totalPossessions" : 315.0,
+      "inside50s" : 60.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 17.0,
+      "hitouts" : 47.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 69.2,
+      "clangers" : 49.0,
+      "freesFor" : 29.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1488.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 54.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-12T06:38:29.720+0000",
+      "turnovers" : 80.0,
+      "intercepts" : 76.0,
+      "tacklesInside50" : 22.0,
+      "shotsAtGoal" : 22.0,
+      "goalEfficiency" : 20.0,
+      "shotEfficiency" : 36.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2019-07-12T06:38:29.720+0000"
+  }, {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 230.0,
+      "handballs" : 142.0,
+      "disposals" : 372.0,
+      "marks" : 104.0,
+      "bounces" : 6.0,
+      "tackles" : 57.0,
+      "contestedPossessions" : 167.0,
+      "uncontestedPossessions" : 208.0,
+      "totalPossessions" : 375.0,
+      "inside50s" : 53.0,
+      "marksInside50" : 16.0,
+      "contestedMarks" : 17.0,
+      "hitouts" : 41.0,
+      "onePercenters" : 50.0,
+      "disposalEfficiency" : 68.8,
+      "clangers" : 70.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 29.0,
+      "dreamTeamPoints" : 1550.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 35.0,
+        "totalClearances" : 46.0
+      },
+      "rebound50s" : 46.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 38.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2019-07-12T06:38:29.720+0000",
+      "turnovers" : 77.0,
+      "intercepts" : 80.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 18.9,
+      "shotEfficiency" : 49.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 80.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GWS",
+      "teamName" : "GWS Giants",
+      "teamNickname" : "Giants"
+    },
+    "teamId" : "CD_T1010",
+    "lastUpdated" : "2019-07-12T06:38:29.720+0000"
+  } ]
+}

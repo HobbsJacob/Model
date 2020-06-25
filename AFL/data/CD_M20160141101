@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 18.0,
+      "behinds" : 16.0,
+      "superGoals" : null,
+      "kicks" : 206.0,
+      "handballs" : 174.0,
+      "disposals" : 380.0,
+      "marks" : 72.0,
+      "bounces" : 3.0,
+      "tackles" : 94.0,
+      "contestedPossessions" : 157.0,
+      "uncontestedPossessions" : 223.0,
+      "totalPossessions" : 380.0,
+      "inside50s" : 72.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 28.0,
+      "onePercenters" : 54.0,
+      "disposalEfficiency" : 73.4,
+      "clangers" : 47.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1691.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 48.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:41:03.066+0000",
+      "turnovers" : 65.0,
+      "intercepts" : 81.0,
+      "tacklesInside50" : 14.0,
+      "shotsAtGoal" : 37.0,
+      "goalEfficiency" : 25.0,
+      "shotEfficiency" : 51.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "NMFC",
+      "teamName" : "North Melbourne",
+      "teamNickname" : "Kangaroos"
+    },
+    "teamId" : "CD_T100",
+    "lastUpdated" : "2018-01-23T22:41:03.066+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 188.0,
+      "handballs" : 148.0,
+      "disposals" : 336.0,
+      "marks" : 71.0,
+      "bounces" : 0.0,
+      "tackles" : 58.0,
+      "contestedPossessions" : 142.0,
+      "uncontestedPossessions" : 196.0,
+      "totalPossessions" : 338.0,
+      "inside50s" : 41.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 62.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 72.0,
+      "clangers" : 46.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1382.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 30.0,
+        "totalClearances" : 43.0
+      },
+      "rebound50s" : 53.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 46.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2018-01-23T22:41:03.066+0000",
+      "turnovers" : 81.0,
+      "intercepts" : 65.0,
+      "tacklesInside50" : 14.0,
+      "shotsAtGoal" : 15.0,
+      "goalEfficiency" : 17.1,
+      "shotEfficiency" : 36.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 65.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 13.0,
+        "interchangeCountQ4" : 12.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2018-01-23T22:41:03.066+0000"
+  } ]
+}

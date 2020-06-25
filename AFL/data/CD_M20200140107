@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 155.0,
+      "handballs" : 119.0,
+      "disposals" : 274.0,
+      "marks" : 51.0,
+      "bounces" : 1.0,
+      "tackles" : 51.0,
+      "contestedPossessions" : 130.0,
+      "uncontestedPossessions" : 144.0,
+      "totalPossessions" : 274.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 28.0,
+      "onePercenters" : 39.0,
+      "disposalEfficiency" : 71.2,
+      "clangers" : 46.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1112.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 31.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 47.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-03-23T23:48:11.485+0000",
+      "turnovers" : 65.0,
+      "intercepts" : 56.0,
+      "tacklesInside50" : 14.0,
+      "shotsAtGoal" : 17.0,
+      "goalEfficiency" : 18.2,
+      "shotEfficiency" : 38.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 50.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 13.0,
+        "interchangeCountQ3" : 9.0,
+        "interchangeCountQ4" : 5.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "NMFC",
+      "teamName" : "North Melbourne",
+      "teamNickname" : "Kangaroos"
+    },
+    "teamId" : "CD_T100",
+    "lastUpdated" : "2020-03-23T23:48:11.485+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 167.0,
+      "handballs" : 133.0,
+      "disposals" : 300.0,
+      "marks" : 51.0,
+      "bounces" : 3.0,
+      "tackles" : 72.0,
+      "contestedPossessions" : 125.0,
+      "uncontestedPossessions" : 163.0,
+      "totalPossessions" : 288.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 26.0,
+      "onePercenters" : 48.0,
+      "disposalEfficiency" : 65.3,
+      "clangers" : 49.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1244.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 25.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 29.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-03-23T23:48:11.485+0000",
+      "turnovers" : 56.0,
+      "intercepts" : 65.0,
+      "tacklesInside50" : 25.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 17.5,
+      "shotEfficiency" : 60.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 74.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 17.0,
+        "interchangeCountQ3" : 16.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2020-03-23T23:48:11.485+0000"
+  } ]
+}
