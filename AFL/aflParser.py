@@ -2,13 +2,20 @@ import os
 import json
 import requests
 import sys
-from trueskill import Rating, quality_1vs1, rate_1vs1
+from math import sqrt
+from trueskill import Rating, BETA, global_env, rate_1vs1
+from trueskill.backends import cdf
 
 headers = {'x-media-mis-token': '9c0514e745190c73b89b8d769f43bac2'}
 
+def win_probability(player_rating, opponent_rating):
+    delta_mu = player_rating.mu - opponent_rating.mu
+    denom = sqrt(2 * (BETA * BETA) + pow(player_rating.sigma, 2) + pow(opponent_rating.sigma, 2))
+    return cdf(delta_mu / denom)
+
 class Team:
     naughtyWords = ["superGoals", "ratingPoints", "ranking", "lastUpdated", "scoreInvolvements", "metresGained","scoreDiff","previousTeam"]
-
+    skill = Rating()
     def __init__(self, n):
         self.name = n
         self.previousStats = {}         # Dict
@@ -82,7 +89,7 @@ allTeams["Melbourne"] = Team("Melbourne")
 allTeams["Gold Coast Suns"] = Team("Gold Coast Suns")
 
 with open("parsed.csv", "w") as outFile:
-    outFile.write("home,away,aaa,aab,aac,aad,aae,aaf,aag,aah,aai,aaj,aak,aal,aam,aan,aao,aap,aaq,aar,aas,aat,aau,aav,aaw,aax,aay,aaz,aba,aca,ada,aea,afa,aga,aha,aia,aja,aka,ala,ama,ana,aoa,apa,aqa,ara,asa,ata,aua,ava,awa,axa,aya,aza,baa,caa,daa,eaa,faa,gaa,haa,iaa,jaa,kaa,laa,maa,naa,oaa,paa,qaa,raa,saa,taa,uaa,vaa,waa,xaa,ptpa,ptpb,Result\n")
+    outFile.write("home,away,percent,aaa,aab,aac,aad,aae,aaf,aag,aah,aai,aaj,aak,aal,zzzz,aam,aan,aao,aap,aaq,aar,aas,aat,aau,aav,aaw,aax,aay,aaz,aba,aca,ada,aea,afa,aga,aha,aia,aja,aka,ala,ama,ana,aoa,apa,aqa,ara,asa,ata,aua,ava,awa,axa,aya,aza,baa,caa,daa,eaa,faa,gaa,haa,iaa,jaa,kaa,laa,maa,naa,oaa,paa,qaa,raa,saa,taa,uaa,vaa,waa,xaa,ptpa,ptpb,Result\n")
     for jFile in os.listdir("data"):
         with open(os.path.join("data", jFile), "r") as file:
             print(jFile)
@@ -92,6 +99,8 @@ with open("parsed.csv", "w") as outFile:
             home = j["teamStats"][0]["teamName"]["teamName"]
             away = j["teamStats"][1]["teamName"]["teamName"]
 
+
+                                                                                #Empty stats
             if allTeams[home].previousStats == {}:
                 allTeams[home].updateValues(j["teamStats"][0]["stats"])
 
@@ -100,12 +109,15 @@ with open("parsed.csv", "w") as outFile:
 
             line += home + "," + away + ","
 
-            line += allTeams[home].printStats() + ","
+            line += str(win_probability(allTeams[home].skill, allTeams[away].skill)) + ","                                                                    #Add trueskill
+
+
+            line += allTeams[home].printStats() + ","                          #Print stats
             line += allTeams[away].printStats() + ","
 
-            allTeams[home].updateValues(j["teamStats"][0]["stats"])
+            allTeams[home].updateValues(j["teamStats"][0]["stats"])             #Update stats
             allTeams[away].updateValues(j["teamStats"][1]["stats"])
-            try:
+            try:                                                                                                        #Get results
                 page = requests.get("https://api.afl.com.au/cfs/afl/matchRoster/full/" + jFile, headers=headers)
 
                 j = json.loads(page.text)
@@ -128,8 +140,11 @@ with open("parsed.csv", "w") as outFile:
 
                 if homeScore - awayScore > 0:
                     line += "win"
+                    allTeams[home].skill, allTeams[away].skill = rate_1vs1(allTeams[home].skill, allTeams[away].skill)
                 else:
                     line += "loss"
+                    allTeams[away].skill, allTeams[home].skill = rate_1vs1(allTeams[away].skill,
+                                                                                     allTeams[home].skill)
 
                 line += "\n"
 
