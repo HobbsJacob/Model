@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 5.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 171.0,
+      "handballs" : 126.0,
+      "disposals" : 297.0,
+      "marks" : 74.0,
+      "bounces" : 5.0,
+      "tackles" : 27.0,
+      "contestedPossessions" : 121.0,
+      "uncontestedPossessions" : 175.0,
+      "totalPossessions" : 296.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 11.0,
+      "onePercenters" : 33.0,
+      "disposalEfficiency" : 70.0,
+      "clangers" : 59.0,
+      "freesFor" : 23.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1109.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 6.0,
+        "totalClearances" : 17.0
+      },
+      "rebound50s" : 24.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 27.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-18T12:12:58.645+0000",
+      "turnovers" : 69.0,
+      "intercepts" : 73.0,
+      "tacklesInside50" : 3.0,
+      "shotsAtGoal" : 18.0,
+      "goalEfficiency" : 11.6,
+      "shotEfficiency" : 41.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 71.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 17.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 16.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2020-06-18T12:12:58.645+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 189.0,
+      "handballs" : 129.0,
+      "disposals" : 318.0,
+      "marks" : 76.0,
+      "bounces" : 0.0,
+      "tackles" : 34.0,
+      "contestedPossessions" : 108.0,
+      "uncontestedPossessions" : 196.0,
+      "totalPossessions" : 304.0,
+      "inside50s" : 35.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 25.0,
+      "onePercenters" : 37.0,
+      "disposalEfficiency" : 76.4,
+      "clangers" : 55.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 23.0,
+      "dreamTeamPoints" : 1233.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 15.0,
+        "totalClearances" : 22.0
+      },
+      "rebound50s" : 38.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 68.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-18T12:12:58.645+0000",
+      "turnovers" : 73.0,
+      "intercepts" : 69.0,
+      "tacklesInside50" : 4.0,
+      "shotsAtGoal" : 16.0,
+      "goalEfficiency" : 31.4,
+      "shotEfficiency" : 45.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 68.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 17.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 13.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "HAW",
+      "teamName" : "Hawthorn",
+      "teamNickname" : "Hawks"
+    },
+    "teamId" : "CD_T80",
+    "lastUpdated" : "2020-06-18T12:12:58.645+0000"
+  } ]
+}

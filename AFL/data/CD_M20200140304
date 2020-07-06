@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 194.0,
+      "handballs" : 153.0,
+      "disposals" : 347.0,
+      "marks" : 101.0,
+      "bounces" : 0.0,
+      "tackles" : 55.0,
+      "contestedPossessions" : 112.0,
+      "uncontestedPossessions" : 234.0,
+      "totalPossessions" : 346.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 34.0,
+      "onePercenters" : 49.0,
+      "disposalEfficiency" : 76.9,
+      "clangers" : 47.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1486.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 28.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-22T01:14:30.656+0000",
+      "turnovers" : 58.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 30.0,
+      "shotEfficiency" : 60.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 80.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "COLL",
+      "teamName" : "Collingwood",
+      "teamNickname" : "Magpies"
+    },
+    "teamId" : "CD_T40",
+    "lastUpdated" : "2020-06-22T01:14:30.656+0000"
+  }, {
+    "stats" : {
+      "goals" : 5.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 185.0,
+      "handballs" : 120.0,
+      "disposals" : 305.0,
+      "marks" : 95.0,
+      "bounces" : 3.0,
+      "tackles" : 43.0,
+      "contestedPossessions" : 109.0,
+      "uncontestedPossessions" : 197.0,
+      "totalPossessions" : 306.0,
+      "inside50s" : 34.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 29.0,
+      "onePercenters" : 41.0,
+      "disposalEfficiency" : 74.4,
+      "clangers" : 48.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1285.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 21.0
+      },
+      "rebound50s" : 28.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 38.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-22T01:14:30.656+0000",
+      "turnovers" : 62.0,
+      "intercepts" : 58.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 13.0,
+      "goalEfficiency" : 14.7,
+      "shotEfficiency" : 38.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 76.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 14.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2020-06-22T01:14:30.656+0000"
+  } ]
+}

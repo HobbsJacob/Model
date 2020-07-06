@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 15.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 183.0,
+      "handballs" : 132.0,
+      "disposals" : 315.0,
+      "marks" : 82.0,
+      "bounces" : 0.0,
+      "tackles" : 52.0,
+      "contestedPossessions" : 118.0,
+      "uncontestedPossessions" : 186.0,
+      "totalPossessions" : 304.0,
+      "inside50s" : 38.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 31.0,
+      "onePercenters" : 36.0,
+      "disposalEfficiency" : 70.5,
+      "clangers" : 47.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1361.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 28.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 65.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-28T00:25:16.004+0000",
+      "turnovers" : 56.0,
+      "intercepts" : 59.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 39.5,
+      "shotEfficiency" : 60.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 26.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2020-06-28T00:25:16.004+0000"
+  }, {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 149.0,
+      "handballs" : 164.0,
+      "disposals" : 313.0,
+      "marks" : 62.0,
+      "bounces" : 1.0,
+      "tackles" : 51.0,
+      "contestedPossessions" : 119.0,
+      "uncontestedPossessions" : 201.0,
+      "totalPossessions" : 320.0,
+      "inside50s" : 39.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 26.0,
+      "onePercenters" : 47.0,
+      "disposalEfficiency" : 70.3,
+      "clangers" : 53.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1228.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 23.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 52.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-28T00:25:16.004+0000",
+      "turnovers" : 59.0,
+      "intercepts" : 56.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 19.0,
+      "goalEfficiency" : 25.6,
+      "shotEfficiency" : 48.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2020-06-28T00:25:16.004+0000"
+  } ]
+}

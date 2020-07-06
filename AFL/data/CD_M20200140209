@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 204.0,
+      "handballs" : 132.0,
+      "disposals" : 336.0,
+      "marks" : 92.0,
+      "bounces" : 3.0,
+      "tackles" : 57.0,
+      "contestedPossessions" : 127.0,
+      "uncontestedPossessions" : 209.0,
+      "totalPossessions" : 336.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 48.0,
+      "onePercenters" : 33.0,
+      "disposalEfficiency" : 73.2,
+      "clangers" : 44.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1491.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 11.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-22T05:09:39.427+0000",
+      "turnovers" : 48.0,
+      "intercepts" : 46.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 35.0,
+      "shotEfficiency" : 52.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2020-06-22T05:09:39.427+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 142.0,
+      "handballs" : 177.0,
+      "disposals" : 319.0,
+      "marks" : 55.0,
+      "bounces" : 3.0,
+      "tackles" : 49.0,
+      "contestedPossessions" : 115.0,
+      "uncontestedPossessions" : 205.0,
+      "totalPossessions" : 320.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 12.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 71.5,
+      "clangers" : 58.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1153.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 43.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-22T05:09:39.427+0000",
+      "turnovers" : 46.0,
+      "intercepts" : 48.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 16.0,
+      "goalEfficiency" : 17.5,
+      "shotEfficiency" : 40.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 83.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2020-06-22T05:09:39.427+0000"
+  } ]
+}

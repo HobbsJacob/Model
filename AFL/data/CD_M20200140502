@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 163.0,
+      "handballs" : 155.0,
+      "disposals" : 318.0,
+      "marks" : 59.0,
+      "bounces" : 2.0,
+      "tackles" : 50.0,
+      "contestedPossessions" : 126.0,
+      "uncontestedPossessions" : 192.0,
+      "totalPossessions" : 318.0,
+      "inside50s" : 41.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 41.0,
+      "onePercenters" : 51.0,
+      "disposalEfficiency" : 67.9,
+      "clangers" : 30.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1250.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 26.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-03T12:33:34.080+0000",
+      "turnovers" : 55.0,
+      "intercepts" : 62.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 14.0,
+      "goalEfficiency" : 17.1,
+      "shotEfficiency" : 34.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 71.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 12.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 14.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "COLL",
+      "teamName" : "Collingwood",
+      "teamNickname" : "Magpies"
+    },
+    "teamId" : "CD_T40",
+    "lastUpdated" : "2020-07-03T12:33:34.080+0000"
+  }, {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 173.0,
+      "handballs" : 99.0,
+      "disposals" : 272.0,
+      "marks" : 67.0,
+      "bounces" : 1.0,
+      "tackles" : 65.0,
+      "contestedPossessions" : 116.0,
+      "uncontestedPossessions" : 156.0,
+      "totalPossessions" : 272.0,
+      "inside50s" : 36.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 13.0,
+      "onePercenters" : 59.0,
+      "disposalEfficiency" : 72.8,
+      "clangers" : 45.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1202.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 66.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-03T12:33:34.080+0000",
+      "turnovers" : 62.0,
+      "intercepts" : 54.0,
+      "tacklesInside50" : 20.0,
+      "shotsAtGoal" : 15.0,
+      "goalEfficiency" : 27.8,
+      "shotEfficiency" : 41.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 69.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 13.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2020-07-03T12:33:34.080+0000"
+  } ]
+}

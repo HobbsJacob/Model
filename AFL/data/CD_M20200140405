@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 164.0,
+      "handballs" : 103.0,
+      "disposals" : 267.0,
+      "marks" : 57.0,
+      "bounces" : 9.0,
+      "tackles" : 57.0,
+      "contestedPossessions" : 112.0,
+      "uncontestedPossessions" : 140.0,
+      "totalPossessions" : 252.0,
+      "inside50s" : 34.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 32.0,
+      "onePercenters" : 51.0,
+      "disposalEfficiency" : 67.0,
+      "clangers" : 52.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1151.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 23.0
+      },
+      "rebound50s" : 42.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 80.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-28T00:55:22.175+0000",
+      "turnovers" : 73.0,
+      "intercepts" : 76.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 10.0,
+      "goalEfficiency" : 23.5,
+      "shotEfficiency" : 29.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 71.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2020-06-28T00:55:22.175+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 211.0,
+      "handballs" : 121.0,
+      "disposals" : 332.0,
+      "marks" : 88.0,
+      "bounces" : 2.0,
+      "tackles" : 47.0,
+      "contestedPossessions" : 126.0,
+      "uncontestedPossessions" : 201.0,
+      "totalPossessions" : 327.0,
+      "inside50s" : 49.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 25.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 68.1,
+      "clangers" : 54.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1376.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 28.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 26.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 35.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-28T00:55:22.175+0000",
+      "turnovers" : 74.0,
+      "intercepts" : 72.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 14.3,
+      "shotEfficiency" : 40.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 71.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 13.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "CARL",
+      "teamName" : "Carlton",
+      "teamNickname" : "Blues"
+    },
+    "teamId" : "CD_T30",
+    "lastUpdated" : "2020-06-28T00:55:22.175+0000"
+  } ]
+}

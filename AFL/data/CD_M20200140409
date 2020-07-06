@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 152.0,
+      "handballs" : 112.0,
+      "disposals" : 264.0,
+      "marks" : 43.0,
+      "bounces" : 4.0,
+      "tackles" : 69.0,
+      "contestedPossessions" : 112.0,
+      "uncontestedPossessions" : 142.0,
+      "totalPossessions" : 254.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 29.0,
+      "onePercenters" : 64.0,
+      "disposalEfficiency" : 63.6,
+      "clangers" : 44.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1120.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 27.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-28T10:53:46.055+0000",
+      "turnovers" : 60.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 17.8,
+      "shotEfficiency" : 44.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 74.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 15.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "HAW",
+      "teamName" : "Hawthorn",
+      "teamNickname" : "Hawks"
+    },
+    "teamId" : "CD_T80",
+    "lastUpdated" : "2020-06-28T10:53:46.055+0000"
+  }, {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 181.0,
+      "handballs" : 148.0,
+      "disposals" : 329.0,
+      "marks" : 65.0,
+      "bounces" : 2.0,
+      "tackles" : 47.0,
+      "contestedPossessions" : 141.0,
+      "uncontestedPossessions" : 186.0,
+      "totalPossessions" : 327.0,
+      "inside50s" : 33.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 33.0,
+      "onePercenters" : 34.0,
+      "disposalEfficiency" : 68.4,
+      "clangers" : 43.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1293.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 33.0,
+        "totalClearances" : 42.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 53.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-06-28T10:53:46.055+0000",
+      "turnovers" : 63.0,
+      "intercepts" : 60.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 15.0,
+      "goalEfficiency" : 24.2,
+      "shotEfficiency" : 45.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 76.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 17.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "NMFC",
+      "teamName" : "North Melbourne",
+      "teamNickname" : "Kangaroos"
+    },
+    "teamId" : "CD_T100",
+    "lastUpdated" : "2020-06-28T10:53:46.055+0000"
+  } ]
+}

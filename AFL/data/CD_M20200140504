@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 13.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 184.0,
+      "handballs" : 137.0,
+      "disposals" : 321.0,
+      "marks" : 81.0,
+      "bounces" : 2.0,
+      "tackles" : 62.0,
+      "contestedPossessions" : 120.0,
+      "uncontestedPossessions" : 206.0,
+      "totalPossessions" : 326.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 32.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 70.4,
+      "clangers" : 58.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1382.0,
+      "clearances" : {
+        "centreClearances" : 14.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 19.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 48.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-04T09:12:38.110+0000",
+      "turnovers" : 49.0,
+      "intercepts" : 58.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 26.0,
+      "shotEfficiency" : 54.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 79.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2020-07-04T09:12:38.110+0000"
+  }, {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 161.0,
+      "handballs" : 89.0,
+      "disposals" : 250.0,
+      "marks" : 65.0,
+      "bounces" : 2.0,
+      "tackles" : 68.0,
+      "contestedPossessions" : 110.0,
+      "uncontestedPossessions" : 141.0,
+      "totalPossessions" : 251.0,
+      "inside50s" : 29.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 33.0,
+      "onePercenters" : 26.0,
+      "disposalEfficiency" : 65.2,
+      "clangers" : 53.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1201.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 57.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-04T09:12:38.110+0000",
+      "turnovers" : 58.0,
+      "intercepts" : 49.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 14.0,
+      "goalEfficiency" : 27.6,
+      "shotEfficiency" : 48.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 61.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 15.0,
+        "interchangeCountQ2" : 17.0,
+        "interchangeCountQ3" : 16.0,
+        "interchangeCountQ4" : 13.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GCFC",
+      "teamName" : "Gold Coast Suns",
+      "teamNickname" : "Suns"
+    },
+    "teamId" : "CD_T1000",
+    "lastUpdated" : "2020-07-04T09:12:38.110+0000"
+  } ]
+}

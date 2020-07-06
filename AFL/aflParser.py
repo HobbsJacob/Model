@@ -2,8 +2,9 @@ import os
 import json
 import requests
 import sys
+from trueskill import Rating, quality_1vs1, rate_1vs1
 
-headers = {'x-media-mis-token': '80739fdc2bac8ee43038ee015634a8a4'}
+headers = {'x-media-mis-token': '9c0514e745190c73b89b8d769f43bac2'}
 
 class Team:
     naughtyWords = ["superGoals", "ratingPoints", "ranking", "lastUpdated", "scoreInvolvements", "metresGained","scoreDiff","previousTeam"]
@@ -59,6 +60,7 @@ class Team:
                         print(sys.exc_info())
                         print("failed " + key)
 
+
 allTeams = {}
 allTeams["Geelong Cats"] = Team("Geelong Cats")
 allTeams["Brisbane Lions"] = Team("Brisbane Lions")
@@ -99,37 +101,52 @@ with open("parsed.csv", "w") as outFile:
             line += home + "," + away + ","
 
             line += allTeams[home].printStats() + ","
-            line += allTeams[away].printStats()
+            line += allTeams[away].printStats() + ","
 
             allTeams[home].updateValues(j["teamStats"][0]["stats"])
             allTeams[away].updateValues(j["teamStats"][1]["stats"])
+            try:
+                page = requests.get("https://api.afl.com.au/cfs/afl/matchRoster/full/" + jFile, headers=headers)
 
-            page = requests.get("https://api.afl.com.au/cfs/afl/matchRoster/full/" + jFile, headers=headers)
+                j = json.loads(page.text)
 
-            j = json.loads(page.text)
+                line += j["venue"]["abbreviation"] + ","
 
-            line += j["venue"]["abbreviation"] + ","
+                homeScore = j["matchRoster"]["recentMatches"][0]["homeResult"]["scoreBreakdown"]["totalScore"]
+                awayScore = j["matchRoster"]["recentMatches"][0]["awayResult"]["scoreBreakdown"]["totalScore"]
 
-            homeScore = j["matchRoster"]["recentMatches"][0]["homeResult"]["scoreBreakdown"]["totalScore"]
-            awayScore = j["matchRoster"]["recentMatches"][0]["awayResult"]["scoreBreakdown"]["totalScore"]
+                line += str(allTeams[home].previousStats["scoreDiff"]) + "," + str(allTeams[away].previousStats["scoreDiff"]) + ","
 
-            line += str(allTeams[home].previousStats["scoreDiff"]) + "," + str(allTeams[away].previousStats["scoreDiff"]) + ","
+                allTeams[home].previousStats["scoreDiff"] = allTeams[home].previousStats["scoreDiff"] * 0.2 + (homeScore - awayScore) * 0.8
+                allTeams[away].previousStats["scoreDiff"] = allTeams[away].previousStats["scoreDiff"] * 0.2 + (awayScore - homeScore) * 0.8
 
-            allTeams[home].previousStats["scoreDiff"] = allTeams[home].previousStats["scoreDiff"] * 0.2 + (homeScore - awayScore) * 0.8
-            allTeams[away].previousStats["scoreDiff"] = allTeams[away].previousStats["scoreDiff"] * 0.2 + (awayScore - homeScore) * 0.8
+                line += allTeams[home].previousStats["previousTeam"] + "," + allTeams[away].previousStats["previousTeam"] + ","
 
-            line += allTeams[home].previousStats["previousTeam"] + "," + allTeams[away].previousStats["previousTeam"] + ","
+                allTeams[home].previousStats["previousTeam"] = away
 
-            allTeams[home].previousStats["previousTeam"] = away
+                allTeams[away].previousStats["previousTeam"] = home
 
-            allTeams[away].previousStats["previousTeam"] = home
+                if homeScore - awayScore > 0:
+                    line += "win"
+                else:
+                    line += "loss"
 
-            if int(homeScore) > awayScore:
+                line += "\n"
+
+            except:
+                print("errored")
+
+                line += "VENUE" + ","
+
+                line += str(allTeams[home].previousStats["scoreDiff"]) + "," + str(
+                    allTeams[away].previousStats["scoreDiff"]) + ","
+
+                line += allTeams[home].previousStats["previousTeam"] + "," + allTeams[away].previousStats[
+                    "previousTeam"] + ","
+
                 line += "win"
-            else:
-                line += "loss"
 
-            line += "\n"
+                line += "\n"
 
             outFile.write(line)
 

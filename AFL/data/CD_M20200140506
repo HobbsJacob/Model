@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 171.0,
+      "handballs" : 103.0,
+      "disposals" : 274.0,
+      "marks" : 71.0,
+      "bounces" : 1.0,
+      "tackles" : 58.0,
+      "contestedPossessions" : 118.0,
+      "uncontestedPossessions" : 149.0,
+      "totalPossessions" : 267.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 43.0,
+      "onePercenters" : 40.0,
+      "disposalEfficiency" : 72.3,
+      "clangers" : 33.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1268.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 46.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-04T12:23:38.802+0000",
+      "turnovers" : 45.0,
+      "intercepts" : 45.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 25.0,
+      "shotEfficiency" : 54.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 57.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 14.0,
+        "interchangeCountQ2" : 15.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 13.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2020-07-04T12:23:38.802+0000"
+  }, {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 150.0,
+      "handballs" : 113.0,
+      "disposals" : 263.0,
+      "marks" : 49.0,
+      "bounces" : 3.0,
+      "tackles" : 62.0,
+      "contestedPossessions" : 105.0,
+      "uncontestedPossessions" : 150.0,
+      "totalPossessions" : 255.0,
+      "inside50s" : 35.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 29.0,
+      "onePercenters" : 60.0,
+      "disposalEfficiency" : 71.5,
+      "clangers" : 34.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1112.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 30.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-04T12:23:38.802+0000",
+      "turnovers" : 45.0,
+      "intercepts" : 45.0,
+      "tacklesInside50" : 19.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 17.1,
+      "shotEfficiency" : 57.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 72.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    },
+    "teamId" : "CD_T110",
+    "lastUpdated" : "2020-07-04T12:23:38.802+0000"
+  } ]
+}
