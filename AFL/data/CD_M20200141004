@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 5.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 133.0,
+      "handballs" : 119.0,
+      "disposals" : 252.0,
+      "marks" : 38.0,
+      "bounces" : 4.0,
+      "tackles" : 67.0,
+      "contestedPossessions" : 115.0,
+      "uncontestedPossessions" : 123.0,
+      "totalPossessions" : 238.0,
+      "inside50s" : 33.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 31.0,
+      "onePercenters" : 36.0,
+      "disposalEfficiency" : 66.7,
+      "clangers" : 44.0,
+      "freesFor" : 25.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1058.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 28.0
+      },
+      "rebound50s" : 31.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-08-05T12:54:09.371+0000",
+      "turnovers" : 66.0,
+      "intercepts" : 61.0,
+      "tacklesInside50" : 19.0,
+      "shotsAtGoal" : 15.0,
+      "goalEfficiency" : 15.2,
+      "shotEfficiency" : 45.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 78.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ADEL",
+      "teamName" : "Adelaide Crows",
+      "teamNickname" : "Crows"
+    },
+    "teamId" : "CD_T10",
+    "lastUpdated" : "2020-08-05T12:54:09.371+0000"
+  }, {
+    "stats" : {
+      "goals" : 13.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 176.0,
+      "handballs" : 114.0,
+      "disposals" : 290.0,
+      "marks" : 66.0,
+      "bounces" : 2.0,
+      "tackles" : 56.0,
+      "contestedPossessions" : 135.0,
+      "uncontestedPossessions" : 147.0,
+      "totalPossessions" : 282.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 43.0,
+      "onePercenters" : 39.0,
+      "disposalEfficiency" : 66.2,
+      "clangers" : 54.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 25.0,
+      "dreamTeamPoints" : 1249.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 28.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 56.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-08-05T12:54:09.371+0000",
+      "turnovers" : 60.0,
+      "intercepts" : 67.0,
+      "tacklesInside50" : 19.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 28.9,
+      "shotEfficiency" : 51.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "MELB",
+      "teamName" : "Melbourne",
+      "teamNickname" : "Demons"
+    },
+    "teamId" : "CD_T90",
+    "lastUpdated" : "2020-08-05T12:54:09.371+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 202.0,
+      "handballs" : 97.0,
+      "disposals" : 299.0,
+      "marks" : 85.0,
+      "bounces" : 9.0,
+      "tackles" : 56.0,
+      "contestedPossessions" : 132.0,
+      "uncontestedPossessions" : 164.0,
+      "totalPossessions" : 296.0,
+      "inside50s" : 50.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 27.0,
+      "onePercenters" : 41.0,
+      "disposalEfficiency" : 67.6,
+      "clangers" : 43.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1344.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 36.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-12-15T05:37:32.440+0000",
+      "turnovers" : 57.0,
+      "intercepts" : 62.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 22.0,
+      "goalEfficiency" : 16.0,
+      "shotEfficiency" : 44.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 75.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 17.0,
+        "interchangeCountQ2" : 28.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 13.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "CARL",
+      "teamName" : "Carlton",
+      "teamNickname" : "Blues"
+    },
+    "teamId" : "CD_T30",
+    "lastUpdated" : "2020-12-15T05:37:32.440+0000"
+  }, {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 154.0,
+      "handballs" : 91.0,
+      "disposals" : 245.0,
+      "marks" : 54.0,
+      "bounces" : 2.0,
+      "tackles" : 57.0,
+      "contestedPossessions" : 110.0,
+      "uncontestedPossessions" : 129.0,
+      "totalPossessions" : 239.0,
+      "inside50s" : 34.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 31.0,
+      "onePercenters" : 40.0,
+      "disposalEfficiency" : 70.2,
+      "clangers" : 38.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1075.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 41.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-12-15T05:37:32.440+0000",
+      "turnovers" : 62.0,
+      "intercepts" : 57.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 16.0,
+      "goalEfficiency" : 23.5,
+      "shotEfficiency" : 47.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 79.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 25.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "SYD",
+      "teamName" : "Sydney Swans",
+      "teamNickname" : "Swans"
+    },
+    "teamId" : "CD_T160",
+    "lastUpdated" : "2020-12-15T05:37:32.440+0000"
+  } ]
+}

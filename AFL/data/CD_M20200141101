@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 13.0,
+      "behinds" : 15.0,
+      "superGoals" : null,
+      "kicks" : 170.0,
+      "handballs" : 151.0,
+      "disposals" : 321.0,
+      "marks" : 50.0,
+      "bounces" : 2.0,
+      "tackles" : 69.0,
+      "contestedPossessions" : 155.0,
+      "uncontestedPossessions" : 176.0,
+      "totalPossessions" : 331.0,
+      "inside50s" : 55.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 31.0,
+      "onePercenters" : 36.0,
+      "disposalEfficiency" : 71.3,
+      "clangers" : 45.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1348.0,
+      "clearances" : {
+        "centreClearances" : 20.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 13.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 43.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T01:30:25.683+0000",
+      "turnovers" : 56.0,
+      "intercepts" : 60.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 30.0,
+      "goalEfficiency" : 23.6,
+      "shotEfficiency" : 54.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 84.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    },
+    "teamId" : "CD_T110",
+    "lastUpdated" : "2020-10-20T01:30:25.683+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 140.0,
+      "handballs" : 101.0,
+      "disposals" : 241.0,
+      "marks" : 47.0,
+      "bounces" : 3.0,
+      "tackles" : 70.0,
+      "contestedPossessions" : 111.0,
+      "uncontestedPossessions" : 125.0,
+      "totalPossessions" : 236.0,
+      "inside50s" : 24.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 36.0,
+      "onePercenters" : 37.0,
+      "disposalEfficiency" : 67.2,
+      "clangers" : 52.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1093.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 22.0
+      },
+      "rebound50s" : 40.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 73.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T01:30:25.683+0000",
+      "turnovers" : 60.0,
+      "intercepts" : 56.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 15.0,
+      "goalEfficiency" : 45.8,
+      "shotEfficiency" : 62.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 26.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2020-10-20T01:30:25.683+0000"
+  } ]
+}

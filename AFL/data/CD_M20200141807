@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 4.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 164.0,
+      "handballs" : 196.0,
+      "disposals" : 360.0,
+      "marks" : 52.0,
+      "bounces" : 2.0,
+      "tackles" : 46.0,
+      "contestedPossessions" : 134.0,
+      "uncontestedPossessions" : 228.0,
+      "totalPossessions" : 362.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 23.0,
+      "onePercenters" : 43.0,
+      "disposalEfficiency" : 73.3,
+      "clangers" : 62.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1237.0,
+      "clearances" : {
+        "centreClearances" : 4.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 26.0
+      },
+      "rebound50s" : 33.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-26T00:15:02.526+0000",
+      "turnovers" : 57.0,
+      "intercepts" : 61.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 12.0,
+      "goalEfficiency" : 9.3,
+      "shotEfficiency" : 27.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 73.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 15.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "NMFC",
+      "teamName" : "North Melbourne",
+      "teamNickname" : "Kangaroos"
+    },
+    "teamId" : "CD_T100",
+    "lastUpdated" : "2020-10-26T00:15:02.526+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 167.0,
+      "handballs" : 111.0,
+      "disposals" : 278.0,
+      "marks" : 48.0,
+      "bounces" : 0.0,
+      "tackles" : 53.0,
+      "contestedPossessions" : 128.0,
+      "uncontestedPossessions" : 149.0,
+      "totalPossessions" : 277.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 28.0,
+      "onePercenters" : 54.0,
+      "disposalEfficiency" : 70.1,
+      "clangers" : 48.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1128.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 39.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-26T00:15:02.526+0000",
+      "turnovers" : 61.0,
+      "intercepts" : 57.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 14.0,
+      "goalEfficiency" : 17.5,
+      "shotEfficiency" : 35.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 67.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 17.0,
+        "interchangeCountQ3" : 16.0,
+        "interchangeCountQ4" : 16.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2020-10-26T00:15:02.526+0000"
+  } ]
+}

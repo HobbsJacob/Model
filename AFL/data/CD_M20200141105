@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 4.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 151.0,
+      "handballs" : 116.0,
+      "disposals" : 267.0,
+      "marks" : 51.0,
+      "bounces" : 3.0,
+      "tackles" : 38.0,
+      "contestedPossessions" : 118.0,
+      "uncontestedPossessions" : 152.0,
+      "totalPossessions" : 270.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 31.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 64.8,
+      "clangers" : 36.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1023.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 26.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T01:51:03.552+0000",
+      "turnovers" : 48.0,
+      "intercepts" : 44.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 15.0,
+      "goalEfficiency" : 9.3,
+      "shotEfficiency" : 34.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 78.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 16.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2020-10-20T01:51:03.552+0000"
+  }, {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 197.0,
+      "handballs" : 125.0,
+      "disposals" : 322.0,
+      "marks" : 100.0,
+      "bounces" : 1.0,
+      "tackles" : 58.0,
+      "contestedPossessions" : 110.0,
+      "uncontestedPossessions" : 204.0,
+      "totalPossessions" : 314.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 26.0,
+      "onePercenters" : 43.0,
+      "disposalEfficiency" : 77.0,
+      "clangers" : 32.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1466.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 53.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T01:51:03.552+0000",
+      "turnovers" : 44.0,
+      "intercepts" : 48.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 35.0,
+      "shotEfficiency" : 65.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2020-10-20T01:51:03.552+0000"
+  } ]
+}

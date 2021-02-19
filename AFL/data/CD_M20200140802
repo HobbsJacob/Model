@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 178.0,
+      "handballs" : 104.0,
+      "disposals" : 282.0,
+      "marks" : 71.0,
+      "bounces" : 2.0,
+      "tackles" : 68.0,
+      "contestedPossessions" : 122.0,
+      "uncontestedPossessions" : 145.0,
+      "totalPossessions" : 267.0,
+      "inside50s" : 32.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 29.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 67.7,
+      "clangers" : 45.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1279.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 38.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-26T01:22:15.587+0000",
+      "turnovers" : 52.0,
+      "intercepts" : 38.0,
+      "tacklesInside50" : 3.0,
+      "shotsAtGoal" : 18.0,
+      "goalEfficiency" : 28.1,
+      "shotEfficiency" : 56.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 76.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 16.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GWS",
+      "teamName" : "GWS Giants",
+      "teamNickname" : "Giants"
+    },
+    "teamId" : "CD_T1010",
+    "lastUpdated" : "2020-07-26T01:22:15.587+0000"
+  }, {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 146.0,
+      "handballs" : 89.0,
+      "disposals" : 235.0,
+      "marks" : 56.0,
+      "bounces" : 5.0,
+      "tackles" : 54.0,
+      "contestedPossessions" : 105.0,
+      "uncontestedPossessions" : 130.0,
+      "totalPossessions" : 235.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 44.0,
+      "onePercenters" : 32.0,
+      "disposalEfficiency" : 66.0,
+      "clangers" : 51.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1045.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 22.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 31.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-26T01:22:15.587+0000",
+      "turnovers" : 38.0,
+      "intercepts" : 52.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 19.0,
+      "goalEfficiency" : 13.0,
+      "shotEfficiency" : 41.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 70.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2020-07-26T01:22:15.587+0000"
+  } ]
+}

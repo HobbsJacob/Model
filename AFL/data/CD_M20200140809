@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 2.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 157.0,
+      "handballs" : 125.0,
+      "disposals" : 282.0,
+      "marks" : 41.0,
+      "bounces" : 2.0,
+      "tackles" : 73.0,
+      "contestedPossessions" : 135.0,
+      "uncontestedPossessions" : 126.0,
+      "totalPossessions" : 261.0,
+      "inside50s" : 27.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 43.0,
+      "onePercenters" : 54.0,
+      "disposalEfficiency" : 58.2,
+      "clangers" : 47.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1162.0,
+      "clearances" : {
+        "centreClearances" : 3.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 39.0,
+      "goalAssists" : 1.0,
+      "goalAccuracy" : 25.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-28T01:34:28.676+0000",
+      "turnovers" : 73.0,
+      "intercepts" : 72.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 8.0,
+      "goalEfficiency" : 7.4,
+      "shotEfficiency" : 29.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 75.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 17.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2020-07-28T01:34:28.676+0000"
+  }, {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 191.0,
+      "handballs" : 151.0,
+      "disposals" : 342.0,
+      "marks" : 50.0,
+      "bounces" : 1.0,
+      "tackles" : 73.0,
+      "contestedPossessions" : 166.0,
+      "uncontestedPossessions" : 168.0,
+      "totalPossessions" : 334.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 35.0,
+      "onePercenters" : 63.0,
+      "disposalEfficiency" : 58.8,
+      "clangers" : 65.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1356.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 32.0,
+        "totalClearances" : 40.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 27.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-28T01:34:28.676+0000",
+      "turnovers" : 72.0,
+      "intercepts" : 73.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 22.0,
+      "goalEfficiency" : 12.8,
+      "shotEfficiency" : 46.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 70.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 12.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2020-07-28T01:34:28.676+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 182.0,
+      "handballs" : 105.0,
+      "disposals" : 287.0,
+      "marks" : 77.0,
+      "bounces" : 1.0,
+      "tackles" : 56.0,
+      "contestedPossessions" : 120.0,
+      "uncontestedPossessions" : 165.0,
+      "totalPossessions" : 285.0,
+      "inside50s" : 35.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 49.0,
+      "onePercenters" : 48.0,
+      "disposalEfficiency" : 70.4,
+      "clangers" : 43.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1310.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 43.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 61.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T01:45:42.472+0000",
+      "turnovers" : 57.0,
+      "intercepts" : 48.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 18.0,
+      "goalEfficiency" : 31.4,
+      "shotEfficiency" : 51.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2020-10-20T01:45:42.472+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 152.0,
+      "handballs" : 100.0,
+      "disposals" : 252.0,
+      "marks" : 61.0,
+      "bounces" : 3.0,
+      "tackles" : 77.0,
+      "contestedPossessions" : 116.0,
+      "uncontestedPossessions" : 134.0,
+      "totalPossessions" : 250.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 33.0,
+      "onePercenters" : 37.0,
+      "disposalEfficiency" : 65.5,
+      "clangers" : 41.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1197.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 22.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 46.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T01:45:42.472+0000",
+      "turnovers" : 48.0,
+      "intercepts" : 57.0,
+      "tacklesInside50" : 18.0,
+      "shotsAtGoal" : 15.0,
+      "goalEfficiency" : 15.9,
+      "shotEfficiency" : 34.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 80.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "CARL",
+      "teamName" : "Carlton",
+      "teamNickname" : "Blues"
+    },
+    "teamId" : "CD_T30",
+    "lastUpdated" : "2020-10-20T01:45:42.472+0000"
+  } ]
+}

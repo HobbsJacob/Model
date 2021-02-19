@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 172.0,
+      "handballs" : 129.0,
+      "disposals" : 301.0,
+      "marks" : 79.0,
+      "bounces" : 4.0,
+      "tackles" : 38.0,
+      "contestedPossessions" : 106.0,
+      "uncontestedPossessions" : 197.0,
+      "totalPossessions" : 303.0,
+      "inside50s" : 33.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 44.0,
+      "onePercenters" : 31.0,
+      "disposalEfficiency" : 75.7,
+      "clangers" : 42.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1214.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 40.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-26T00:37:41.885+0000",
+      "turnovers" : 41.0,
+      "intercepts" : 46.0,
+      "tacklesInside50" : 14.0,
+      "shotsAtGoal" : 15.0,
+      "goalEfficiency" : 18.2,
+      "shotEfficiency" : 45.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 90.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2020-10-26T00:37:41.885+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 162.0,
+      "handballs" : 125.0,
+      "disposals" : 287.0,
+      "marks" : 58.0,
+      "bounces" : 6.0,
+      "tackles" : 58.0,
+      "contestedPossessions" : 106.0,
+      "uncontestedPossessions" : 186.0,
+      "totalPossessions" : 292.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 22.0,
+      "onePercenters" : 55.0,
+      "disposalEfficiency" : 81.2,
+      "clangers" : 36.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1223.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 27.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 55.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-26T00:37:41.885+0000",
+      "turnovers" : 46.0,
+      "intercepts" : 42.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 22.9,
+      "shotEfficiency" : 41.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 77.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 25.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 14.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2020-10-26T00:37:41.885+0000"
+  } ]
+}

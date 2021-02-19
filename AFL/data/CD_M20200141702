@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 4.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 207.0,
+      "handballs" : 99.0,
+      "disposals" : 306.0,
+      "marks" : 111.0,
+      "bounces" : 5.0,
+      "tackles" : 43.0,
+      "contestedPossessions" : 117.0,
+      "uncontestedPossessions" : 191.0,
+      "totalPossessions" : 308.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 20.0,
+      "onePercenters" : 36.0,
+      "disposalEfficiency" : 71.2,
+      "clangers" : 42.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1357.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-25T23:37:17.009+0000",
+      "turnovers" : 67.0,
+      "intercepts" : 55.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 12.0,
+      "goalEfficiency" : 10.0,
+      "shotEfficiency" : 30.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 68.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 14.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2020-10-25T23:37:17.009+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 15.0,
+      "superGoals" : null,
+      "kicks" : 166.0,
+      "handballs" : 107.0,
+      "disposals" : 273.0,
+      "marks" : 73.0,
+      "bounces" : 17.0,
+      "tackles" : 49.0,
+      "contestedPossessions" : 103.0,
+      "uncontestedPossessions" : 167.0,
+      "totalPossessions" : 270.0,
+      "inside50s" : 42.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 23.0,
+      "onePercenters" : 37.0,
+      "disposalEfficiency" : 70.7,
+      "clangers" : 47.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1165.0,
+      "clearances" : {
+        "centreClearances" : 2.0,
+        "stoppageClearances" : 14.0,
+        "totalClearances" : 16.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-25T23:37:17.009+0000",
+      "turnovers" : 55.0,
+      "intercepts" : 67.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 16.7,
+      "shotEfficiency" : 50.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 58.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 17.0,
+        "interchangeCountQ2" : 17.0,
+        "interchangeCountQ3" : 9.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2020-10-25T23:37:17.009+0000"
+  } ]
+}

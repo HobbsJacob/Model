@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 4.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 162.0,
+      "handballs" : 93.0,
+      "disposals" : 255.0,
+      "marks" : 32.0,
+      "bounces" : 0.0,
+      "tackles" : 46.0,
+      "contestedPossessions" : 143.0,
+      "uncontestedPossessions" : 98.0,
+      "totalPossessions" : 241.0,
+      "inside50s" : 35.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 44.0,
+      "onePercenters" : 61.0,
+      "disposalEfficiency" : 52.9,
+      "clangers" : 66.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 987.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 30.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 39.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 21.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-25T23:09:17.081+0000",
+      "turnovers" : 72.0,
+      "intercepts" : 72.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 19.0,
+      "goalEfficiency" : 11.4,
+      "shotEfficiency" : 54.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 74.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 13.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 21.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "MELB",
+      "teamName" : "Melbourne",
+      "teamNickname" : "Demons"
+    },
+    "teamId" : "CD_T90",
+    "lastUpdated" : "2020-10-25T23:09:17.081+0000"
+  }, {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 190.0,
+      "handballs" : 150.0,
+      "disposals" : 340.0,
+      "marks" : 73.0,
+      "bounces" : 0.0,
+      "tackles" : 65.0,
+      "contestedPossessions" : 135.0,
+      "uncontestedPossessions" : 206.0,
+      "totalPossessions" : 341.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 24.0,
+      "onePercenters" : 55.0,
+      "disposalEfficiency" : 71.5,
+      "clangers" : 51.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1398.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 32.0
+      },
+      "rebound50s" : 30.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 31.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-25T23:09:17.081+0000",
+      "turnovers" : 72.0,
+      "intercepts" : 73.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 19.0,
+      "goalEfficiency" : 13.0,
+      "shotEfficiency" : 41.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "FRE",
+      "teamName" : "Fremantle",
+      "teamNickname" : "Freo"
+    },
+    "teamId" : "CD_T60",
+    "lastUpdated" : "2020-10-25T23:09:17.081+0000"
+  } ]
+}

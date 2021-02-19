@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 191.0,
+      "handballs" : 107.0,
+      "disposals" : 298.0,
+      "marks" : 97.0,
+      "bounces" : 11.0,
+      "tackles" : 38.0,
+      "contestedPossessions" : 106.0,
+      "uncontestedPossessions" : 193.0,
+      "totalPossessions" : 299.0,
+      "inside50s" : 37.0,
+      "marksInside50" : 18.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 34.0,
+      "onePercenters" : 39.0,
+      "disposalEfficiency" : 70.1,
+      "clangers" : 41.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1308.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 14.0,
+        "totalClearances" : 24.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 55.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T02:42:50.896+0000",
+      "turnovers" : 50.0,
+      "intercepts" : 59.0,
+      "tacklesInside50" : 4.0,
+      "shotsAtGoal" : 18.0,
+      "goalEfficiency" : 27.0,
+      "shotEfficiency" : 48.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 76.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2020-10-20T02:42:50.896+0000"
+  }, {
+    "stats" : {
+      "goals" : 5.0,
+      "behinds" : 3.0,
+      "superGoals" : null,
+      "kicks" : 172.0,
+      "handballs" : 135.0,
+      "disposals" : 307.0,
+      "marks" : 80.0,
+      "bounces" : 7.0,
+      "tackles" : 37.0,
+      "contestedPossessions" : 89.0,
+      "uncontestedPossessions" : 210.0,
+      "totalPossessions" : 299.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 3.0,
+      "hitouts" : 22.0,
+      "onePercenters" : 40.0,
+      "disposalEfficiency" : 77.2,
+      "clangers" : 46.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1207.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 27.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 55.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T02:42:50.896+0000",
+      "turnovers" : 59.0,
+      "intercepts" : 50.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 9.0,
+      "goalEfficiency" : 11.6,
+      "shotEfficiency" : 20.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 23.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2020-10-20T02:42:50.896+0000"
+  } ]
+}

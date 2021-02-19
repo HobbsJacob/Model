@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 19.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 201.0,
+      "handballs" : 157.0,
+      "disposals" : 358.0,
+      "marks" : 100.0,
+      "bounces" : 7.0,
+      "tackles" : 66.0,
+      "contestedPossessions" : 125.0,
+      "uncontestedPossessions" : 232.0,
+      "totalPossessions" : 357.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 15.0,
+      "hitouts" : 29.0,
+      "onePercenters" : 33.0,
+      "disposalEfficiency" : 75.1,
+      "clangers" : 53.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1578.0,
+      "clearances" : {
+        "centreClearances" : 16.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 70.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-08-01T07:25:00.770+0000",
+      "turnovers" : 57.0,
+      "intercepts" : 54.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 39.6,
+      "shotEfficiency" : 56.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "NMFC",
+      "teamName" : "North Melbourne",
+      "teamNickname" : "Kangaroos"
+    },
+    "teamId" : "CD_T100",
+    "lastUpdated" : "2020-08-01T07:25:00.770+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 137.0,
+      "handballs" : 121.0,
+      "disposals" : 258.0,
+      "marks" : 53.0,
+      "bounces" : 5.0,
+      "tackles" : 73.0,
+      "contestedPossessions" : 102.0,
+      "uncontestedPossessions" : 155.0,
+      "totalPossessions" : 257.0,
+      "inside50s" : 36.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 27.0,
+      "onePercenters" : 38.0,
+      "disposalEfficiency" : 71.7,
+      "clangers" : 47.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1147.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 10.0,
+        "totalClearances" : 20.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 43.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-08-01T07:25:00.770+0000",
+      "turnovers" : 54.0,
+      "intercepts" : 57.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 16.0,
+      "goalEfficiency" : 19.4,
+      "shotEfficiency" : 44.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 90.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 26.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ADEL",
+      "teamName" : "Adelaide Crows",
+      "teamNickname" : "Crows"
+    },
+    "teamId" : "CD_T10",
+    "lastUpdated" : "2020-08-01T07:25:00.770+0000"
+  } ]
+}

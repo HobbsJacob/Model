@@ -1,0 +1,48 @@
+import requests
+import os
+import json
+
+headers = {'x-media-mis-token': '3cd2863ffe94c2a5791c8242a3d0dc37'}
+
+
+
+
+season = "CD_R2020014"
+week = 1
+game = 1
+
+for f in os.listdir("data"):
+    round = f.replace("M","R")[:-2]
+    with open(os.path.join("data", f), "r") as file:
+        j = json.load(file)
+        teamCode = j["teamStats"][0]["teamId"] + "," + j["teamStats"][1]["teamId"]
+        page = requests.get("https://api.afl.com.au/statspro/playersStats/rounds/" + round + "?teamId=" + teamCode, headers=headers)
+        with open(os.path.join("playerData", f), "wb") as outfile:
+            outfile.write(page.content)
+        print(round)
+
+
+
+#while 0 == 0:
+ #   gameCode = season + str(week).zfill(2)# + str(game).zfill(2)
+
+  #  if gameCode not in already:
+        #https://api.afl.com.au/statspro/playersStats/rounds/CD_R202001401?teamId=CD_T120,CD_T30
+
+       # print("https://api.afl.com.au/statspro/playersStats/rounds/" + gameCode + "?teamId=" + "CD_T120" + "," + "CD_T30")
+
+        #page = requests.get("statspro/playersStats/rounds/CD_R" + gameCode + "?teamId=" +   + "," + , headers=headers)
+
+        #print(gameCode)
+
+        #if len(page.text) < 40:  # Fail
+        #    if game == 1:
+        #        exit(0)
+        #    week += 1
+        #    game = 0
+        #else:
+        #    with open(os.path.join("data", gameCode), "wb") as file:
+        #        file.write(page.content)
+
+
+    #game += 1

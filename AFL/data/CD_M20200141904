@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 181.0,
+      "handballs" : 105.0,
+      "disposals" : 286.0,
+      "marks" : 87.0,
+      "bounces" : 2.0,
+      "tackles" : 42.0,
+      "contestedPossessions" : 110.0,
+      "uncontestedPossessions" : 176.0,
+      "totalPossessions" : 286.0,
+      "inside50s" : 38.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 27.0,
+      "onePercenters" : 49.0,
+      "disposalEfficiency" : 73.8,
+      "clangers" : 42.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1248.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 15.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 28.0,
+      "goalAssists" : 10.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-05T06:24:43.832+0000",
+      "turnovers" : 53.0,
+      "intercepts" : 56.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 22.0,
+      "goalEfficiency" : 28.9,
+      "shotEfficiency" : 57.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 73.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 16.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2020-10-05T06:24:43.832+0000"
+  }, {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 164.0,
+      "handballs" : 119.0,
+      "disposals" : 283.0,
+      "marks" : 61.0,
+      "bounces" : 3.0,
+      "tackles" : 48.0,
+      "contestedPossessions" : 120.0,
+      "uncontestedPossessions" : 164.0,
+      "totalPossessions" : 284.0,
+      "inside50s" : 40.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 27.0,
+      "onePercenters" : 49.0,
+      "disposalEfficiency" : 73.5,
+      "clangers" : 41.0,
+      "freesFor" : 16.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1188.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 27.0
+      },
+      "rebound50s" : 26.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 70.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-05T06:24:43.832+0000",
+      "turnovers" : 56.0,
+      "intercepts" : 53.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 17.0,
+      "goalEfficiency" : 30.0,
+      "shotEfficiency" : 42.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 79.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "COLL",
+      "teamName" : "Collingwood",
+      "teamNickname" : "Magpies"
+    },
+    "teamId" : "CD_T40",
+    "lastUpdated" : "2020-10-05T06:24:43.832+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 172.0,
+      "handballs" : 121.0,
+      "disposals" : 293.0,
+      "marks" : 69.0,
+      "bounces" : 5.0,
+      "tackles" : 54.0,
+      "contestedPossessions" : 123.0,
+      "uncontestedPossessions" : 167.0,
+      "totalPossessions" : 290.0,
+      "inside50s" : 52.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 30.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 70.0,
+      "clangers" : 57.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 22.0,
+      "dreamTeamPoints" : 1244.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 70.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-25T21:50:03.729+0000",
+      "turnovers" : 69.0,
+      "intercepts" : 66.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 26.9,
+      "shotEfficiency" : 38.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 76.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2020-10-25T21:50:03.729+0000"
+  }, {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 168.0,
+      "handballs" : 144.0,
+      "disposals" : 312.0,
+      "marks" : 46.0,
+      "bounces" : 0.0,
+      "tackles" : 55.0,
+      "contestedPossessions" : 133.0,
+      "uncontestedPossessions" : 192.0,
+      "totalPossessions" : 325.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 2.0,
+      "hitouts" : 30.0,
+      "onePercenters" : 60.0,
+      "disposalEfficiency" : 70.2,
+      "clangers" : 50.0,
+      "freesFor" : 22.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1219.0,
+      "clearances" : {
+        "centreClearances" : 15.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-25T21:50:03.729+0000",
+      "turnovers" : 66.0,
+      "intercepts" : 68.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 18.0,
+      "goalEfficiency" : 20.0,
+      "shotEfficiency" : 40.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 71.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 16.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2020-10-25T21:50:03.729+0000"
+  } ]
+}

@@ -3,10 +3,13 @@ import json
 import requests
 import sys
 from math import sqrt
-from trueskill import Rating, BETA, global_env, rate_1vs1
+from trueskill import Rating, BETA, global_env, rate_1vs1, TrueSkill
 from trueskill.backends import cdf
 
-headers = {'x-media-mis-token': '9c0514e745190c73b89b8d769f43bac2'}
+headers = {'x-media-mis-token': '094342312a2c0d823e18df7c43a07264'}
+
+env = TrueSkill(draw_probability=0)
+env.make_as_global()
 
 def win_probability(player_rating, opponent_rating):
     delta_mu = player_rating.mu - opponent_rating.mu
@@ -150,6 +153,7 @@ with open("parsed.csv", "w") as outFile:
 
             except:
                 print("errored")
+                print(sys.exc_info())
 
                 line += "VENUE" + ","
 

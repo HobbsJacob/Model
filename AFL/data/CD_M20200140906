@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 15.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 192.0,
+      "handballs" : 119.0,
+      "disposals" : 311.0,
+      "marks" : 70.0,
+      "bounces" : 11.0,
+      "tackles" : 73.0,
+      "contestedPossessions" : 132.0,
+      "uncontestedPossessions" : 174.0,
+      "totalPossessions" : 306.0,
+      "inside50s" : 54.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 35.0,
+      "onePercenters" : 48.0,
+      "disposalEfficiency" : 70.1,
+      "clangers" : 55.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1415.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 38.0
+      },
+      "rebound50s" : 30.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 55.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-08-01T09:54:20.058+0000",
+      "turnovers" : 64.0,
+      "intercepts" : 68.0,
+      "tacklesInside50" : 28.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 27.8,
+      "shotEfficiency" : 50.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 89.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2020-08-01T09:54:20.058+0000"
+  }, {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 167.0,
+      "handballs" : 130.0,
+      "disposals" : 297.0,
+      "marks" : 52.0,
+      "bounces" : 0.0,
+      "tackles" : 51.0,
+      "contestedPossessions" : 131.0,
+      "uncontestedPossessions" : 161.0,
+      "totalPossessions" : 292.0,
+      "inside50s" : 36.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 37.0,
+      "onePercenters" : 54.0,
+      "disposalEfficiency" : 63.0,
+      "clangers" : 55.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1176.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 38.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 26.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-08-01T09:54:20.058+0000",
+      "turnovers" : 68.0,
+      "intercepts" : 65.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 16.7,
+      "shotEfficiency" : 63.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 86.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 25.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "SYD",
+      "teamName" : "Sydney Swans",
+      "teamNickname" : "Swans"
+    },
+    "teamId" : "CD_T160",
+    "lastUpdated" : "2020-08-01T09:54:20.058+0000"
+  } ]
+}

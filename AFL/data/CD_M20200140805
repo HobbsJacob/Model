@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 158.0,
+      "handballs" : 109.0,
+      "disposals" : 267.0,
+      "marks" : 58.0,
+      "bounces" : 2.0,
+      "tackles" : 44.0,
+      "contestedPossessions" : 118.0,
+      "uncontestedPossessions" : 146.0,
+      "totalPossessions" : 264.0,
+      "inside50s" : 36.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 16.0,
+      "onePercenters" : 58.0,
+      "disposalEfficiency" : 67.0,
+      "clangers" : 59.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1053.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 33.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-26T01:18:24.175+0000",
+      "turnovers" : 55.0,
+      "intercepts" : 64.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 18.0,
+      "goalEfficiency" : 16.7,
+      "shotEfficiency" : 50.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 77.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    },
+    "teamId" : "CD_T110",
+    "lastUpdated" : "2020-07-26T01:18:24.175+0000"
+  }, {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 1.0,
+      "superGoals" : null,
+      "kicks" : 186.0,
+      "handballs" : 108.0,
+      "disposals" : 294.0,
+      "marks" : 63.0,
+      "bounces" : 2.0,
+      "tackles" : 44.0,
+      "contestedPossessions" : 129.0,
+      "uncontestedPossessions" : 154.0,
+      "totalPossessions" : 283.0,
+      "inside50s" : 41.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 40.0,
+      "onePercenters" : 47.0,
+      "disposalEfficiency" : 68.0,
+      "clangers" : 57.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1228.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 29.0,
+        "totalClearances" : 41.0
+      },
+      "rebound50s" : 28.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 70.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-26T01:18:24.175+0000",
+      "turnovers" : 64.0,
+      "intercepts" : 55.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 17.0,
+      "goalEfficiency" : 29.3,
+      "shotEfficiency" : 41.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 77.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2020-07-26T01:18:24.175+0000"
+  } ]
+}

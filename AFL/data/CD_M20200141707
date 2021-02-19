@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 140.0,
+      "handballs" : 131.0,
+      "disposals" : 271.0,
+      "marks" : 58.0,
+      "bounces" : 1.0,
+      "tackles" : 71.0,
+      "contestedPossessions" : 103.0,
+      "uncontestedPossessions" : 169.0,
+      "totalPossessions" : 272.0,
+      "inside50s" : 33.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 47.0,
+      "onePercenters" : 51.0,
+      "disposalEfficiency" : 71.2,
+      "clangers" : 33.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1203.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 25.0
+      },
+      "rebound50s" : 31.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 75.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-26T00:00:11.062+0000",
+      "turnovers" : 59.0,
+      "intercepts" : 52.0,
+      "tacklesInside50" : 14.0,
+      "shotsAtGoal" : 8.0,
+      "goalEfficiency" : 18.2,
+      "shotEfficiency" : 24.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 73.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 16.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "HAW",
+      "teamName" : "Hawthorn",
+      "teamNickname" : "Hawks"
+    },
+    "teamId" : "CD_T80",
+    "lastUpdated" : "2020-10-26T00:00:11.062+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 192.0,
+      "handballs" : 157.0,
+      "disposals" : 349.0,
+      "marks" : 84.0,
+      "bounces" : 0.0,
+      "tackles" : 65.0,
+      "contestedPossessions" : 131.0,
+      "uncontestedPossessions" : 225.0,
+      "totalPossessions" : 356.0,
+      "inside50s" : 42.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 24.0,
+      "onePercenters" : 61.0,
+      "disposalEfficiency" : 73.1,
+      "clangers" : 36.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 1487.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 34.0
+      },
+      "rebound50s" : 26.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 45.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-26T00:00:11.062+0000",
+      "turnovers" : 52.0,
+      "intercepts" : 59.0,
+      "tacklesInside50" : 14.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 26.2,
+      "shotEfficiency" : 57.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 64.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 15.0,
+        "interchangeCountQ2" : 14.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 14.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2020-10-26T00:00:11.062+0000"
+  } ]
+}

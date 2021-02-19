@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 155.0,
+      "handballs" : 109.0,
+      "disposals" : 264.0,
+      "marks" : 51.0,
+      "bounces" : 0.0,
+      "tackles" : 52.0,
+      "contestedPossessions" : 120.0,
+      "uncontestedPossessions" : 142.0,
+      "totalPossessions" : 262.0,
+      "inside50s" : 41.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 44.0,
+      "onePercenters" : 47.0,
+      "disposalEfficiency" : 68.9,
+      "clangers" : 50.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 19.0,
+      "dreamTeamPoints" : 1100.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 22.0
+      },
+      "rebound50s" : 33.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 41.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-26T10:43:32.718+0000",
+      "turnovers" : 63.0,
+      "intercepts" : 64.0,
+      "tacklesInside50" : 12.0,
+      "shotsAtGoal" : 17.0,
+      "goalEfficiency" : 17.1,
+      "shotEfficiency" : 41.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 79.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 17.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "MELB",
+      "teamName" : "Melbourne",
+      "teamNickname" : "Demons"
+    },
+    "teamId" : "CD_T90",
+    "lastUpdated" : "2020-07-26T10:43:32.718+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 11.0,
+      "superGoals" : null,
+      "kicks" : 188.0,
+      "handballs" : 103.0,
+      "disposals" : 291.0,
+      "marks" : 79.0,
+      "bounces" : 5.0,
+      "tackles" : 57.0,
+      "contestedPossessions" : 125.0,
+      "uncontestedPossessions" : 164.0,
+      "totalPossessions" : 289.0,
+      "inside50s" : 42.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 18.0,
+      "onePercenters" : 51.0,
+      "disposalEfficiency" : 66.7,
+      "clangers" : 49.0,
+      "freesFor" : 19.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1260.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 33.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 25.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-26T10:43:32.718+0000",
+      "turnovers" : 64.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 13.0,
+      "shotsAtGoal" : 27.0,
+      "goalEfficiency" : 16.7,
+      "shotEfficiency" : 64.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 66.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 13.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2020-07-26T10:43:32.718+0000"
+  } ]
+}

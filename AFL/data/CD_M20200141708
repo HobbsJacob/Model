@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 178.0,
+      "handballs" : 112.0,
+      "disposals" : 290.0,
+      "marks" : 56.0,
+      "bounces" : 4.0,
+      "tackles" : 50.0,
+      "contestedPossessions" : 127.0,
+      "uncontestedPossessions" : 155.0,
+      "totalPossessions" : 282.0,
+      "inside50s" : 42.0,
+      "marksInside50" : 6.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 20.0,
+      "onePercenters" : 41.0,
+      "disposalEfficiency" : 67.9,
+      "clangers" : 53.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1158.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 27.0,
+        "totalClearances" : 37.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 37.5,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-26T00:04:53.895+0000",
+      "turnovers" : 62.0,
+      "intercepts" : 56.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 16.0,
+      "goalEfficiency" : 14.3,
+      "shotEfficiency" : 38.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 74.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 17.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "SYD",
+      "teamName" : "Sydney Swans",
+      "teamNickname" : "Swans"
+    },
+    "teamId" : "CD_T160",
+    "lastUpdated" : "2020-10-26T00:04:53.895+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 177.0,
+      "handballs" : 80.0,
+      "disposals" : 257.0,
+      "marks" : 58.0,
+      "bounces" : 1.0,
+      "tackles" : 55.0,
+      "contestedPossessions" : 119.0,
+      "uncontestedPossessions" : 132.0,
+      "totalPossessions" : 251.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 34.0,
+      "onePercenters" : 35.0,
+      "disposalEfficiency" : 68.1,
+      "clangers" : 50.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1151.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 26.0,
+        "totalClearances" : 34.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 61.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-26T00:04:53.895+0000",
+      "turnovers" : 56.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 18.0,
+      "goalEfficiency" : 23.9,
+      "shotEfficiency" : 39.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 16.0,
+        "interchangeCountQ4" : 29.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2020-10-26T00:04:53.895+0000"
+  } ]
+}

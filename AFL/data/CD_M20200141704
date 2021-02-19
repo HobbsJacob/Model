@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 13.0,
+      "superGoals" : null,
+      "kicks" : 196.0,
+      "handballs" : 143.0,
+      "disposals" : 339.0,
+      "marks" : 66.0,
+      "bounces" : 3.0,
+      "tackles" : 65.0,
+      "contestedPossessions" : 128.0,
+      "uncontestedPossessions" : 196.0,
+      "totalPossessions" : 324.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 12.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 32.0,
+      "onePercenters" : 49.0,
+      "disposalEfficiency" : 69.6,
+      "clangers" : 54.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1416.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 34.0
+      },
+      "rebound50s" : 27.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 44.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-25T23:42:24.499+0000",
+      "turnovers" : 61.0,
+      "intercepts" : 70.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 25.0,
+      "goalEfficiency" : 24.4,
+      "shotEfficiency" : 55.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 77.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    },
+    "teamId" : "CD_T110",
+    "lastUpdated" : "2020-10-25T23:42:24.499+0000"
+  }, {
+    "stats" : {
+      "goals" : 4.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 165.0,
+      "handballs" : 117.0,
+      "disposals" : 282.0,
+      "marks" : 44.0,
+      "bounces" : 0.0,
+      "tackles" : 53.0,
+      "contestedPossessions" : 121.0,
+      "uncontestedPossessions" : 144.0,
+      "totalPossessions" : 265.0,
+      "inside50s" : 32.0,
+      "marksInside50" : 3.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 35.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 67.4,
+      "clangers" : 51.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1088.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 34.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 30.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-25T23:42:24.499+0000",
+      "turnovers" : 70.0,
+      "intercepts" : 62.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 13.0,
+      "goalEfficiency" : 12.5,
+      "shotEfficiency" : 40.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 85.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 27.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2020-10-25T23:42:24.499+0000"
+  } ]
+}

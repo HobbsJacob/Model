@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 163.0,
+      "handballs" : 108.0,
+      "disposals" : 271.0,
+      "marks" : 75.0,
+      "bounces" : 0.0,
+      "tackles" : 42.0,
+      "contestedPossessions" : 108.0,
+      "uncontestedPossessions" : 157.0,
+      "totalPossessions" : 265.0,
+      "inside50s" : 38.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 20.0,
+      "onePercenters" : 40.0,
+      "disposalEfficiency" : 70.1,
+      "clangers" : 35.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1144.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 15.0,
+        "totalClearances" : 23.0
+      },
+      "rebound50s" : 31.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 28.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T03:24:40.418+0000",
+      "turnovers" : 55.0,
+      "intercepts" : 57.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 21.0,
+      "goalEfficiency" : 15.8,
+      "shotEfficiency" : 55.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 70.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 17.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 13.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2020-10-20T03:24:40.418+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 166.0,
+      "handballs" : 105.0,
+      "disposals" : 271.0,
+      "marks" : 63.0,
+      "bounces" : 12.0,
+      "tackles" : 68.0,
+      "contestedPossessions" : 109.0,
+      "uncontestedPossessions" : 155.0,
+      "totalPossessions" : 264.0,
+      "inside50s" : 39.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 30.0,
+      "onePercenters" : 30.0,
+      "disposalEfficiency" : 69.4,
+      "clangers" : 42.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1225.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 26.0
+      },
+      "rebound50s" : 31.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 41.2,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T03:24:40.418+0000",
+      "turnovers" : 57.0,
+      "intercepts" : 55.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 17.0,
+      "goalEfficiency" : 17.9,
+      "shotEfficiency" : 43.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 70.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 11.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "STK",
+      "teamName" : "St Kilda",
+      "teamNickname" : "Saints"
+    },
+    "teamId" : "CD_T130",
+    "lastUpdated" : "2020-10-20T03:24:40.418+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 210.0,
+      "handballs" : 121.0,
+      "disposals" : 331.0,
+      "marks" : 108.0,
+      "bounces" : 2.0,
+      "tackles" : 49.0,
+      "contestedPossessions" : 128.0,
+      "uncontestedPossessions" : 208.0,
+      "totalPossessions" : 336.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 18.0,
+      "contestedMarks" : 17.0,
+      "hitouts" : 20.0,
+      "onePercenters" : 54.0,
+      "disposalEfficiency" : 75.5,
+      "clangers" : 49.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1461.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 33.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 58.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T02:19:31.043+0000",
+      "turnovers" : 57.0,
+      "intercepts" : 57.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 29.8,
+      "shotEfficiency" : 51.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 17.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2020-10-20T02:19:31.043+0000"
+  }, {
+    "stats" : {
+      "goals" : 4.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 157.0,
+      "handballs" : 95.0,
+      "disposals" : 252.0,
+      "marks" : 53.0,
+      "bounces" : 0.0,
+      "tackles" : 50.0,
+      "contestedPossessions" : 105.0,
+      "uncontestedPossessions" : 140.0,
+      "totalPossessions" : 245.0,
+      "inside50s" : 37.0,
+      "marksInside50" : 2.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 32.0,
+      "onePercenters" : 31.0,
+      "disposalEfficiency" : 68.3,
+      "clangers" : 38.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 1060.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 2.0,
+      "goalAccuracy" : 36.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T02:19:31.043+0000",
+      "turnovers" : 57.0,
+      "intercepts" : 57.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 11.0,
+      "goalEfficiency" : 10.8,
+      "shotEfficiency" : 29.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 86.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 19.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 26.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    },
+    "teamId" : "CD_T110",
+    "lastUpdated" : "2020-10-20T02:19:31.043+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 191.0,
+      "handballs" : 91.0,
+      "disposals" : 282.0,
+      "marks" : 107.0,
+      "bounces" : 1.0,
+      "tackles" : 26.0,
+      "contestedPossessions" : 104.0,
+      "uncontestedPossessions" : 180.0,
+      "totalPossessions" : 284.0,
+      "inside50s" : 32.0,
+      "marksInside50" : 9.0,
+      "contestedMarks" : 17.0,
+      "hitouts" : 33.0,
+      "onePercenters" : 46.0,
+      "disposalEfficiency" : 75.5,
+      "clangers" : 38.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1253.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 14.0,
+        "totalClearances" : 25.0
+      },
+      "rebound50s" : 34.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 56.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-25T22:36:18.280+0000",
+      "turnovers" : 55.0,
+      "intercepts" : 56.0,
+      "tacklesInside50" : 3.0,
+      "shotsAtGoal" : 16.0,
+      "goalEfficiency" : 28.1,
+      "shotEfficiency" : 50.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 73.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 16.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2020-10-25T22:36:18.280+0000"
+  }, {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 174.0,
+      "handballs" : 152.0,
+      "disposals" : 326.0,
+      "marks" : 80.0,
+      "bounces" : 3.0,
+      "tackles" : 38.0,
+      "contestedPossessions" : 101.0,
+      "uncontestedPossessions" : 213.0,
+      "totalPossessions" : 314.0,
+      "inside50s" : 41.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 5.0,
+      "hitouts" : 20.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 73.6,
+      "clangers" : 32.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1249.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 22.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 35.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-25T22:36:18.280+0000",
+      "turnovers" : 56.0,
+      "intercepts" : 55.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 17.0,
+      "goalEfficiency" : 14.6,
+      "shotEfficiency" : 41.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 75.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 0.0,
+        "interchangeCountQ4" : 28.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2020-10-25T22:36:18.280+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 161.0,
+      "handballs" : 142.0,
+      "disposals" : 303.0,
+      "marks" : 76.0,
+      "bounces" : 6.0,
+      "tackles" : 38.0,
+      "contestedPossessions" : 93.0,
+      "uncontestedPossessions" : 197.0,
+      "totalPossessions" : 290.0,
+      "inside50s" : 43.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 36.0,
+      "onePercenters" : 25.0,
+      "disposalEfficiency" : 74.6,
+      "clangers" : 51.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 17.0,
+      "dreamTeamPoints" : 1194.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 10.0,
+        "totalClearances" : 23.0
+      },
+      "rebound50s" : 34.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 36.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-17T12:43:24.113+0000",
+      "turnovers" : 52.0,
+      "intercepts" : 54.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 19.0,
+      "goalEfficiency" : 16.3,
+      "shotEfficiency" : 44.2,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 67.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 15.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2020-07-17T12:43:24.113+0000"
+  }, {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 180.0,
+      "handballs" : 135.0,
+      "disposals" : 315.0,
+      "marks" : 73.0,
+      "bounces" : 0.0,
+      "tackles" : 44.0,
+      "contestedPossessions" : 128.0,
+      "uncontestedPossessions" : 174.0,
+      "totalPossessions" : 302.0,
+      "inside50s" : 48.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 16.0,
+      "onePercenters" : 33.0,
+      "disposalEfficiency" : 69.8,
+      "clangers" : 42.0,
+      "freesFor" : 17.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1292.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 30.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-17T12:43:24.113+0000",
+      "turnovers" : 54.0,
+      "intercepts" : 53.0,
+      "tacklesInside50" : 6.0,
+      "shotsAtGoal" : 28.0,
+      "goalEfficiency" : 29.2,
+      "shotEfficiency" : 58.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 18.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2020-07-17T12:43:24.113+0000"
+  } ]
+}

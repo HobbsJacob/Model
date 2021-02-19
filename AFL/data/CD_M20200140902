@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 147.0,
+      "handballs" : 98.0,
+      "disposals" : 245.0,
+      "marks" : 53.0,
+      "bounces" : 3.0,
+      "tackles" : 56.0,
+      "contestedPossessions" : 109.0,
+      "uncontestedPossessions" : 125.0,
+      "totalPossessions" : 234.0,
+      "inside50s" : 36.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 12.0,
+      "hitouts" : 18.0,
+      "onePercenters" : 35.0,
+      "disposalEfficiency" : 68.6,
+      "clangers" : 46.0,
+      "freesFor" : 24.0,
+      "freesAgainst" : 21.0,
+      "dreamTeamPoints" : 1056.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 24.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 27.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 64.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-08-02T13:05:07.543+0000",
+      "turnovers" : 62.0,
+      "intercepts" : 49.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 14.0,
+      "goalEfficiency" : 25.0,
+      "shotEfficiency" : 38.9,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 80.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 26.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 16.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "CARL",
+      "teamName" : "Carlton",
+      "teamNickname" : "Blues"
+    },
+    "teamId" : "CD_T30",
+    "lastUpdated" : "2020-08-02T13:05:07.543+0000"
+  }, {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 167.0,
+      "handballs" : 120.0,
+      "disposals" : 287.0,
+      "marks" : 68.0,
+      "bounces" : 3.0,
+      "tackles" : 42.0,
+      "contestedPossessions" : 121.0,
+      "uncontestedPossessions" : 175.0,
+      "totalPossessions" : 296.0,
+      "inside50s" : 42.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 42.0,
+      "onePercenters" : 36.0,
+      "disposalEfficiency" : 72.1,
+      "clangers" : 50.0,
+      "freesFor" : 21.0,
+      "freesAgainst" : 24.0,
+      "dreamTeamPoints" : 1193.0,
+      "clearances" : {
+        "centreClearances" : 13.0,
+        "stoppageClearances" : 10.0,
+        "totalClearances" : 23.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 60.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-08-02T13:05:07.543+0000",
+      "turnovers" : 49.0,
+      "intercepts" : 62.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 23.0,
+      "goalEfficiency" : 33.3,
+      "shotEfficiency" : 54.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "HAW",
+      "teamName" : "Hawthorn",
+      "teamNickname" : "Hawks"
+    },
+    "teamId" : "CD_T80",
+    "lastUpdated" : "2020-08-02T13:05:07.543+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 17.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 194.0,
+      "handballs" : 129.0,
+      "disposals" : 323.0,
+      "marks" : 101.0,
+      "bounces" : 5.0,
+      "tackles" : 51.0,
+      "contestedPossessions" : 120.0,
+      "uncontestedPossessions" : 202.0,
+      "totalPossessions" : 322.0,
+      "inside50s" : 45.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 23.0,
+      "onePercenters" : 33.0,
+      "disposalEfficiency" : 75.9,
+      "clangers" : 36.0,
+      "freesFor" : 16.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1460.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 13.0,
+      "goalAccuracy" : 70.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-25T23:00:31.404+0000",
+      "turnovers" : 42.0,
+      "intercepts" : 39.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 24.0,
+      "goalEfficiency" : 37.8,
+      "shotEfficiency" : 53.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 78.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2020-10-25T23:00:31.404+0000"
+  }, {
+    "stats" : {
+      "goals" : 5.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 141.0,
+      "handballs" : 112.0,
+      "disposals" : 253.0,
+      "marks" : 54.0,
+      "bounces" : 2.0,
+      "tackles" : 49.0,
+      "contestedPossessions" : 107.0,
+      "uncontestedPossessions" : 143.0,
+      "totalPossessions" : 250.0,
+      "inside50s" : 30.0,
+      "marksInside50" : 11.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 29.0,
+      "onePercenters" : 29.0,
+      "disposalEfficiency" : 65.6,
+      "clangers" : 39.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 16.0,
+      "dreamTeamPoints" : 1038.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 14.0,
+        "totalClearances" : 22.0
+      },
+      "rebound50s" : 28.0,
+      "goalAssists" : 4.0,
+      "goalAccuracy" : 25.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-25T23:00:31.404+0000",
+      "turnovers" : 40.0,
+      "intercepts" : 43.0,
+      "tacklesInside50" : 11.0,
+      "shotsAtGoal" : 20.0,
+      "goalEfficiency" : 16.7,
+      "shotEfficiency" : 66.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 16.0,
+        "interchangeCountQ4" : 22.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2020-10-25T23:00:31.404+0000"
+  } ]
+}

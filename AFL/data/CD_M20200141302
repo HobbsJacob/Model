@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 12.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 177.0,
+      "handballs" : 150.0,
+      "disposals" : 327.0,
+      "marks" : 74.0,
+      "bounces" : 4.0,
+      "tackles" : 49.0,
+      "contestedPossessions" : 112.0,
+      "uncontestedPossessions" : 210.0,
+      "totalPossessions" : 322.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 13.0,
+      "onePercenters" : 43.0,
+      "disposalEfficiency" : 73.4,
+      "clangers" : 43.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1320.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 15.0,
+        "totalClearances" : 25.0
+      },
+      "rebound50s" : 37.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 48.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T03:10:50.749+0000",
+      "turnovers" : 63.0,
+      "intercepts" : 66.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 25.0,
+      "goalEfficiency" : 27.3,
+      "shotEfficiency" : 56.8,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 82.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 23.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2020-10-20T03:10:50.749+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 171.0,
+      "handballs" : 113.0,
+      "disposals" : 284.0,
+      "marks" : 77.0,
+      "bounces" : 1.0,
+      "tackles" : 46.0,
+      "contestedPossessions" : 114.0,
+      "uncontestedPossessions" : 170.0,
+      "totalPossessions" : 284.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 10.0,
+      "hitouts" : 42.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 70.1,
+      "clangers" : 53.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1226.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 16.0,
+        "totalClearances" : 27.0
+      },
+      "rebound50s" : 30.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 31.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T03:10:50.749+0000",
+      "turnovers" : 66.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 22.0,
+      "goalEfficiency" : 15.9,
+      "shotEfficiency" : 50.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 76.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 21.0,
+        "interchangeCountQ4" : 16.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "MELB",
+      "teamName" : "Melbourne",
+      "teamNickname" : "Demons"
+    },
+    "teamId" : "CD_T90",
+    "lastUpdated" : "2020-10-20T03:10:50.749+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 15.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 227.0,
+      "handballs" : 129.0,
+      "disposals" : 356.0,
+      "marks" : 134.0,
+      "bounces" : 1.0,
+      "tackles" : 48.0,
+      "contestedPossessions" : 107.0,
+      "uncontestedPossessions" : 252.0,
+      "totalPossessions" : 359.0,
+      "inside50s" : 46.0,
+      "marksInside50" : 17.0,
+      "contestedMarks" : 14.0,
+      "hitouts" : 19.0,
+      "onePercenters" : 37.0,
+      "disposalEfficiency" : 80.6,
+      "clangers" : 38.0,
+      "freesFor" : 13.0,
+      "freesAgainst" : 10.0,
+      "dreamTeamPoints" : 1632.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 22.0,
+        "totalClearances" : 34.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 12.0,
+      "goalAccuracy" : 57.7,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-13T00:34:11.709+0000",
+      "turnovers" : 44.0,
+      "intercepts" : 54.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 32.6,
+      "shotEfficiency" : 56.5,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 89.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 23.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 28.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GEEL",
+      "teamName" : "Geelong Cats",
+      "teamNickname" : "Cats"
+    },
+    "teamId" : "CD_T70",
+    "lastUpdated" : "2020-10-13T00:34:11.709+0000"
+  }, {
+    "stats" : {
+      "goals" : 5.0,
+      "behinds" : 2.0,
+      "superGoals" : null,
+      "kicks" : 120.0,
+      "handballs" : 80.0,
+      "disposals" : 200.0,
+      "marks" : 46.0,
+      "bounces" : 2.0,
+      "tackles" : 50.0,
+      "contestedPossessions" : 85.0,
+      "uncontestedPossessions" : 110.0,
+      "totalPossessions" : 195.0,
+      "inside50s" : 30.0,
+      "marksInside50" : 5.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 37.0,
+      "onePercenters" : 36.0,
+      "disposalEfficiency" : 63.5,
+      "clangers" : 48.0,
+      "freesFor" : 10.0,
+      "freesAgainst" : 13.0,
+      "dreamTeamPoints" : 898.0,
+      "clearances" : {
+        "centreClearances" : 9.0,
+        "stoppageClearances" : 12.0,
+        "totalClearances" : 21.0
+      },
+      "rebound50s" : 28.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 50.0,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-13T00:34:11.709+0000",
+      "turnovers" : 53.0,
+      "intercepts" : 44.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 10.0,
+      "goalEfficiency" : 16.7,
+      "shotEfficiency" : 33.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 89.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 24.0,
+        "interchangeCountQ3" : 13.0,
+        "interchangeCountQ4" : 31.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "COLL",
+      "teamName" : "Collingwood",
+      "teamNickname" : "Magpies"
+    },
+    "teamId" : "CD_T40",
+    "lastUpdated" : "2020-10-13T00:34:11.709+0000"
+  } ]
+}

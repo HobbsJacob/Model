@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 171.0,
+      "handballs" : 150.0,
+      "disposals" : 321.0,
+      "marks" : 79.0,
+      "bounces" : 9.0,
+      "tackles" : 43.0,
+      "contestedPossessions" : 100.0,
+      "uncontestedPossessions" : 220.0,
+      "totalPossessions" : 320.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 17.0,
+      "onePercenters" : 32.0,
+      "disposalEfficiency" : 82.2,
+      "clangers" : 38.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 15.0,
+      "dreamTeamPoints" : 1254.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 17.0,
+        "totalClearances" : 22.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 43.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-26T00:24:00.093+0000",
+      "turnovers" : 53.0,
+      "intercepts" : 52.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 16.0,
+      "goalEfficiency" : 15.9,
+      "shotEfficiency" : 36.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 81.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 24.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "ESS",
+      "teamName" : "Essendon",
+      "teamNickname" : "Bombers"
+    },
+    "teamId" : "CD_T50",
+    "lastUpdated" : "2020-10-26T00:24:00.093+0000"
+  }, {
+    "stats" : {
+      "goals" : 10.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 200.0,
+      "handballs" : 110.0,
+      "disposals" : 310.0,
+      "marks" : 117.0,
+      "bounces" : 3.0,
+      "tackles" : 25.0,
+      "contestedPossessions" : 99.0,
+      "uncontestedPossessions" : 209.0,
+      "totalPossessions" : 308.0,
+      "inside50s" : 39.0,
+      "marksInside50" : 13.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 28.0,
+      "onePercenters" : 46.0,
+      "disposalEfficiency" : 77.7,
+      "clangers" : 32.0,
+      "freesFor" : 15.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1345.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 10.0,
+        "totalClearances" : 22.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 52.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-26T00:24:00.093+0000",
+      "turnovers" : 52.0,
+      "intercepts" : 53.0,
+      "tacklesInside50" : 3.0,
+      "shotsAtGoal" : 19.0,
+      "goalEfficiency" : 25.6,
+      "shotEfficiency" : 48.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 84.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 21.0,
+        "interchangeCountQ2" : 24.0,
+        "interchangeCountQ3" : 19.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "MELB",
+      "teamName" : "Melbourne",
+      "teamNickname" : "Demons"
+    },
+    "teamId" : "CD_T90",
+    "lastUpdated" : "2020-10-26T00:24:00.093+0000"
+  } ]
+}

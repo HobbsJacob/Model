@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 173.0,
+      "handballs" : 87.0,
+      "disposals" : 260.0,
+      "marks" : 92.0,
+      "bounces" : 7.0,
+      "tackles" : 41.0,
+      "contestedPossessions" : 98.0,
+      "uncontestedPossessions" : 167.0,
+      "totalPossessions" : 265.0,
+      "inside50s" : 36.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 13.0,
+      "hitouts" : 36.0,
+      "onePercenters" : 56.0,
+      "disposalEfficiency" : 73.8,
+      "clangers" : 35.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 1215.0,
+      "clearances" : {
+        "centreClearances" : 6.0,
+        "stoppageClearances" : 23.0,
+        "totalClearances" : 29.0
+      },
+      "rebound50s" : 32.0,
+      "goalAssists" : 6.0,
+      "goalAccuracy" : 56.3,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T03:20:27.413+0000",
+      "turnovers" : 51.0,
+      "intercepts" : 53.0,
+      "tacklesInside50" : 4.0,
+      "shotsAtGoal" : 16.0,
+      "goalEfficiency" : 25.0,
+      "shotEfficiency" : 44.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 69.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 16.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WCE",
+      "teamName" : "West Coast Eagles",
+      "teamNickname" : "Eagles"
+    },
+    "teamId" : "CD_T150",
+    "lastUpdated" : "2020-10-20T03:20:27.413+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 7.0,
+      "superGoals" : null,
+      "kicks" : 182.0,
+      "handballs" : 149.0,
+      "disposals" : 331.0,
+      "marks" : 93.0,
+      "bounces" : 3.0,
+      "tackles" : 47.0,
+      "contestedPossessions" : 116.0,
+      "uncontestedPossessions" : 224.0,
+      "totalPossessions" : 340.0,
+      "inside50s" : 41.0,
+      "marksInside50" : 8.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 26.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 73.1,
+      "clangers" : 41.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1359.0,
+      "clearances" : {
+        "centreClearances" : 12.0,
+        "stoppageClearances" : 21.0,
+        "totalClearances" : 33.0
+      },
+      "rebound50s" : 26.0,
+      "goalAssists" : 7.0,
+      "goalAccuracy" : 36.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T03:20:27.413+0000",
+      "turnovers" : 53.0,
+      "intercepts" : 51.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 19.0,
+      "goalEfficiency" : 17.1,
+      "shotEfficiency" : 46.3,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 72.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 18.0,
+        "interchangeCountQ2" : 17.0,
+        "interchangeCountQ3" : 20.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GWS",
+      "teamName" : "GWS Giants",
+      "teamNickname" : "Giants"
+    },
+    "teamId" : "CD_T1010",
+    "lastUpdated" : "2020-10-20T03:20:27.413+0000"
+  } ]
+}

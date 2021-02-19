@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 14.0,
+      "behinds" : 12.0,
+      "superGoals" : null,
+      "kicks" : 182.0,
+      "handballs" : 108.0,
+      "disposals" : 290.0,
+      "marks" : 72.0,
+      "bounces" : 1.0,
+      "tackles" : 50.0,
+      "contestedPossessions" : 113.0,
+      "uncontestedPossessions" : 171.0,
+      "totalPossessions" : 284.0,
+      "inside50s" : 53.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 6.0,
+      "hitouts" : 43.0,
+      "onePercenters" : 42.0,
+      "disposalEfficiency" : 72.8,
+      "clangers" : 36.0,
+      "freesFor" : 9.0,
+      "freesAgainst" : 12.0,
+      "dreamTeamPoints" : 1286.0,
+      "clearances" : {
+        "centreClearances" : 18.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 36.0,
+      "goalAssists" : 9.0,
+      "goalAccuracy" : 53.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T01:40:25.893+0000",
+      "turnovers" : 44.0,
+      "intercepts" : 49.0,
+      "tacklesInside50" : 20.0,
+      "shotsAtGoal" : 26.0,
+      "goalEfficiency" : 26.4,
+      "shotEfficiency" : 49.1,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 79.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 23.0,
+        "interchangeCountQ3" : 18.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "BL",
+      "teamName" : "Brisbane Lions",
+      "teamNickname" : "Lions"
+    },
+    "teamId" : "CD_T20",
+    "lastUpdated" : "2020-10-20T01:40:25.893+0000"
+  }, {
+    "stats" : {
+      "goals" : 11.0,
+      "behinds" : 6.0,
+      "superGoals" : null,
+      "kicks" : 159.0,
+      "handballs" : 150.0,
+      "disposals" : 309.0,
+      "marks" : 64.0,
+      "bounces" : 4.0,
+      "tackles" : 47.0,
+      "contestedPossessions" : 120.0,
+      "uncontestedPossessions" : 188.0,
+      "totalPossessions" : 308.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 10.0,
+      "contestedMarks" : 8.0,
+      "hitouts" : 22.0,
+      "onePercenters" : 43.0,
+      "disposalEfficiency" : 73.8,
+      "clangers" : 43.0,
+      "freesFor" : 12.0,
+      "freesAgainst" : 9.0,
+      "dreamTeamPoints" : 1234.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 15.0,
+        "totalClearances" : 25.0
+      },
+      "rebound50s" : 38.0,
+      "goalAssists" : 8.0,
+      "goalAccuracy" : 68.8,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T01:40:25.893+0000",
+      "turnovers" : 49.0,
+      "intercepts" : 45.0,
+      "tacklesInside50" : 9.0,
+      "shotsAtGoal" : 16.0,
+      "goalEfficiency" : 23.4,
+      "shotEfficiency" : 34.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 87.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 24.0,
+        "interchangeCountQ2" : 21.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 20.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2020-10-20T01:40:25.893+0000"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 14.0,
+      "superGoals" : null,
+      "kicks" : 179.0,
+      "handballs" : 156.0,
+      "disposals" : 335.0,
+      "marks" : 69.0,
+      "bounces" : 3.0,
+      "tackles" : 61.0,
+      "contestedPossessions" : 127.0,
+      "uncontestedPossessions" : 208.0,
+      "totalPossessions" : 335.0,
+      "inside50s" : 44.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 26.0,
+      "onePercenters" : 50.0,
+      "disposalEfficiency" : 73.4,
+      "clangers" : 40.0,
+      "freesFor" : 20.0,
+      "freesAgainst" : 8.0,
+      "dreamTeamPoints" : 1388.0,
+      "clearances" : {
+        "centreClearances" : 10.0,
+        "stoppageClearances" : 25.0,
+        "totalClearances" : 35.0
+      },
+      "rebound50s" : 30.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 32.1,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T03:01:37.021+0000",
+      "turnovers" : 55.0,
+      "intercepts" : 55.0,
+      "tacklesInside50" : 10.0,
+      "shotsAtGoal" : 28.0,
+      "goalEfficiency" : 20.5,
+      "shotEfficiency" : 63.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 79.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 22.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 18.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "PORT",
+      "teamName" : "Port Adelaide",
+      "teamNickname" : "Power"
+    },
+    "teamId" : "CD_T110",
+    "lastUpdated" : "2020-10-20T03:01:37.021+0000"
+  }, {
+    "stats" : {
+      "goals" : 9.0,
+      "behinds" : 4.0,
+      "superGoals" : null,
+      "kicks" : 157.0,
+      "handballs" : 117.0,
+      "disposals" : 274.0,
+      "marks" : 54.0,
+      "bounces" : 2.0,
+      "tackles" : 56.0,
+      "contestedPossessions" : 111.0,
+      "uncontestedPossessions" : 153.0,
+      "totalPossessions" : 264.0,
+      "inside50s" : 39.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 39.0,
+      "onePercenters" : 49.0,
+      "disposalEfficiency" : 69.0,
+      "clangers" : 54.0,
+      "freesFor" : 8.0,
+      "freesAgainst" : 20.0,
+      "dreamTeamPoints" : 1135.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 19.0,
+        "totalClearances" : 26.0
+      },
+      "rebound50s" : 35.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 52.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T03:01:37.021+0000",
+      "turnovers" : 54.0,
+      "intercepts" : 55.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 17.0,
+      "goalEfficiency" : 23.1,
+      "shotEfficiency" : 43.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 74.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 22.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 17.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "HAW",
+      "teamName" : "Hawthorn",
+      "teamNickname" : "Hawks"
+    },
+    "teamId" : "CD_T80",
+    "lastUpdated" : "2020-10-20T03:01:37.021+0000"
+  } ]
+}

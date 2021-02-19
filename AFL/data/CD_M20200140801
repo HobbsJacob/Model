@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 6.0,
+      "behinds" : 10.0,
+      "superGoals" : null,
+      "kicks" : 190.0,
+      "handballs" : 101.0,
+      "disposals" : 291.0,
+      "marks" : 62.0,
+      "bounces" : 3.0,
+      "tackles" : 61.0,
+      "contestedPossessions" : 130.0,
+      "uncontestedPossessions" : 147.0,
+      "totalPossessions" : 277.0,
+      "inside50s" : 47.0,
+      "marksInside50" : 7.0,
+      "contestedMarks" : 7.0,
+      "hitouts" : 48.0,
+      "onePercenters" : 44.0,
+      "disposalEfficiency" : 66.3,
+      "clangers" : 51.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1257.0,
+      "clearances" : {
+        "centreClearances" : 5.0,
+        "stoppageClearances" : 31.0,
+        "totalClearances" : 36.0
+      },
+      "rebound50s" : 29.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 31.6,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-26T01:08:11.387+0000",
+      "turnovers" : 71.0,
+      "intercepts" : 75.0,
+      "tacklesInside50" : 8.0,
+      "shotsAtGoal" : 19.0,
+      "goalEfficiency" : 12.8,
+      "shotEfficiency" : 40.4,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 77.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 20.0,
+        "interchangeCountQ2" : 16.0,
+        "interchangeCountQ3" : 22.0,
+        "interchangeCountQ4" : 19.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GCFC",
+      "teamName" : "Gold Coast Suns",
+      "teamNickname" : "Suns"
+    },
+    "teamId" : "CD_T1000",
+    "lastUpdated" : "2020-07-26T01:08:11.387+0000"
+  }, {
+    "stats" : {
+      "goals" : 7.0,
+      "behinds" : 9.0,
+      "superGoals" : null,
+      "kicks" : 180.0,
+      "handballs" : 134.0,
+      "disposals" : 314.0,
+      "marks" : 53.0,
+      "bounces" : 2.0,
+      "tackles" : 52.0,
+      "contestedPossessions" : 128.0,
+      "uncontestedPossessions" : 179.0,
+      "totalPossessions" : 307.0,
+      "inside50s" : 37.0,
+      "marksInside50" : 4.0,
+      "contestedMarks" : 4.0,
+      "hitouts" : 18.0,
+      "onePercenters" : 60.0,
+      "disposalEfficiency" : 69.1,
+      "clangers" : 49.0,
+      "freesFor" : 18.0,
+      "freesAgainst" : 18.0,
+      "dreamTeamPoints" : 1204.0,
+      "clearances" : {
+        "centreClearances" : 11.0,
+        "stoppageClearances" : 20.0,
+        "totalClearances" : 31.0
+      },
+      "rebound50s" : 41.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 38.9,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-07-26T01:08:11.387+0000",
+      "turnovers" : 75.0,
+      "intercepts" : 71.0,
+      "tacklesInside50" : 4.0,
+      "shotsAtGoal" : 18.0,
+      "goalEfficiency" : 18.9,
+      "shotEfficiency" : 48.6,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 72.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 15.0,
+        "interchangeCountQ3" : 24.0,
+        "interchangeCountQ4" : 14.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "WB",
+      "teamName" : "Western Bulldogs",
+      "teamNickname" : "Bulldogs"
+    },
+    "teamId" : "CD_T140",
+    "lastUpdated" : "2020-07-26T01:08:11.387+0000"
+  } ]
+}

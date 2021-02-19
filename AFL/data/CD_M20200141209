@@ -1,0 +1,121 @@
+{
+  "teamStats" : [ {
+    "stats" : {
+      "goals" : 8.0,
+      "behinds" : 5.0,
+      "superGoals" : null,
+      "kicks" : 175.0,
+      "handballs" : 112.0,
+      "disposals" : 287.0,
+      "marks" : 86.0,
+      "bounces" : 5.0,
+      "tackles" : 58.0,
+      "contestedPossessions" : 119.0,
+      "uncontestedPossessions" : 166.0,
+      "totalPossessions" : 285.0,
+      "inside50s" : 54.0,
+      "marksInside50" : 14.0,
+      "contestedMarks" : 11.0,
+      "hitouts" : 26.0,
+      "onePercenters" : 32.0,
+      "disposalEfficiency" : 70.0,
+      "clangers" : 46.0,
+      "freesFor" : 11.0,
+      "freesAgainst" : 14.0,
+      "dreamTeamPoints" : 1286.0,
+      "clearances" : {
+        "centreClearances" : 7.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 25.0
+      },
+      "rebound50s" : 25.0,
+      "goalAssists" : 5.0,
+      "goalAccuracy" : 36.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T02:52:21.187+0000",
+      "turnovers" : 64.0,
+      "intercepts" : 63.0,
+      "tacklesInside50" : 5.0,
+      "shotsAtGoal" : 22.0,
+      "goalEfficiency" : 14.8,
+      "shotEfficiency" : 40.7,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 67.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 17.0,
+        "interchangeCountQ2" : 20.0,
+        "interchangeCountQ3" : 15.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "RICH",
+      "teamName" : "Richmond",
+      "teamNickname" : "Tigers"
+    },
+    "teamId" : "CD_T120",
+    "lastUpdated" : "2020-10-20T02:52:21.187+0000"
+  }, {
+    "stats" : {
+      "goals" : 4.0,
+      "behinds" : 8.0,
+      "superGoals" : null,
+      "kicks" : 156.0,
+      "handballs" : 102.0,
+      "disposals" : 258.0,
+      "marks" : 76.0,
+      "bounces" : 6.0,
+      "tackles" : 47.0,
+      "contestedPossessions" : 107.0,
+      "uncontestedPossessions" : 152.0,
+      "totalPossessions" : 259.0,
+      "inside50s" : 29.0,
+      "marksInside50" : 1.0,
+      "contestedMarks" : 9.0,
+      "hitouts" : 24.0,
+      "onePercenters" : 40.0,
+      "disposalEfficiency" : 67.1,
+      "clangers" : 42.0,
+      "freesFor" : 14.0,
+      "freesAgainst" : 11.0,
+      "dreamTeamPoints" : 1122.0,
+      "clearances" : {
+        "centreClearances" : 8.0,
+        "stoppageClearances" : 18.0,
+        "totalClearances" : 26.0
+      },
+      "rebound50s" : 44.0,
+      "goalAssists" : 3.0,
+      "goalAccuracy" : 44.4,
+      "ratingPoints" : null,
+      "ranking" : null,
+      "lastUpdated" : "2020-10-20T02:52:21.187+0000",
+      "turnovers" : 63.0,
+      "intercepts" : 64.0,
+      "tacklesInside50" : 7.0,
+      "shotsAtGoal" : 9.0,
+      "goalEfficiency" : 13.8,
+      "shotEfficiency" : 31.0,
+      "interchangeCounts" : {
+        "totalInterchangeCount" : 68.0,
+        "interchangeCap" : 90.0,
+        "interchangeCountQ1" : 19.0,
+        "interchangeCountQ2" : 17.0,
+        "interchangeCountQ3" : 17.0,
+        "interchangeCountQ4" : 15.0
+      },
+      "scoreInvolvements" : null,
+      "metresGained" : null
+    },
+    "teamName" : {
+      "teamAbbr" : "GCFC",
+      "teamName" : "Gold Coast Suns",
+      "teamNickname" : "Suns"
+    },
+    "teamId" : "CD_T1000",
+    "lastUpdated" : "2020-10-20T02:52:21.187+0000"
+  } ]
+}
