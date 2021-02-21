@@ -6,7 +6,7 @@ from math import sqrt
 from trueskill import Rating, BETA, global_env, rate_1vs1, TrueSkill
 from trueskill.backends import cdf
 
-headers = {'x-media-mis-token': '094342312a2c0d823e18df7c43a07264'}
+headers = {'x-media-mis-token': '7dadaab360b55276c9d5508f5f470d0a'}
 
 env = TrueSkill(draw_probability=0)
 env.make_as_global()
